@@ -1,5 +1,5 @@
 #location of the training file
-trainFile = jane-austen-emma-ch1.tsv
+trainFile = C:/Users/Thamayanthy/Desktop/FYP/project folders/stanford-ner-2014-10-26/sample/tsv/reviewlist.tsv
 #location where you would like to save (serialize to) your
 #classifier; adding .gz at the end automatically gzips the file,
 #making it faster and smaller

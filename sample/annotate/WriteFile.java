@@ -37,7 +37,7 @@ public class WriteFile {
 
         try {
 
-            File file = new File("sample/text/reviewlist.txt");
+            File file = new File("sample/text/reviewlist_test.txt");
             // if file doesnt exists, then create it
             if (!file.exists()) {
                 file.createNewFile();

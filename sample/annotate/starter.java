@@ -24,10 +24,25 @@ public class starter {
         WriteFile.writeTxt();
         BufferedReader br;
 
+
+        //to run the command line process
+//        List<String> commands = new ArrayList<String>();
+//        commands.add("cd \\.");
+//        commands.add("cd Users\\Thamayanthy\\Desktop\\FYP\\project folders\\stanford-ner-2014-10-26");
+//        commands.add("java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/text/reviewlist.txt > sample/tok/reviewlist.tok");
+//
+//        SystemCommandExecutor commandExecutor = new SystemCommandExecutor(commands);
+//        int result = commandExecutor.executeCommand();
+//
+//        StringBuilder stdout = commandExecutor.getStandardOutputFromCommand();
+//        StringBuilder stderr = commandExecutor.getStandardErrorFromCommand();
+
         try {
+//            br = new BufferedReader(new FileReader("sample/tok/reviewlist_test.tok"));
             br = new BufferedReader(new FileReader("sample/tok/reviewlist.tok"));
             String line1 = br.readLine();
-            String file_name = "sample/tsv/reviewlist1.txt";
+//            String file_name = "sample/tsv/reviewlist_test.tsv";
+            String file_name = "sample/tsv/reviewlist.tsv";
             WriteFile writeFile = new WriteFile();
             writeFile.fileCreate(file_name);
 
@@ -40,19 +55,21 @@ public class starter {
                 Chunking chunking = dictionaryChunkerFF.chunk(line1);
                 String temp = line1;
 
-                System.out.println("size" + chunking.chunkSet().size());
+//                System.out.println("size" + chunking.chunkSet().size());
                 if (chunking.chunkSet().size() > 0) {
                     for (Chunk chunk : chunking.chunkSet()) {
 
                         if ("FOOD".equals(chunk.type())) {
                             temp = temp + "\t" + "FOOD";
+                            System.out.println(temp);
+                        } else {
+                            temp = temp + "\t" + "O";
                         }
-
-
                     }
+                }else{
+                    temp = temp + "\t" + "O";
                 }
                 writeFile.writeTsv(temp + "\n");
-                System.out.println("WWWWWWWWWWWWWW" + temp);
 
 
                 line1 = br.readLine();
@@ -63,5 +80,10 @@ public class starter {
             e.printStackTrace();
         }
 
+    }
+    public static void test(){
+        new ReadReviews().readReviewFromDB();
+        WriteFile.writeTxt();
+        BufferedReader br;
     }
 }
