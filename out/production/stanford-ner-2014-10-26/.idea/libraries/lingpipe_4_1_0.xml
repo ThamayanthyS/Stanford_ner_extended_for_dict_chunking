@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lingpipe-4.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../foodextract/GitLocal/FoodIdentification/lib/lingpipe-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../foodextract/GitLocal/FoodIdentification/lib/mysql-connector-java-5.1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

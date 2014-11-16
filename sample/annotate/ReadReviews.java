@@ -1,0 +1,39 @@
+package sample.annotate;
+
+import java.sql.*;
+
+
+public class ReadReviews {
+
+    static final double CHUNK_SCORE = 1.0;
+    String db = "synergy_training_sample";
+
+
+    public static void main(String[] a) {
+        new ReadReviews().readReviewFromDB();
+    }
+
+    public void readReviewFromDB() {
+        try {
+            Connection con = null;
+            con = DBConnection.getConnection();
+            try {
+                Statement st = con.createStatement();
+                ResultSet res = st.executeQuery
+                        ("SELECT review FROM " + "reviews" + " NATURAL JOIN " + "restaurants" + " WHERE rest_name =" + "\"" + Const.resturant[3]  + "\""+ "OR "+ "rest_name ="+ "\"" + Const.resturant[0]  + "\""+ "OR " + "rest_name ="+ "\"" + Const.resturant[2]  + "\""+ "OR " + "rest_name ="+ "\"" + Const.resturant[1]  + "\"");
+
+                while (res.next()) {
+                    String review = res.getString("review");
+                    Const.reviewList.add(review);
+
+                }
+            } catch (SQLException s) {
+                System.out.println("SQL statement is not executed!" + s);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+}
