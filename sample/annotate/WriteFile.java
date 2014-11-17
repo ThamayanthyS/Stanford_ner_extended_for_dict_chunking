@@ -24,12 +24,16 @@ public class WriteFile {
                 e.printStackTrace();
             }
         }
+
+        return file;
+    }
+
+    public static void createPrintWriter(File file) {
         try {
-            printWriter=new PrintWriter(file);
+            printWriter = new PrintWriter(file);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        return file;
     }
 
 
@@ -61,12 +65,16 @@ public class WriteFile {
         }
     }
 
-    public static void writeTsv(String text) {
-        printWriter.print(text);
-        printWriter.flush();
+    public static void writeTsv(File file, List<String> list) {
+        createPrintWriter(file);
+        for (String text : list) {
+            printWriter.print(text);
+            printWriter.flush();
+        }
+
     }
 
-    public static void writeToFile(File file1,List<String> list){
+    public static void writeToFile(File file1, List<String> list) {
         try {
 
             File file_local = file1;

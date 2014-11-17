@@ -69,8 +69,10 @@ public class starter {
                     }
                 }else{
                     temp = temp + "\t" + "O";
+
                 }
-                writeFile.writeTsv(temp + "\n");
+//                writeFile.writeTsv(temp + "\n");
+                System.out.println(temp);
 
 
                 line1 = br.readLine();
