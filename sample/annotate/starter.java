@@ -23,6 +23,7 @@ public class starter {
         new ReadReviews().readReviewFromDB();
         WriteFile.writeTxt();
         BufferedReader br;
+        Restaurants.getAllRestaurantNames();
 
 
         //to run the command line process
@@ -86,4 +87,5 @@ public class starter {
         WriteFile.writeTxt();
         BufferedReader br;
     }
+
 }

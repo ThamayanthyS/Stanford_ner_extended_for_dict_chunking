@@ -1,6 +1,7 @@
 package sample.annotate;
 
 import java.io.*;
+import java.util.List;
 
 /**
  * Created by Thamayanthy on 11/15/2014.
@@ -12,7 +13,7 @@ public class WriteFile {
     public static BufferedWriter bw;
     public static PrintWriter printWriter;
 
-    public static void fileCreate(String file_name) {
+    public static File fileCreate(String file_name) {
         file = new File(file_name);
 
 
@@ -28,6 +29,7 @@ public class WriteFile {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+        return file;
     }
 
 
@@ -57,13 +59,37 @@ public class WriteFile {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
     }
 
     public static void writeTsv(String text) {
         printWriter.print(text);
         printWriter.flush();
+    }
+
+    public static void writeToFile(File file1,List<String> list){
+        try {
+
+            File file_local = file1;
+            // if file doesnt exists, then create it
+            if (!file_local.exists()) {
+                file_local.createNewFile();
+            }
+
+            FileWriter fw = new FileWriter(file_local.getAbsoluteFile());
+            BufferedWriter bw = new BufferedWriter(fw);
+
+            for (String text : list) {
+                bw.write(text);
+                System.out.println(text);
+            }
+            bw.close();
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 }
 
