@@ -39,10 +39,10 @@ public class starter {
 
         try {
 //            br = new BufferedReader(new FileReader("sample/tok/reviewlist_test.tok"));
-            br = new BufferedReader(new FileReader("sample/tok/reviewlist.tok"));
+            br = new BufferedReader(new FileReader("sample/tok/reviewlist_test.tok"));
             String line1 = br.readLine();
 //            String file_name = "sample/tsv/reviewlist_test.tsv";
-            String file_name = "sample/tsv/reviewlist.tsv";
+            String file_name = "sample/tsv/reviewlist_test.tsv";
             WriteFile writeFile = new WriteFile();
             writeFile.fileCreate(file_name);
 

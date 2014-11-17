@@ -1,0 +1,17 @@
+Tokenizing for the training set
+
+java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/txt/reviewlist.txt > sample/tok/reviewlist.tok
+
+Tokenizing for the test set
+
+java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/txt/reviewlist_test.txt > sample/tok/reviewlist_test.tok
+
+tagging for training set
+
+train ner
+
+java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop austen.prop
+
+testing
+
+java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ner-model.ser.gz -testFile sample/tsv/reviewlist_test.tsv > sample/text/output.txt
