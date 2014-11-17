@@ -39,7 +39,7 @@ public class ReadReviews {
         }
     }
 
-    public void readReviewFromDB(String restaurant) {
+    public static void readReviewFromDB(String restaurant) {
         try {
             Connection con = null;
             con = DBConnection.getConnection();

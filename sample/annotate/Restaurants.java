@@ -11,7 +11,13 @@ import java.util.List;
  * Created by Thamayanthy on 11/17/2014.
  */
 public class Restaurants {
+
     public static List<String> restaurants=new ArrayList<String>();
+
+    public static List<String> getRestaurants() {
+        return restaurants;
+    }
+
     public static void getAllRestaurantNames(){
         try {
             Connection con = null;
@@ -34,4 +40,5 @@ public class Restaurants {
             e.printStackTrace();
         }
     }
+
 }

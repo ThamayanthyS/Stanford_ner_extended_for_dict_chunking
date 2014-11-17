@@ -1,10 +1,10 @@
 Tokenizing for the training set
 
-java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/txt/reviewlist.txt > sample/tok/reviewlist.tok
+java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/text/reviewlist.txt > sample/tok/reviewlist.tok
 
 Tokenizing for the test set
 
-java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/txt/reviewlist_test.txt > sample/tok/reviewlist_test.tok
+java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/text/reviewlist_test.txt > sample/tok/reviewlist_test.tok
 
 tagging for training set
 
