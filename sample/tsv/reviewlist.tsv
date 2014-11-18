@@ -6,7 +6,7 @@ a	O
 nice	O
 selection	O
 of	O
-food	FOOD
+food	O
 .	O
 Open	O
 24	O
@@ -27,7 +27,7 @@ of	O
 partying	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 dish	O
 is	O
 the	O
@@ -83,7 +83,7 @@ and	O
 friendly	O
 ;	O
 the	O
-food	FOOD
+food	O
 was	O
 reasonably	O
 priced	O
@@ -116,13 +116,13 @@ some	O
 homeOne	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 truck	O
 stop	O
 diners	O
 with	O
 solid	O
-food	FOOD
+food	O
 and	O
 friendly	O
 ,	O
@@ -149,7 +149,7 @@ puff	O
 .	O
 All	O
 the	O
-food	FOOD
+food	O
 we	O
 had	O
 was	O
@@ -166,7 +166,7 @@ of	O
 coffee	FOOD
 on	O
 the	O
-table	FOOD
+table	O
 .	O
 Love	O
 this	O
@@ -259,7 +259,7 @@ reasonable	O
 prices	O
 .	O
 The	O
-bakery	FOOD
+bakery	O
 I	O
 guess	O
 is	O
@@ -302,7 +302,7 @@ area	O
 stopped	O
 at	O
 the	O
-gas	FOOD
+gas	O
 station	O
 attached	O
 to	O
@@ -315,7 +315,7 @@ snacks	O
 and	O
 of	O
 course	O
-BAKERY	FOOD
+BAKERY	O
 .	O
 If	O
 you	O
@@ -443,7 +443,7 @@ and	O
 I	O
 saw	O
 the	O
-bakery	FOOD
+bakery	O
 ...	O
 I	O
 knew	O
@@ -527,7 +527,7 @@ without	O
 indulging	O
 on	O
 some	O
-bakery	FOOD
+bakery	O
 goods	O
 to	O
 take	O
@@ -574,7 +574,7 @@ under	O
 the	O
 influence	O
 of	O
-bakery	FOOD
+bakery	O
 goods	O
 from	O
 the	O
@@ -643,7 +643,7 @@ cut	FOOD
 sausage	FOOD
 links	O
 .	O
-Food	FOOD
+Food	O
 was	O
 tasty	O
 ,	O
@@ -817,7 +817,7 @@ time	O
 The	O
 service	O
 and	O
-food	FOOD
+food	O
 is	O
 way	O
 better	O
@@ -852,7 +852,7 @@ the	O
 .	O
 take	O
 a	O
-table	FOOD
+table	O
 .	O
 start	O
 a	O
@@ -942,7 +942,7 @@ the	O
 answers	O
 ?	O
 The	O
-food	FOOD
+food	O
 here	O
 is	O
 good	O
@@ -973,7 +973,7 @@ to	O
 take	O
 home	O
 some	O
-bakery	FOOD
+bakery	O
 .	O
 Or	O
 if	O
@@ -1005,7 +1005,7 @@ of	O
 their	O
 five	O
 star	O
-bakery	FOOD
+bakery	O
 selection	O
 .	O
 Crazy	O
@@ -1182,7 +1182,7 @@ to	O
 discover	O
 well	O
 cooked	O
-food	FOOD
+food	O
 ,	O
 but	O
 i	O
@@ -1593,7 +1593,7 @@ breakfast	FOOD
 .	O
 Amazing	O
 fresh	O
-bakery	FOOD
+bakery	O
 and	O
 pastry	FOOD
 items	O
@@ -1601,7 +1601,7 @@ items	O
 HOWEVER	O
 ,	O
 the	O
-parkinglot/gas	FOOD
+parkinglot/gas	O
 station	O
 area	O
 is	O
@@ -1731,7 +1731,7 @@ a	O
 plateful	O
 of	O
 greasy	O
-food	FOOD
+food	O
 when	O
 you	O
 're	O
@@ -1753,7 +1753,7 @@ down-home	O
 rib-sticking	O
 ,	O
 greasy	O
-food	FOOD
+food	O
 in	O
 spades	O
 .	O
@@ -1833,7 +1833,7 @@ in	O
 search	O
 of	O
 health	O
-food	FOOD
+food	O
 ,	O
 and	O
 it	O
@@ -1867,7 +1867,7 @@ the	O
 place	O
 beats	O
 the	O
-food	FOOD
+food	O
 .	O
 I	O
 would	O
@@ -1881,7 +1881,7 @@ Cone	O
 It	O
 's	O
 a	O
-bakery	FOOD
+bakery	O
 and	O
 diner	FOOD
 attached	O
@@ -2007,7 +2007,7 @@ really	O
 impressed	O
 by	O
 the	O
-food	FOOD
+food	O
 .	O
 However	O
 ,	O
@@ -2132,7 +2132,7 @@ truck	O
 stop	O
 but	O
 the	O
-food	FOOD
+food	O
 was	O
 absolutely	O
 delicious	O
@@ -2145,7 +2145,7 @@ and	O
 friendly.OMG	O
 !	O
 The	O
-bakery	FOOD
+bakery	O
 items	O
 at	O
 Pinecone	O
@@ -2164,7 +2164,7 @@ absolutely	O
 scrumptious	O
 !	O
 The	O
-food	FOOD
+food	O
 in	O
 the	O
 restaurant	O
@@ -2173,7 +2173,7 @@ great	O
 for	O
 truck	O
 stop	O
-food	FOOD
+food	O
 .	O
 We	O
 've	O
@@ -2245,7 +2245,7 @@ guy	O
 ever	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 also	O
 great	O
@@ -2320,7 +2320,7 @@ hey	O
 that	O
 says	O
 the	O
-food	FOOD
+food	O
 has	O
 to	O
 be	O
@@ -2651,7 +2651,7 @@ average	O
 ''	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 terrible	O
 and	O
@@ -3020,7 +3020,7 @@ menu	FOOD
 ,	O
 fresh	O
 tasty	O
-food	FOOD
+food	O
 ,	O
 reasonable	O
 prices	O
@@ -3077,7 +3077,7 @@ coconut	FOOD
 cream	FOOD
 pie	FOOD
 was	O
-wonderful.Food	FOOD
+wonderful.Food	O
 was	O
 very	O
 good	O
@@ -3416,7 +3416,7 @@ it	O
 's	O
 a	O
 fast	O
-food	FOOD
+food	O
 restaurant	O
 .	O
 But	O
@@ -3425,7 +3425,7 @@ also	O
 do	O
 family	O
 restaurant	O
-food	FOOD
+food	O
 well	O
 .	O
 The	O
@@ -3443,7 +3443,7 @@ C.	O
 said	O
 .	O
 Fast	O
-food	FOOD
+food	O
 you	O
 can	O
 feel	O
@@ -3561,7 +3561,7 @@ is	O
 my	O
 fav	O
 fast	O
-food	FOOD
+food	O
 chain	O
 .	O
 Rarely	O
@@ -4032,7 +4032,7 @@ General	O
 Tso	O
 Chicken	FOOD
 .	O
-Food	FOOD
+Food	O
 is	O
 always	O
 ready	O
@@ -4108,7 +4108,7 @@ minutes.Grade	O
 :	O
 C	O
 The	O
-food	FOOD
+food	O
 is	O
 almost	O
 as	O
@@ -4473,7 +4473,7 @@ is	O
 awesome	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 decent	O
 .	O
@@ -4599,7 +4599,7 @@ going	O
 to	O
 be	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 However	O
 there	O
@@ -4993,7 +4993,7 @@ waiting	O
 minutes	O
 for	O
 a	O
-table	FOOD
+table	O
 on	O
 a	O
 Friday	O
@@ -5176,7 +5176,7 @@ time	O
 to	O
 consume	O
 more	O
-food	FOOD
+food	O
 ,	O
 so	O
 off	O
@@ -5483,7 +5483,7 @@ Green	FOOD
 Lantern	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 wonderful	O
 and	O
@@ -5501,7 +5501,7 @@ long	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 and	O
 once	O
 we	O
@@ -5548,7 +5548,7 @@ This	O
 restaurant	O
 has	O
 excellent	O
-food	FOOD
+food	O
 !	O
 It	O
 has	O
@@ -5732,7 +5732,7 @@ and	O
 ask	O
 for	O
 my	O
-favorite	FOOD
+favorite	O
 bartender	O
 ,	O
 Joy	O
@@ -5772,7 +5772,7 @@ this	O
 morning	O
 .	O
 .	O
-Food	FOOD
+Food	O
 has	O
 always	O
 been	O
@@ -5843,7 +5843,7 @@ either	O
 -RRB-	O
 Always	O
 good	O
-food	FOOD
+food	O
 .	O
 Menu	FOOD
 seems	O
@@ -5870,7 +5870,7 @@ Quite	O
 nice	O
 !	O
 A	O
-favorite.Pros	FOOD
+favorite.Pros	O
 :	O
 Drinks	O
 are	O
@@ -5888,10 +5888,10 @@ Service	O
 was	O
 friendly	O
 and	O
-food	FOOD
+food	O
 served	O
 warm	O
-Food	FOOD
+Food	O
 affordable	O
 relaxing	O
 environment	O
@@ -5962,7 +5962,7 @@ friendly	O
 service	O
 ,	O
 tasty	O
-food	FOOD
+food	O
 ,	O
 and	O
 the	O
@@ -6222,7 +6222,7 @@ grounds	FOOD
 Way	O
 to	O
 weak.Good	O
-food	FOOD
+food	O
 ,	O
 cheap	O
 drinks	O
@@ -6532,7 +6532,7 @@ an	O
 hour	O
 for	O
 our	O
-table	FOOD
+table	O
 .	O
 On	O
 the	O
@@ -6546,7 +6546,7 @@ an	O
 hour	O
 for	O
 our	O
-table	FOOD
+table	O
 which	O
 meant	O
 an	O
@@ -6635,7 +6635,7 @@ will	O
 be	O
 my	O
 next	O
-food	FOOD
+food	O
 challenge	O
 `	O
 The	O
@@ -6800,7 +6800,7 @@ n't	O
 know	O
 anything	O
 about	O
-food	FOOD
+food	O
 .	O
 All	O
 in	O
@@ -6856,7 +6856,7 @@ no	O
 problem	O
 getting	O
 a	O
-table	FOOD
+table	O
 .	O
 The	O
 location	O
@@ -6974,7 +6974,7 @@ provided	O
 great	O
 suggestions	O
 for	O
-food	FOOD
+food	O
 pairings	O
 !	O
 Well	O
@@ -7069,7 +7069,7 @@ times	O
 for	O
 drinks/apps	O
 .	O
-Food	FOOD
+Food	O
 has	O
 been	O
 very	O
@@ -7131,7 +7131,7 @@ while	O
 waiting	O
 for	O
 a	O
-table	FOOD
+table	O
 ,	O
 the	O
 wait	O
@@ -7155,7 +7155,7 @@ disappointed	O
 .	O
 .	O
 are	O
-favorite	FOOD
+favorite	O
 fish	FOOD
 fry	FOOD
 in	O
@@ -7302,7 +7302,7 @@ alternative	O
 ''	O
 of	O
 a	O
-table	FOOD
+table	O
 downstairs	O
 .	O
 Where	O
@@ -7388,7 +7388,7 @@ very	O
 attentive	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 .	O
@@ -7657,7 +7657,7 @@ seated	O
 at	O
 a	O
 nice	O
-table	FOOD
+table	O
 by	O
 the	O
 window	O
@@ -7855,7 +7855,7 @@ were	O
 disappointed	O
 in	O
 the	O
-food	FOOD
+food	O
 ,	O
 particularily	O
 the	O
@@ -7980,7 +7980,7 @@ instead.They	O
 consistently	O
 serve	O
 quality	O
-food	FOOD
+food	O
 along	O
 with	O
 good	O
@@ -8559,7 +8559,7 @@ this	O
 still	O
 remains	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 I	O
 usually	O
@@ -8675,7 +8675,7 @@ n't	O
 comment	O
 on	O
 the	O
-food	FOOD
+food	O
 .	O
 Drink	O
 specials	O
@@ -8857,7 +8857,7 @@ review	O
 is	O
 for	O
 the	O
-food	FOOD
+food	O
 .	O
 ALWAYS	O
 AMAZING	O
@@ -8952,7 +8952,7 @@ is!Nasty	O
 &	O
 Dirty	O
 .	O
-Food	FOOD
+Food	O
 is	O
 okay	O
 .	O
@@ -9159,7 +9159,7 @@ we	O
 just	O
 took	O
 a	O
-table	FOOD
+table	O
 by	O
 the	O
 window	O
@@ -9369,7 +9369,7 @@ cheap	O
 beer	FOOD
 and	O
 great	O
-food	FOOD
+food	O
 .	O
 Staff	O
 is	O
@@ -9463,7 +9463,7 @@ made	O
 reservations	O
 and	O
 the	O
-table	FOOD
+table	O
 was	O
 ready	O
 well	O
@@ -9506,7 +9506,7 @@ saying	O
 much	O
 about	O
 the	O
-food	FOOD
+food	O
 ?	O
 Here	O
 's	O
@@ -10061,7 +10061,7 @@ come	O
 here	O
 often	O
 .	O
-Food	FOOD
+Food	O
 is	O
 always	O
 good	O
@@ -10119,7 +10119,7 @@ Scallops	FOOD
 for	O
 $	O
 22.00	O
-Food	FOOD
+Food	O
 was	O
 very	O
 good	O
@@ -10167,7 +10167,7 @@ we	O
 always	O
 had	O
 good	O
-food	FOOD
+food	O
 .	O
 Service	O
 was	O
@@ -10193,7 +10193,7 @@ and	O
 watching	O
 the	O
 sunsets	O
-too.Food	FOOD
+too.Food	O
 and	O
 service	O
 have	O
@@ -10214,7 +10214,7 @@ probably	O
 one	O
 of	O
 our	O
-favorite	FOOD
+favorite	O
 breakfast	FOOD
 places	O
 .	O
@@ -10247,7 +10247,7 @@ Wabesa	O
 If	O
 they	O
 expanded	O
-food	FOOD
+food	O
 and	O
 drinks	O
 outside	O
@@ -10350,7 +10350,7 @@ hour	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 when	O
 we	O
 arrived	O
@@ -10393,7 +10393,7 @@ were	O
 seated	O
 at	O
 a	O
-table	FOOD
+table	O
 that	O
 had	O
 a	O
@@ -10597,7 +10597,7 @@ very	O
 nice	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 SOOOO	O
 good	O
@@ -10624,7 +10624,7 @@ the	O
 meal	FOOD
 .	O
 My	O
-favorite	FOOD
+favorite	O
 part	O
 -	O
 the	O
@@ -10881,7 +10881,7 @@ or	O
 orders	O
 for	O
 our	O
-food	FOOD
+food	O
 .	O
 I	O
 ordered	O
@@ -10893,7 +10893,7 @@ they	O
 came	O
 to	O
 the	O
-table	FOOD
+table	O
 they	O
 were	O
 overcooked	O
@@ -10920,7 +10920,7 @@ I	O
 could	O
 get	O
 warmer	O
-food	FOOD
+food	O
 .	O
 She	O
 said	O
@@ -10954,7 +10954,7 @@ original	O
 fork	FOOD
 and	O
 original	O
-food	FOOD
+food	O
 .	O
 They	O
 scallops	FOOD
@@ -10985,7 +10985,7 @@ the	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 and	O
 seemed	O
 to	O
@@ -11057,7 +11057,7 @@ was	O
 an	O
 effort	O
 .	O
-Food	FOOD
+Food	O
 was	O
 poorly	O
 prepared	O
@@ -11243,7 +11243,7 @@ weekend	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 delicious	O
 and	O
@@ -11297,7 +11297,7 @@ made	O
 sure	O
 that	O
 our	O
-table	FOOD
+table	O
 was	O
 attended	O
 well	O
@@ -11319,7 +11319,7 @@ back	O
 again	O
 for	O
 more	O
-food	FOOD
+food	O
 once	O
 the	O
 snow	O
@@ -11465,7 +11465,7 @@ the	O
 group	FOOD
 said	O
 their	O
-food	FOOD
+food	O
 was	O
 okay	O
 ,	O
@@ -11487,7 +11487,7 @@ you	O
 're	O
 basic	O
 bar	FOOD
-food	FOOD
+food	O
 .	O
 Nothing	O
 more.Great	O
@@ -12013,7 +12013,7 @@ $	O
 .	O
 Best	O
 Chinese	O
-food	FOOD
+food	O
 madison	O
 !	O
 I	O
@@ -12049,7 +12049,7 @@ cookie-cutter	FOOD
 Chinese	O
 restaurants	O
 .	O
-Food	FOOD
+Food	O
 without	O
 flavor	FOOD
 ,	O
@@ -12083,7 +12083,7 @@ Terrible	O
 ,	O
 bland	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 Not	O
 much	O
@@ -12181,7 +12181,7 @@ hand	O
 's	O
 down	O
 my	O
-favorite	FOOD
+favorite	O
 place	O
 to	O
 grab	O
@@ -12219,7 +12219,7 @@ minutes	O
 to	O
 get	O
 your	O
-food	FOOD
+food	O
 .	O
 Freshly	O
 made	O
@@ -12394,7 +12394,7 @@ better	O
 than	O
 other	O
 chinese	O
-food	FOOD
+food	O
 in	O
 the	O
 Madison	O
@@ -12424,7 +12424,7 @@ out	O
 on	O
 this	O
 fantastic	O
-food.Just	FOOD
+food.Just	O
 fair	O
 ,	O
 but	O
@@ -12434,7 +12434,7 @@ to	O
 appreciate	O
 decent	O
 chinese	O
-food	FOOD
+food	O
 for	O
 its	O
 rarity	O
@@ -12459,7 +12459,7 @@ Area	O
 Authentic	O
 good	O
 quality	O
-food	FOOD
+food	O
 in	O
 an	O
 old	O
@@ -12522,7 +12522,7 @@ But	O
 you	O
 will	O
 leave	O
-satisfied.Food	FOOD
+satisfied.Food	O
 :	O
 It	O
 's	O
@@ -12540,7 +12540,7 @@ options	O
 for	O
 semi-authentic	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 the	O
 Madison	O
@@ -12608,7 +12608,7 @@ Service	O
 :	O
 Average	O
 .	O
-Food	FOOD
+Food	O
 comes	O
 in	O
 a	O
@@ -12735,14 +12735,14 @@ one	O
 It	O
 was	O
 more	O
-food	FOOD
+food	O
 than	O
 we	O
 could	O
 eat	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 fine	O
 .	O
@@ -12879,7 +12879,7 @@ of	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -12912,7 +12912,7 @@ to	O
 be	O
 a	O
 local	O
-favorite	FOOD
+favorite	O
 .	O
 That	O
 struck	O
@@ -12941,7 +12941,7 @@ the	O
 case	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 insipid	O
 ,	O
@@ -13070,7 +13070,7 @@ get	O
 to	O
 authetic	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 a	O
 place	O
@@ -13084,7 +13084,7 @@ Palace	O
 closed	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 alright	O
 ,	O
@@ -13262,7 +13262,7 @@ possibly	O
 the	O
 WORST	O
 Chinese	O
-food	FOOD
+food	O
 -LRB-	O
 if	O
 you	O
@@ -13437,7 +13437,7 @@ Tofu	FOOD
 He	O
 loves	O
 spicy	O
-food	FOOD
+food	O
 ,	O
 and	O
 this	O
@@ -13485,7 +13485,7 @@ Apart	O
 from	O
 the	O
 horrendous	O
-food	FOOD
+food	O
 was	O
 the	O
 tepid	O
@@ -13588,7 +13588,7 @@ be	O
 an	O
 authentic	O
 Chinese	O
-food	FOOD
+food	O
 restaurant	O
 -	O
 what	O
@@ -13612,7 +13612,7 @@ the	O
 Asian	O
 grocery	O
 and	O
-gas	FOOD
+gas	O
 station	O
 next	O
 door	O
@@ -13629,7 +13629,7 @@ Bao	O
 in	O
 from	O
 a	O
-bakery	FOOD
+bakery	O
 in	O
 Chicago	O
 that	O
@@ -13732,7 +13732,7 @@ is	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 around	O
 ...	O
 I	O
@@ -13801,7 +13801,7 @@ down	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 I	O
 have	O
 ever	O
@@ -13841,12 +13841,12 @@ from	O
 Three	O
 ,	O
 The	O
-food	FOOD
+food	O
 is	O
 GREAT	O
 !	O
 My	O
-favorite	FOOD
+favorite	O
 dishes	FOOD
 are	O
 the	O
@@ -13882,7 +13882,7 @@ like	O
 here	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 never	O
 greasy	O
@@ -14127,7 +14127,7 @@ if	O
 I	O
 liked	O
 the	O
-food	FOOD
+food	O
 or	O
 not	O
 -LRB-	O
@@ -14172,7 +14172,7 @@ had	O
 more	O
 authentic	O
 Chinese	O
-food	FOOD
+food	O
 at	O
 Panda	O
 Express	O
@@ -14317,7 +14317,7 @@ have	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 the	O
 Madison	O
@@ -14372,7 +14372,7 @@ very	O
 quick	O
 and	O
 the	O
-food	FOOD
+food	O
 served	O
 very	O
 quickly	O
@@ -14398,7 +14398,7 @@ be	O
 eating	O
 more	O
 Chinese	O
-food	FOOD
+food	O
 anywhere	O
 here.Grilled	O
 potstickers	FOOD
@@ -14544,7 +14544,7 @@ is	O
 lovely	O
 but	O
 the	O
-food	FOOD
+food	O
 and	O
 staff	O
 was	O
@@ -14560,7 +14560,7 @@ For	O
 starters	FOOD
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 so	O
 expensive	O
@@ -14722,7 +14722,7 @@ all	O
 the	O
 wrong	O
 reasons.Decent	O
-food	FOOD
+food	O
 ,	O
 slightly	O
 more	O
@@ -14943,7 +14943,7 @@ Which	O
 is	O
 always	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 To	O
 try	O
@@ -15012,7 +15012,7 @@ The	O
 Fragrant	O
 Pork	FOOD
 had	O
-chestnuts	O
+chestnuts	FOOD
 ,	O
 green	FOOD
 peppers	O
@@ -15167,7 +15167,7 @@ pea	FOOD
 pods	O
 ,	O
 water	O
-chestnuts	O
+chestnuts	FOOD
 ,	O
 carrots	O
 and	O
@@ -15210,7 +15210,7 @@ to	O
 get	O
 for	O
 Chinese	O
-Food	FOOD
+Food	O
 .	O
 Sorry	O
 ,	O
@@ -15221,7 +15221,7 @@ Wisconsin	O
 .	O
 But	O
 the	O
-food	FOOD
+food	O
 is	O
 very	O
 good	O
@@ -15324,7 +15324,7 @@ is	O
 the	O
 worst	O
 Chinese	O
-food	FOOD
+food	O
 my	O
 entire	O
 family	O
@@ -15552,7 +15552,7 @@ different	O
 protein	O
 options	O
 -	O
-Food/dishes	FOOD	FOOD
+Food/dishes	FOOD
 very	O
 salty	O
 ,	O
@@ -15700,7 +15700,7 @@ doing	O
 so	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 sub-par	O
 ;	O
@@ -15729,7 +15729,7 @@ n't	O
 be	O
 back.Best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 the	O
 area	O
@@ -16027,7 +16027,7 @@ and	O
 returned	O
 to	O
 our	O
-table	FOOD
+table	O
 and	O
 said	O
 it	O
@@ -16393,7 +16393,7 @@ that	O
 night	O
 but	O
 the	O
-food	FOOD
+food	O
 made	O
 up	O
 for	O
@@ -16660,7 +16660,7 @@ down	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -16671,7 +16671,7 @@ mein	O
 has	O
 been	O
 a	O
-favorite	FOOD
+favorite	O
 since	O
 I	O
 was	O
@@ -16742,7 +16742,7 @@ the	O
 wait	O
 time	O
 for	O
-food	FOOD
+food	O
 is	O
 reasonably	O
 short	O
@@ -16781,7 +16781,7 @@ can	O
 save	O
 the	O
 mediocre-to-bad	O
-food	FOOD
+food	O
 .	O
 That	O
 is	O
@@ -16790,7 +16790,7 @@ if	O
 you	O
 get	O
 your	O
-food	FOOD
+food	O
 at	O
 all	O
 .	O
@@ -17066,7 +17066,7 @@ dump	O
 sriracha	O
 on	O
 the	O
-food	FOOD
+food	O
 ,	O
 it	O
 blends	O
@@ -17074,7 +17074,7 @@ very	O
 well	O
 with	O
 the	O
-food	FOOD
+food	O
 and	O
 elevates	O
 all	O
@@ -17120,7 +17120,7 @@ and	O
 less	O
 heavy	O
 Chinese	O
-food	FOOD
+food	O
 available	O
 in	O
 Madison	O
@@ -17180,7 +17180,7 @@ full	FOOD
 hours	O
 for	O
 our	O
-food	FOOD
+food	O
 .	O
 So	O
 if	O
@@ -17196,7 +17196,7 @@ amount	O
 of	O
 time	O
 for	O
-food	FOOD
+food	O
 and	O
 have	O
 all	O
@@ -17226,7 +17226,7 @@ the	O
 ``	O
 Chinese	O
 Restaurant	O
-Gas	FOOD
+Gas	O
 Station	O
 ''	O
 .	O
@@ -17344,7 +17344,7 @@ than	O
 average	O
 group	FOOD
 -	O
-table	FOOD
+table	O
 of	O
 8	O
 -	O
@@ -17397,7 +17397,7 @@ or	O
 people	O
 on	O
 this	O
-table	FOOD
+table	O
 .	O
 The	O
 waitress	O
@@ -17540,7 +17540,7 @@ time	O
 .	O
 Eventually	O
 the	O
-food	FOOD
+food	O
 came	O
 out	O
 .	O
@@ -17573,7 +17573,7 @@ snap	O
 peas	FOOD
 and	O
 water	O
-chestnuts	O
+chestnuts	FOOD
 were	O
 good	O
 .	O
@@ -17609,7 +17609,7 @@ not	O
 the	O
 most	O
 adventurous	O
-food	FOOD
+food	O
 .	O
 Flavors	O
 were	O
@@ -17657,7 +17657,7 @@ Overall	O
 ,	O
 If	O
 the	O
-food	FOOD
+food	O
 was	O
 n't	O
 pretty	O
@@ -17790,7 +17790,7 @@ you	O
 wait	O
 for	O
 your	O
-food.Absolutely	FOOD
+food.Absolutely	O
 THE	O
 worst	O
 !	O
@@ -17804,7 +17804,7 @@ Madison	O
 ''	O
 for	O
 Chinese	O
-food	FOOD
+food	O
 for	O
 how	O
 many	O
@@ -17850,7 +17850,7 @@ minutes	O
 after	O
 ordering	O
 .	O
-Food	FOOD
+Food	O
 finally	O
 arrived	O
 for	O
@@ -17871,7 +17871,7 @@ practically	O
 frostbite	O
 on	O
 the	O
-food	FOOD
+food	O
 .	O
 Could	O
 n't	O
@@ -17934,7 +17934,7 @@ place	O
 previously	O
 had	O
 great	O
-food	FOOD
+food	O
 and	O
 service	O
 ,	O
@@ -18000,7 +18000,7 @@ I	O
 said	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 superb	O
 .	O
@@ -18186,7 +18186,7 @@ looking	O
 for	O
 top-quality	O
 Chinese	O
-food	FOOD
+food	O
 ,	O
 I	O
 highly	O
@@ -18417,7 +18417,7 @@ day.Mi	O
 Cocina	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 Mexican-style	FOOD
 restaurant	O
 in	O
@@ -18434,7 +18434,7 @@ unimpressed	O
 with	O
 either	O
 the	O
-food	FOOD
+food	O
 or	O
 the	O
 service	O
@@ -18717,7 +18717,7 @@ that	O
 is	O
 now	O
 her	O
-favorite	FOOD
+favorite	O
 .	O
 The	O
 prices	O
@@ -18729,7 +18729,7 @@ given	O
 the	O
 amount	O
 of	O
-food	FOOD
+food	O
 always	O
 a	O
 good	O
@@ -18767,7 +18767,7 @@ I	O
 keep	O
 coming	O
 back.The	O
-food	FOOD
+food	O
 is	O
 decent	O
 ,	O
@@ -18803,7 +18803,7 @@ to	O
 warrant	O
 more	O
 visits.Good	O
-food	FOOD
+food	O
 -	O
 especially	O
 if	O
@@ -18839,7 +18839,7 @@ same	O
 people	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 bette.rAfter	O
 a	O
@@ -18872,7 +18872,7 @@ us	O
 ,	O
 and	O
 Mexican	FOOD
-food	FOOD
+food	O
 sounded	O
 yummy	O
 .	O
@@ -19011,7 +19011,7 @@ and	O
 within	O
 minutes	O
 our	O
-food	FOOD
+food	O
 was	O
 available	O
 .	O
@@ -19172,7 +19172,7 @@ menu	FOOD
 again	O
 !	O
 The	O
-food	FOOD
+food	O
 changed	O
 names	O
 and	O
@@ -19201,7 +19201,7 @@ little	O
 much	O
 for	O
 the	O
-food	FOOD
+food	O
 they	O
 are	O
 serving	O
@@ -19581,7 +19581,7 @@ they	O
 brought	O
 to	O
 the	O
-table	FOOD
+table	O
 when	O
 I	O
 requested	O
@@ -19648,7 +19648,7 @@ the	O
 margaritas	FOOD
 ;	O
 our	O
-table	FOOD
+table	O
 had	O
 a	O
 pitcher	O
@@ -19798,7 +19798,7 @@ barely	O
 passable	O
 as	O
 Mexican	FOOD
-food	FOOD
+food	O
 .	O
 Most	O
 entrees	O
@@ -19974,7 +19974,7 @@ do	O
 n't	O
 expect	O
 better	O
-food	FOOD
+food	O
 .	O
 Those	O
 who	O
@@ -19982,7 +19982,7 @@ who	O
 had	O
 real	O
 Mexican	FOOD
-food	FOOD
+food	O
 will	O
 not	O
 enjoy	O
@@ -19994,7 +19994,7 @@ Real/Mi	O
 Cocina	O
 =	O
 FAIL	O
-Food	FOOD
+Food	O
 =	O
 2	O
 stars	O
@@ -20012,7 +20012,7 @@ MISC	O
 starsThis	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 Mexican	FOOD
 restaurant	O
 in	O
@@ -20054,7 +20054,7 @@ time	O
 we	O
 had	O
 a	O
-table	FOOD
+table	O
 side	O
 preparation	O
 ,	O
@@ -20065,7 +20065,7 @@ on	O
 how	O
 fresh	O
 the	O
-food	FOOD
+food	O
 is	O
 here	O
 -	O
@@ -20082,7 +20082,7 @@ the	O
 abundance	O
 of	O
 fresh	O
-food	FOOD
+food	O
 .	O
 In	O
 all	O
@@ -20147,13 +20147,13 @@ that	O
 what	O
 matters	O
 ?	O
-Food	FOOD
+Food	O
 should	O
 be	O
 delicious	O
 ,	O
 especially	O
-food	FOOD
+food	O
 at	O
 any	O
 restaurant	O
@@ -20188,7 +20188,7 @@ restaurant	O
 cares	O
 about	O
 how	O
-food	FOOD
+food	O
 tastes	O
 and	O
 only	O
@@ -20198,7 +20198,7 @@ best	O
 of	O
 ingredients	O
 and	O
-food	FOOD
+food	O
 .	O
 As	O
 mentioned	O
@@ -20286,7 +20286,7 @@ Ok	O
 I	O
 live	O
 Mexican	FOOD
-food	FOOD
+food	O
 .	O
 I	O
 grew	O
@@ -20299,7 +20299,7 @@ my	O
 standards	O
 for	O
 Mexican	FOOD
-food	FOOD
+food	O
 are	O
 high	O
 .	O
@@ -20545,7 +20545,7 @@ hot	O
 sauce	FOOD
 to	O
 the	O
-table	FOOD
+table	O
 .	O
 I	O
 mean	O
@@ -20558,7 +20558,7 @@ Drinks	O
 :	O
 Yay	O
 !	O
-Food	FOOD
+Food	O
 :	O
 Ehh	O
 .	O
@@ -20744,7 +20744,7 @@ here	O
 seriously	O
 !	O
 -RRB-	O
-Food	FOOD
+Food	O
 =	O
 2	O
 stars	O
@@ -20842,7 +20842,7 @@ could	O
 want	O
 from	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 It	O
 has	O
@@ -20947,7 +20947,7 @@ to	O
 over	O
 indulge	O
 on	O
-food	FOOD
+food	O
 at	O
 a	O
 really	O
@@ -21026,7 +21026,7 @@ dishes	FOOD
 is	O
 very	O
 good	O
-food	FOOD
+food	O
 .	O
 Remember	O
 ,	O
@@ -21095,7 +21095,7 @@ And	O
 most	O
 of	O
 the	O
-food	FOOD
+food	O
 was	O
 cold	O
 or	O
@@ -21103,7 +21103,7 @@ warm	O
 some	O
 hot	O
 fresh	O
-food	FOOD
+food	O
 .	O
 That	O
 was	O
@@ -21129,7 +21129,7 @@ night	O
 to	O
 get	O
 some	O
-food	FOOD
+food	O
 to	O
 go	O
 .	O
@@ -21237,7 +21237,7 @@ totally	O
 mediocre	O
 but	O
 plentiful	O
-food	FOOD
+food	O
 .	O
 That	O
 being	O
@@ -21273,7 +21273,7 @@ rush	FOOD
 is	O
 over	O
 the	O
-food	FOOD
+food	O
 is	O
 kept	O
 fresh	O
@@ -21314,7 +21314,7 @@ but	O
 they	O
 let	O
 the	O
-food	FOOD
+food	O
 go	O
 to	O
 pot	O
@@ -21338,7 +21338,7 @@ had	O
 any	O
 issues	O
 with	O
-food	FOOD
+food	O
 or	O
 service	O
 .	O
@@ -21352,7 +21352,7 @@ every	O
 time	O
 .	O
 Hot	O
-food	FOOD
+food	O
 ...	O
 all	O
 the	O
@@ -21372,7 +21372,7 @@ average	O
 .	O
 Lots	O
 of	O
-food	FOOD
+food	O
 .	O
 Speedy	O
 staff	O
@@ -21389,7 +21389,7 @@ business	O
 lunchesSome	O
 of	O
 the	O
-food	FOOD
+food	O
 on	O
 the	O
 buffet	FOOD
@@ -21554,7 +21554,7 @@ most	O
 of	O
 the	O
 other	O
-food	FOOD
+food	O
 on	O
 the	O
 half-empty	O
@@ -21568,7 +21568,7 @@ a	O
 plate	O
 of	O
 stale	O
-food	FOOD
+food	O
 and	O
 a	O
 drink	O
@@ -21864,7 +21864,7 @@ the	O
 Prairie	O
 Cafe	FOOD
 &	O
-Bakery	FOOD
+Bakery	O
 several	O
 times	O
 since	O
@@ -21929,7 +21929,7 @@ might	O
 have	O
 more	O
 than	O
-bakery	FOOD
+bakery	O
 goods	O
 ,	O
 and	O
@@ -22104,7 +22104,7 @@ and	O
 found	O
 a	O
 nice	O
-table	FOOD
+table	O
 along	O
 the	O
 bookshelves	O
@@ -22245,7 +22245,7 @@ by	O
 the	O
 time	O
 my	O
-food	FOOD
+food	O
 came	O
 .	O
 It	O
@@ -22315,7 +22315,7 @@ possibly	O
 highlight	O
 of	O
 the	O
-food	FOOD
+food	O
 .	O
 I	O
 was	O
@@ -22470,7 +22470,7 @@ with	O
 Prairie	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 always	O
 spot	FOOD
@@ -22596,7 +22596,7 @@ kept	O
 secret	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 good	O
 and	O
@@ -22632,7 +22632,7 @@ n't	O
 tried	O
 breakfast	FOOD
 or	O
-bakery	FOOD
+bakery	O
 but	O
 the	O
 chai	FOOD
@@ -22761,7 +22761,7 @@ n't	O
 taint	O
 my	O
 experience.Delicious	O
-food	FOOD
+food	O
 .	O
 Good	O
 prices	O
@@ -22892,12 +22892,12 @@ condiments	FOOD
 ,	O
 find	O
 a	O
-table	FOOD
+table	O
 and	O
 wait	O
 for	O
 the	O
-food	FOOD
+food	O
 to	O
 arrive	O
 .	O
@@ -22911,7 +22911,7 @@ you	O
 clear	O
 your	O
 own	O
-table	FOOD
+table	O
 ,	O
 take	O
 the	O
@@ -23345,7 +23345,7 @@ was	O
 delicious	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 good	O
 .	O
@@ -23401,12 +23401,12 @@ register	O
 and	O
 having	O
 our	O
-food	FOOD
+food	O
 come	O
 out	O
 to	O
 the	O
-table	FOOD
+table	O
 .	O
 The	O
 fair-trade	O
@@ -23417,7 +23417,7 @@ outstanding	O
 as	O
 were	O
 the	O
-oatmeal	O
+oatmeal	FOOD
 with	O
 berries	O
 and	O
@@ -23442,7 +23442,7 @@ imagine	O
 could	O
 trump	O
 my	O
-favorite	FOOD
+favorite	O
 at	O
 Bennison	O
 's	O
@@ -23590,7 +23590,7 @@ thesis	O
 -RRB-	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 expensive	O
 -LRB-	O
@@ -23684,7 +23684,7 @@ not	O
 taking	O
 up	O
 a	O
-table	FOOD
+table	O
 .	O
 I	O
 bought	O
@@ -23964,7 +23964,7 @@ colors	O
 .	O
 If	O
 the	O
-food	FOOD
+food	O
 was	O
 exceptional	O
 I	O
@@ -24009,7 +24009,7 @@ instead	O
 from	O
 now	O
 on.My	O
-food	FOOD
+food	O
 was	O
 surprisingly	O
 good	O
@@ -24028,7 +24028,7 @@ full	FOOD
 review!Prarie	O
 Cafe	FOOD
 &	O
-Bakery	FOOD
+Bakery	O
 exists	O
 in	O
 one	O
@@ -24045,7 +24045,7 @@ and	O
 nothing	O
 is	O
 remarkable.The	O
-food	FOOD
+food	O
 is	O
 good	O
 but	O
@@ -24348,7 +24348,7 @@ Whatever.From	O
 scratch	O
 pastries	O
 ,	O
-breads	O
+breads	FOOD
 ,	O
 breakfast	FOOD
 ,	O
@@ -24378,7 +24378,7 @@ they	O
 will	O
 bring	O
 the	O
-food	FOOD
+food	O
 out	O
 to	O
 you	O
@@ -24415,7 +24415,7 @@ Pros	O
 +	O
 Solid	O
 breakfast	FOOD
-food	FOOD
+food	O
 ,	O
 especially	O
 the	O
@@ -24428,7 +24428,7 @@ miss	O
 .	O
 +	O
 Great	O
-breads	O
+breads	FOOD
 -	O
 I	O
 've	O
@@ -24448,7 +24448,7 @@ coffee	FOOD
 Friendly	O
 staff	O
 +	O
-Bakery	FOOD
+Bakery	O
 items	O
 -LRB-	O
 cookies/pastries	O
@@ -24480,7 +24480,7 @@ No	O
 complaints	O
 with	O
 the	O
-food	FOOD
+food	O
 -	O
 it	O
 's	O
@@ -24717,7 +24717,7 @@ excellent	O
 ,	O
 locally	O
 sourced	O
-food.Such	FOOD
+food.Such	O
 a	O
 cute	O
 place	O
@@ -24902,7 +24902,7 @@ coffee	FOOD
 hit	O
 or	O
 miss	O
-bakery	FOOD
+bakery	O
 When	O
 I	O
 venture	O
@@ -24928,7 +24928,7 @@ the	O
 Prairie	O
 Cafe	FOOD
 &	O
-Bakery	FOOD
+Bakery	O
 .	O
 It	O
 's	O
@@ -25195,7 +25195,7 @@ a	O
 conversation	FOOD
 with	O
 my	O
-table	FOOD
+table	O
 mates	O
 .	O
 *	O
@@ -25307,7 +25307,7 @@ of	O
 upside	O
 if	O
 the	O
-bakery	FOOD
+bakery	O
 improves	O
 its	O
 consistency.Seemed	O
@@ -25354,7 +25354,7 @@ minutes	O
 to	O
 get	O
 our	O
-food	FOOD
+food	O
 .	O
 Not	O
 exactly	O
@@ -25511,7 +25511,7 @@ a	O
 few	O
 minutes	O
 but	O
-food	FOOD
+food	O
 would	O
 take	O
 40	O
@@ -25557,7 +25557,7 @@ drinks	O
 ,	O
 forget	O
 the	O
-food	FOOD
+food	O
 .	O
 Even	O
 so	O
@@ -25659,7 +25659,7 @@ or	O
 lunch	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 definitely	O
 homemade	O
@@ -25739,7 +25739,7 @@ through	O
 the	O
 space	O
 .	O
-Food	FOOD
+Food	O
 is	O
 very	O
 good	O
@@ -25838,7 +25838,7 @@ not	O
 for	O
 just	O
 the	O
-food	FOOD
+food	O
 but	O
 the	O
 ambiance	O
@@ -25890,7 +25890,7 @@ nice	O
 atmosphere	O
 ,	O
 good	O
-food	FOOD
+food	O
 .	O
 But	O
 very	O
@@ -25919,7 +25919,7 @@ $	O
 6.75	O
 .	O
 Weak	O
-food	FOOD
+food	O
 for	O
 yuppies	O
 .	O
@@ -25965,7 +25965,7 @@ at	O
 Prairie	O
 Cafe	FOOD
 &	O
-Bakery	FOOD
+Bakery	O
 .	O
 I	O
 assumed	O
@@ -25979,7 +25979,7 @@ long	O
 time	O
 for	O
 my	O
-food	FOOD
+food	O
 and	O
 it	O
 would	O
@@ -25993,7 +25993,7 @@ pleasantly	O
 surprised	O
 .	O
 Our	O
-food	FOOD
+food	O
 came	O
 relatively	O
 quickly	O
@@ -26311,7 +26311,7 @@ instead.Nice	O
 atmosphere	O
 and	O
 great	O
-food	FOOD
+food	O
 ,	O
 especially	O
 the	O
@@ -26583,7 +26583,7 @@ a	O
 report	O
 on	O
 the	O
-food	FOOD
+food	O
 quality	O
 as	O
 well	O
@@ -26621,7 +26621,7 @@ be	O
 excellent	O
 ``	O
 bar	FOOD
-food	FOOD
+food	O
 ''	O
 -LRB-	O
 burgers	O
@@ -26688,7 +26688,7 @@ you	O
 will	O
 enjoy	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 service.If	O
@@ -26696,7 +26696,7 @@ your	O
 looking	O
 for	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 that	O
 is	O
@@ -26709,7 +26709,7 @@ Average	O
 price	O
 ,	O
 average	O
-food.All	FOOD
+food.All	O
 you	O
 can	O
 eat	O
@@ -26770,7 +26770,7 @@ about	O
 Seriously	O
 ,	O
 cheap	O
-food	FOOD
+food	O
 ,	O
 cheap	O
 drinks	O
@@ -26816,7 +26816,7 @@ and	O
 never	O
 tried	O
 the	O
-food	FOOD
+food	O
 but	O
 this	O
 is	O
@@ -26825,7 +26825,7 @@ my	O
 kind	O
 of	O
 place.Good	O
-food	FOOD
+food	O
 ,	O
 drinks	O
 are	O
@@ -26895,7 +26895,7 @@ family	O
 .	O
 And	O
 the	O
-food	FOOD
+food	O
 is	O
 good	O
 too.Great	O
@@ -27025,7 +27025,7 @@ mouth!Average	O
 place	O
 .	O
 Average	O
-food	FOOD
+food	O
 .	O
 Fried	O
 stuff	O
@@ -27159,7 +27159,7 @@ reminded	O
 me	O
 of	O
 dog	FOOD
-food	FOOD
+food	O
 .	O
 The	O
 sauce	FOOD
@@ -27211,7 +27211,7 @@ my	O
 go-to	O
 ``	O
 fast	O
-food	FOOD
+food	O
 ''	O
 stop	O
 in	O
@@ -27503,7 +27503,7 @@ Cheap	O
 decent	O
 ,	O
 fresh	O
-food	FOOD
+food	O
 .	O
 Cheap	O
 -	O
@@ -27652,7 +27652,7 @@ to	O
 get	O
 real	O
 Chinese	O
-food	FOOD
+food	O
 ,	O
 I	O
 knew	O
@@ -27668,7 +27668,7 @@ version	O
 of	O
 Americanized	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 My	O
 first	O
@@ -27956,7 +27956,7 @@ not	O
 very	O
 good	O
 Asian	O
-food	FOOD
+food	O
 .	O
 I	O
 would	O
@@ -28049,7 +28049,7 @@ is	O
 ,	O
 a	O
 fast	O
-food	FOOD
+food	O
 Americanized	O
 Oriental	O
 restaurant	O
@@ -28140,7 +28140,7 @@ OK	O
 experiences	O
 with	O
 the	O
-food	FOOD
+food	O
 selections	O
 .	O
 I	O
@@ -28148,7 +28148,7 @@ do	O
 n't	O
 expect	O
 spectacular	O
-food	FOOD
+food	O
 from	O
 this	O
 place	O
@@ -28161,7 +28161,7 @@ all	O
 ,	O
 `	O
 Fast	O
-Food	FOOD
+Food	O
 '	O
 from	O
 a	O
@@ -28455,7 +28455,7 @@ had	O
 some	O
 of	O
 their	O
-food	FOOD
+food	O
 catered	O
 in	O
 for	O
@@ -28491,7 +28491,7 @@ quality	O
 of	O
 all	O
 the	O
-food	FOOD
+food	O
 ...	O
 veggies	O
 and	O
@@ -28790,7 +28790,7 @@ whatever	O
 reason	O
 ,	O
 the	O
-food	FOOD
+food	O
 here	O
 seemed	O
 much	O
@@ -28853,7 +28853,7 @@ always	O
 pleasant	O
 and	O
 the	O
-food	FOOD
+food	O
 comes	O
 out	O
 quickly.We	O
@@ -28861,7 +28861,7 @@ LOVE	O
 this	O
 place	O
 .	O
-Food	FOOD
+Food	O
 is	O
 excellent	O
 ,	O
@@ -28908,7 +28908,7 @@ eat	O
 outside	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 alright	O
 ,	O
@@ -28936,7 +28936,7 @@ decent	O
 place	O
 to	O
 grab	O
-food	FOOD
+food	O
 if	O
 you	O
 're	O
@@ -29020,7 +29020,7 @@ pods	O
 ,	O
 and	O
 water	O
-chestnuts	O
+chestnuts	FOOD
 in	O
 coconut	FOOD
 curry	FOOD
@@ -29187,7 +29187,7 @@ off	O
 .	O
 But	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 restaurant	O
@@ -29212,7 +29212,7 @@ be	O
 awesome	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 still	O
 good	O
@@ -29367,7 +29367,7 @@ impressed	O
 how	O
 well	O
 the	O
-food	FOOD
+food	O
 held	O
 up	O
 after	O
@@ -29457,7 +29457,7 @@ had	O
 more	O
 than	O
 enough	O
-food	FOOD
+food	O
 for	O
 $	O
 23	O
@@ -29521,7 +29521,7 @@ accurate	O
 no	O
 complaints	O
 there.The	O
-food	FOOD
+food	O
 here	O
 is	O
 quite	O
@@ -29617,7 +29617,7 @@ is	O
 not	O
 authentic	O
 asian	O
-food	FOOD
+food	O
 .	O
 But	O
 for	O
@@ -29630,7 +29630,7 @@ is	O
 pan	FOOD
 asian	O
 fast	O
-food	FOOD
+food	O
 -RRB-	O
 ,	O
 it	O
@@ -29638,7 +29638,7 @@ did	O
 not	O
 disappoint	O
 me.Fast	O
-food	FOOD
+food	O
 Chinese	O
 is	O
 generally	O
@@ -29688,7 +29688,7 @@ of	O
 a	O
 Minnesota-based	O
 ,	O
-fast-food	FOOD
+fast-food	O
 Chinese-American	O
 chain	O
 that	O
@@ -29770,7 +29770,7 @@ an	O
 expert	O
 on	O
 Asian	O
-food	FOOD
+food	O
 .	O
 So	O
 take	O
@@ -29873,7 +29873,7 @@ is	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 Asian	O
 entrees	O
 .	O
@@ -30147,7 +30147,7 @@ from	O
 work	O
 ,	O
 the	O
-food	FOOD
+food	O
 comes	O
 out	O
 fast	O
@@ -30293,7 +30293,7 @@ less	O
 disappointing	O
 then	O
 the	O
-food	FOOD
+food	O
 is	O
 the	O
 staff	O
@@ -30357,7 +30357,7 @@ or	O
 to	O
 replace	O
 my	O
-food	FOOD
+food	O
 .	O
 .	O
 Avoid	O
@@ -30366,7 +30366,7 @@ place	O
 like	O
 the	O
 plague.The	O
-food	FOOD
+food	O
 was	O
 decent	O
 .	O
@@ -30401,7 +30401,7 @@ a	O
 lot	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 never	O
 consistent	O
@@ -30543,7 +30543,7 @@ be	O
 doing	O
 something	O
 right.Good	O
-food	FOOD
+food	O
 and	O
 prices	O
 are	O
@@ -30934,7 +30934,7 @@ pretty	O
 regularly	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 good	O
 ,	O
@@ -30952,7 +30952,7 @@ looking	O
 -LRB-	O
 photos	O
 of	O
-food	FOOD
+food	O
 ,	O
 etc	O
 -RRB-	O
@@ -31010,7 +31010,7 @@ brown	FOOD
 I	O
 have	O
 ordered	O
-food	FOOD
+food	O
 from	O
 here	O
 on	O
@@ -31116,7 +31116,7 @@ across	O
 the	O
 street.always	O
 great	O
-food	FOOD
+food	O
 with	O
 great	O
 service	O
@@ -31282,7 +31282,7 @@ is	O
 frank	O
 `	O
 in	O
-food	FOOD
+food	O
 .	O
 Madison	O
 is	O
@@ -31294,7 +31294,7 @@ restaurants	O
 that	O
 serve	O
 real	O
-food	FOOD
+food	O
 ,	O
 not	O
 chemical	O
@@ -31303,7 +31303,7 @@ byproducts	O
 dressed	O
 up	O
 as	O
-food	FOOD
+food	O
 .	O
 Save	O
 your	O
@@ -31483,7 +31483,7 @@ the	O
 regulars	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 pretty	O
 standard	O
@@ -31496,7 +31496,7 @@ good	O
 .	O
 Sometimes	O
 the	O
-food	FOOD
+food	O
 does	O
 n't	O
 come	O
@@ -31875,7 +31875,7 @@ small	O
 inconsistencies	O
 in	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 slight	O
@@ -31955,7 +31955,7 @@ Ive	O
 never	O
 had	O
 their	O
-food	FOOD
+food	O
 but	O
 Ive	O
 heard	O
@@ -32201,7 +32201,7 @@ bogo	O
 sandwiches	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 pretty	O
 good	O
@@ -32248,7 +32248,7 @@ they	O
 were	O
 one	O
 per	O
-table	FOOD
+table	O
 -LRB-	O
 that	O
 was	O
@@ -32725,7 +32725,7 @@ jazz.BEST.CREME.BRULEE.EVER	O
 !!	O
 And	O
 the	O
-food	FOOD
+food	O
 ,	O
 the	O
 piano	O
@@ -32887,7 +32887,7 @@ day	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 fantastic	O
 ,	O
@@ -32924,7 +32924,7 @@ overpriced	O
 ,	O
 nasty	O
 Cajun	FOOD
-food	FOOD
+food	O
 and	O
 go	O
 for	O
@@ -32945,7 +32945,7 @@ try	O
 soon.One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 dining	O
 experiences	O
 in	O
@@ -33182,7 +33182,7 @@ it	O
 all	O
 night	O
 .	O
-Food	FOOD
+Food	O
 :	O
 Good	O
 ,	O
@@ -33327,7 +33327,7 @@ usually	O
 really	O
 like	O
 cajun	FOOD
-food	FOOD
+food	O
 .	O
 What	O
 I	O
@@ -33706,7 +33706,7 @@ restaurant	O
 experience	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 so	O
 good	O
@@ -33773,7 +33773,7 @@ Orleans	O
 mood	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 incredible	O
 .	O
@@ -33935,7 +33935,7 @@ you	O
 so	O
 much	O
 good	O
-food	FOOD
+food	O
 that	O
 you	O
 can	O
@@ -34041,7 +34041,7 @@ perfect	O
 That	O
 was	O
 my	O
-favorite	FOOD
+favorite	O
 part	O
 of	O
 the	O
@@ -34555,7 +34555,7 @@ had	O
 raved	O
 about	O
 the	O
-food	FOOD
+food	O
 &	O
 ambiance	O
 ,	O
@@ -34619,7 +34619,7 @@ Eventually	O
 sat	O
 at	O
 our	O
-table	FOOD
+table	O
 &	O
 perused	O
 the	O
@@ -34666,7 +34666,7 @@ without	O
 getting	O
 too	O
 much	O
-food	FOOD
+food	O
 .	O
 App	O
 #	O
@@ -34683,7 +34683,7 @@ savory	FOOD
 cream	FOOD
 sauce	FOOD
 with	O
-crawfish	O
+crawfish	FOOD
 was	O
 very	O
 tasty	O
@@ -34807,7 +34807,7 @@ up	O
 .	O
 Entree	O
 :	O
-Crawfish	O
+Crawfish	FOOD
 Etouffe	FOOD
 ...	O
 I	O
@@ -35037,7 +35037,7 @@ drinks	O
 &	O
 apps.Crazy	O
 good	O
-food	FOOD
+food	O
 ,	O
 excellent	O
 wine	FOOD
@@ -35093,10 +35093,10 @@ am	O
 more	O
 concerned	O
 about	O
-food	FOOD
+food	O
 .	O
 This	O
-food	FOOD
+food	O
 is	O
 awesome	O
 .	O
@@ -35105,7 +35105,7 @@ Go	O
 it	O
 is	O
 incredible.Good	O
-food	FOOD
+food	O
 ,	O
 I	O
 would	O
@@ -35130,7 +35130,7 @@ bad	O
 service	O
 or	O
 bad	O
-food	FOOD
+food	O
 here	O
 .	O
 It	O
@@ -35228,7 +35228,7 @@ the	O
 bar	FOOD
 if	O
 a	O
-table	FOOD
+table	O
 had	O
 n't	O
 been	O
@@ -35311,7 +35311,7 @@ special	O
 I	O
 tried	O
 the	O
-Crawfish	O
+Crawfish	FOOD
 Cheesecake	FOOD
 ,	O
 which	O
@@ -35341,7 +35341,7 @@ perfect	O
 appetizer	FOOD
 for	O
 a	O
-table	FOOD
+table	O
 of	O
 four	O
 but	O
@@ -35527,7 +35527,7 @@ found	O
 us	O
 a	O
 tiny	O
-table	FOOD
+table	O
 next	O
 to	O
 two	O
@@ -35542,7 +35542,7 @@ and	O
 cramped	O
 .	O
 The	O
-food	FOOD
+food	O
 however	O
 was	O
 great	O
@@ -35677,7 +35677,7 @@ is	O
 by	O
 far	O
 my	O
-favorite	FOOD
+favorite	O
 ,	O
 and	O
 for	O
@@ -35687,7 +35687,7 @@ of	O
 reasons	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 excellent	O
 :	O
@@ -35792,7 +35792,7 @@ jazz	O
 overtone	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 really	O
 quite	O
@@ -36201,7 +36201,7 @@ at	O
 was	O
 at	O
 the	O
-table	FOOD
+table	O
 ,	O
 she	O
 did	O
@@ -36348,7 +36348,7 @@ good	O
 .	O
 But	O
 the	O
-food	FOOD
+food	O
 was	O
 especially	O
 excellent	O
@@ -36639,7 +36639,7 @@ dinner	FOOD
 and	O
 overall	O
 the	O
-food	FOOD
+food	O
 is	O
 good	O
 .	O
@@ -36671,7 +36671,7 @@ a	O
 conversation	FOOD
 at	O
 the	O
-table	FOOD
+table	O
 .	O
 For	O
 the	O
@@ -36687,7 +36687,7 @@ better	O
 than	O
 this	O
 restaurant.Awesome	O
-food	FOOD
+food	O
 .	O
 Definitely	O
 a	O
@@ -37253,7 +37253,7 @@ plates	O
 sat	O
 on	O
 our	O
-table	FOOD
+table	O
 for	O
 25	O
 minutes	O
@@ -37272,7 +37272,7 @@ the	O
 staff	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 excellent	O
 ,	O
@@ -37356,7 +37356,7 @@ one	O
 -RRB-	O
 App	O
 :	O
-Crawfish	O
+Crawfish	FOOD
 cheesecake	FOOD
 ,	O
 sounds	O
@@ -37373,7 +37373,7 @@ once	O
 .	O
 Cheese	FOOD
 and	O
-crawfish	O
+crawfish	FOOD
 .	O
 Done	O
 .	O
@@ -37486,7 +37486,7 @@ pecan	FOOD
 catfish	FOOD
 with	O
 the	O
-crawfish	O
+crawfish	FOOD
 BBQ	FOOD
 on	O
 top	O
@@ -37541,7 +37541,7 @@ soothing	O
 ,	O
 hot	O
 soul	O
-food	FOOD
+food	O
 at	O
 its	O
 fanciest	O
@@ -37587,7 +37587,7 @@ the	O
 point	O
 of	O
 soul	O
-food	FOOD
+food	O
 .	O
 Service	O
 is	O
@@ -37673,7 +37673,7 @@ years	O
 ,	O
 gave	O
 excellent	O
-food	FOOD
+food	O
 and	O
 drink	O
 recs	O
@@ -37725,7 +37725,7 @@ faces	O
 with	O
 well-executed	O
 comfort	O
-food	FOOD
+food	O
 .	O
 Try	O
 the	O
@@ -37838,7 +37838,7 @@ throughout	O
 dinner	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 excellent	O
 and	O
@@ -37935,7 +37935,7 @@ n't	O
 finish	O
 it	O
 all.Good	O
-food	FOOD
+food	O
 but	O
 not	O
 authentic	O
@@ -38007,7 +38007,7 @@ the	O
 atmosphere	O
 .	O
 The	O
-food	FOOD
+food	O
 did	O
 not	O
 disappointment	O
@@ -38139,7 +38139,7 @@ salad	FOOD
 ,	O
 and	O
 the	O
-crawfish	O
+crawfish	FOOD
 corn	FOOD
 chowder	FOOD
 .	O
@@ -38220,7 +38220,7 @@ us	O
 oldies	O
 but	O
 the	O
-food	FOOD
+food	O
 made	O
 up	O
 for	O
@@ -38560,7 +38560,7 @@ meal	FOOD
 We	O
 had	O
 the	O
-Crawfish	O
+Crawfish	FOOD
 Cheesecake	FOOD
 for	O
 appetizer	FOOD
@@ -38605,14 +38605,14 @@ next	O
 day	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 rich	O
 and	O
 heavy	O
 ,	O
 comfort	O
-food	FOOD
+food	O
 like	O
 .	O
 If	O
@@ -38685,7 +38685,7 @@ were	O
 very	O
 good	O
 .	O
-Food	FOOD
+Food	O
 :	O
 For	O
 an	O
@@ -38813,7 +38813,7 @@ essentially	O
 all	O
 of	O
 our	O
-food	FOOD
+food	O
 to	O
 us	O
 ,	O
@@ -38879,7 +38879,7 @@ with	O
 piano	O
 music	O
 .	O
-Food	FOOD
+Food	O
 is	O
 always	O
 really	O
@@ -38915,7 +38915,7 @@ the	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 ,	O
 the	O
 ambiance	O
@@ -38955,7 +38955,7 @@ but	O
 not	O
 so	O
 great	O
-food	FOOD
+food	O
 .	O
 The	O
 pros	O
@@ -38986,7 +38986,7 @@ The	O
 cons	O
 :	O
 The	O
-food	FOOD
+food	O
 was	O
 boring	O
 and	O
@@ -39440,7 +39440,7 @@ that	O
 offer	O
 far	O
 superior	O
-food	FOOD
+food	O
 to	O
 Lousiannes	O
 ,	O
@@ -39461,7 +39461,7 @@ bar	FOOD
 for	O
 New	O
 Orleans	O
-food	FOOD
+food	O
 is	O
 quite	O
 insurmountable	O
@@ -39479,7 +39479,7 @@ the	O
 kitchen	FOOD
 can	O
 season	O
-food	FOOD
+food	O
 like	O
 nobody	O
 's	O
@@ -39488,7 +39488,7 @@ business	O
 It	O
 is	O
 great	O
-food	FOOD
+food	O
 .	O
 Seafood	FOOD
 was	O
@@ -39556,7 +39556,7 @@ great	O
 atmosphere	O
 and	O
 good	O
-food	FOOD
+food	O
 that	O
 is	O
 just	O
@@ -39914,7 +39914,7 @@ ten	O
 minutes	O
 for	O
 a	O
-table	FOOD
+table	O
 ,	O
 which	O
 was	O
@@ -40829,7 +40829,7 @@ the	O
 ambiance	O
 ,	O
 the	O
-food	FOOD
+food	O
 ,	O
 and	O
 the	O
@@ -41041,7 +41041,7 @@ like	O
 ``	O
 mom	O
 's	O
-food	FOOD
+food	O
 .	O
 ''	O
 Made	O
@@ -41088,7 +41088,7 @@ good	O
 prices	O
 and	O
 tasty	O
-food	FOOD
+food	O
 .	O
 Echo	O
 what	O
@@ -41304,7 +41304,7 @@ Nothing	O
 fancy	O
 ,	O
 good	O
-food	FOOD
+food	O
 ,	O
 large	O
 portions	O
@@ -41315,7 +41315,7 @@ also	O
 enjoy	O
 the	O
 good	O
-food	FOOD
+food	O
 but	O
 will	O
 be	O
@@ -41389,7 +41389,7 @@ did	O
 n't	O
 enjoy	O
 our	O
-food	FOOD
+food	O
 as	O
 much	O
 as	O
@@ -41494,7 +41494,7 @@ frills	O
 ,	O
 just	O
 good	O
-food	FOOD
+food	O
 simply	O
 made	O
 .	O
@@ -41518,7 +41518,7 @@ available	O
 by	O
 request	O
 .	O
-Oatmeal	O
+Oatmeal	FOOD
 was	O
 very	O
 good	O
@@ -41560,7 +41560,7 @@ to	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 of	O
 six	O
 to	O
@@ -41582,7 +41582,7 @@ cheap	O
 prices	O
 and	O
 good	O
-food.Great	FOOD
+food.Great	O
 coffee	FOOD
 and	O
 some	O
@@ -41847,7 +41847,7 @@ this	O
 place	O
 remains	O
 a	O
-favorite	FOOD
+favorite	O
 .	O
 Friendly	O
 ,	O
@@ -41867,7 +41867,7 @@ grandkids	O
 .	O
 Inexpensive	O
 .	O
-Oatmeal	O
+Oatmeal	FOOD
 for	O
 when	O
 you	O
@@ -41883,7 +41883,7 @@ ai	O
 n't	O
 for	O
 health	O
-food	FOOD
+food	O
 ...	O
 -RRB-	O
 Omelet	O
@@ -42271,7 +42271,7 @@ want	O
 We	O
 grabbed	O
 a	O
-table	FOOD
+table	O
 .	O
 My	O
 husband	O
@@ -42376,7 +42376,7 @@ the	O
 end	O
 of	O
 the	O
-table	FOOD
+table	O
 hoping	O
 to	O
 move	O
@@ -42454,7 +42454,7 @@ what	O
 you	O
 get	O
 ,	O
-food	FOOD
+food	O
 is	O
 unremarkable	O
 ,	O
@@ -42470,7 +42470,7 @@ it	O
 could	O
 use	O
 a	O
-food	FOOD
+food	O
 service	O
 inspection	FOOD
 because	O
@@ -42694,7 +42694,7 @@ is	O
 still	O
 at	O
 your	O
-table	FOOD
+table	O
 taking	O
 your	O
 drink	O
@@ -42802,7 +42802,7 @@ place	O
 Service	O
 decent	O
 .	O
-Food	FOOD
+Food	O
 portions	O
 are	O
 plentiful	O
@@ -42985,7 +42985,7 @@ grouch	O
 .	O
 Yes	O
 the	O
-food	FOOD
+food	O
 is	O
 pretty	O
 bad	O
@@ -43016,7 +43016,7 @@ your	O
 looking	O
 for	O
 Bar	FOOD
-food	FOOD
+food	O
 in	O
 the	O
 city	O
@@ -43064,7 +43064,7 @@ menu	FOOD
 other	O
 than	O
 the	O
-cheeseburger	O
+cheeseburger	FOOD
 but	O
 it	O
 was	O
@@ -43423,7 +43423,7 @@ Sport	O
 Bowl	FOOD
 =	O
 NEUTRAL	O
-Food	FOOD
+Food	O
 =	O
 2.75	O
 to	O
@@ -43652,13 +43652,13 @@ night	O
 for	O
 them	O
 .	O
-Food	FOOD
+Food	O
 :	O
 It	O
 's	O
 typical	O
 bar	FOOD
-food	FOOD
+food	O
 .	O
 They	O
 have	O
@@ -44015,7 +44015,7 @@ curds	FOOD
 and	O
 a	O
 bacon	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 ,	O
 with	O
 pepper	FOOD
@@ -44056,7 +44056,7 @@ bar	FOOD
 area	O
 .	O
 The	O
-food	FOOD
+food	O
 arrived	O
 ,	O
 and	O
@@ -44457,7 +44457,7 @@ Middleton	O
 SportBowl	O
 =	O
 WIN	O
-Food	FOOD
+Food	O
 =	O
 4.75	O
 stars	O
@@ -44587,7 +44587,7 @@ appearances	O
 stars	O
 :	O
 The	O
-food	FOOD
+food	O
 is	O
 terrible	O
 .	O
@@ -44712,7 +44712,7 @@ once	O
 asked	O
 how	O
 the	O
-food	FOOD
+food	O
 was	O
 ,	O
 nor	O
@@ -44723,7 +44723,7 @@ actually	O
 stop	O
 at	O
 the	O
-table	FOOD
+table	O
 except	O
 long	O
 enough	O
@@ -44740,7 +44740,7 @@ the	O
 fly	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 all	O
 but	O
@@ -45074,7 +45074,7 @@ is	O
 all	O
 about	O
 the	O
-food	FOOD
+food	O
 .	O
 Which	O
 ,	O
@@ -45163,7 +45163,7 @@ When	O
 you	O
 think	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 you	O
 think	O
@@ -45330,7 +45330,7 @@ a	O
 lot	O
 of	O
 good	O
-food	FOOD
+food	O
 for	O
 a	O
 good	O
@@ -45340,7 +45340,7 @@ The	O
 ``	O
 Philly	O
 ''	O
-cheesesteak	O
+cheesesteak	FOOD
 is	O
 too	O
 greasy	O
@@ -45437,11 +45437,11 @@ fish	FOOD
 ,	O
 when	O
 the	O
-food	FOOD
+food	O
 came	O
 to	O
 the	O
-table	FOOD
+table	O
 I	O
 saw	O
 beautiful	O
@@ -45569,7 +45569,7 @@ job	O
 It	O
 's	O
 a	O
-favorite	FOOD
+favorite	O
 of	O
 ours	O
 .	O
@@ -45685,7 +45685,7 @@ full	FOOD
 of	O
 bland	O
 comfort	O
-food	FOOD
+food	O
 .	O
 Wife	O
 had	O
@@ -45833,7 +45833,7 @@ service	O
 ,	O
 below	O
 average	O
-food	FOOD
+food	O
 and	O
 terrible	O
 atmosphere	O
@@ -46395,7 +46395,7 @@ we	O
 're	O
 just	O
 measuring	O
-food	FOOD
+food	O
 quality	O
 .	O
 Quick-n-dirty	O
@@ -46429,7 +46429,7 @@ offer	O
 unless	O
 you	O
 enjoy	O
-food	FOOD
+food	O
 that	O
 is	O
 extremely	O
@@ -46618,7 +46618,7 @@ to	O
 inquire	O
 about	O
 a	O
-table	FOOD
+table	O
 .	O
 So	O
 ,	O
@@ -46820,7 +46820,7 @@ our	O
 palettes	O
 .	O
 Our	O
-table	FOOD
+table	O
 was	O
 ready	O
 by	O
@@ -47142,7 +47142,7 @@ Stamm	O
 House	O
 =	O
 FAIL	O
-Food	FOOD
+Food	O
 :	O
 1	O
 star	O
@@ -47190,7 +47190,7 @@ nothing	O
 to	O
 do	O
 with	O
-food	FOOD
+food	O
 !!!	O
 -LRB-	O
 Unless	O
@@ -47352,7 +47352,7 @@ n't	O
 here	O
 for	O
 the	O
-food	FOOD
+food	O
 ,	O
 but	O
 I	O
@@ -47648,7 +47648,7 @@ good	O
 ,	O
 the	O
 best	O
-fast-food	FOOD
+fast-food	O
 burgers	O
 in	O
 my	O
@@ -47792,7 +47792,7 @@ about	O
 a	O
 time	O
 before	O
-fast-food	FOOD
+fast-food	O
 restaurants	O
 tried	O
 to	O
@@ -47878,7 +47878,7 @@ your	O
 typical	O
 run-down	O
 fast	O
-food	FOOD
+food	O
 eatery	O
 !	O
 Also	O
@@ -47927,7 +47927,7 @@ served	O
 Nothing	O
 in	O
 fast	O
-food	FOOD
+food	O
 is	O
 ever	O
 fresh	O
@@ -48006,7 +48006,7 @@ quality	O
 Well	O
 just	O
 the	O
-food	FOOD
+food	O
 part	O
 .	O
 I	O
@@ -48109,7 +48109,7 @@ super	O
 friendly	O
 .	O
 the	O
-food	FOOD
+food	O
 was	O
 made	O
 perfectly	O
@@ -48165,7 +48165,7 @@ are	O
 good	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 decent	O
 .	O
@@ -48184,7 +48184,7 @@ pay	O
 more	O
 for	O
 similar	O
-food	FOOD
+food	O
 .	O
 There	O
 's	O
@@ -48257,7 +48257,7 @@ the	O
 special	O
 ,	O
 double	O
-cheeseburger	O
+cheeseburger	FOOD
 with	O
 fries	FOOD
 for	O
@@ -48365,7 +48365,7 @@ I	O
 think	O
 the	O
 bar	FOOD
-food	FOOD
+food	O
 is	O
 great	O
 -LRB-	O
@@ -48463,7 +48463,7 @@ a	O
 bit	O
 -	O
 the	O
-food	FOOD
+food	O
 is	O
 still	O
 awesome	O
@@ -48631,7 +48631,7 @@ Both	O
 were	O
 great	O
 .	O
-Food	FOOD
+Food	O
 ?	O
 We	O
 tried	O
@@ -48849,7 +48849,7 @@ Village	O
 Green	FOOD
 =	O
 WIN	O
-Food	FOOD
+Food	O
 =	O
 3.75	O
 stars	O
@@ -48893,7 +48893,7 @@ big	O
 boost	O
 -RRB-	O
 Yummy	O
-food	FOOD
+food	O
 !	O
 Great	O
 service	O
@@ -48930,7 +48930,7 @@ the	O
 cooks	O
 preparing	O
 your	O
-food	FOOD
+food	O
 .	O
 Who	O
 knows	O
@@ -49165,7 +49165,7 @@ Wednesdays	O
 .	O
 All	O
 the	O
-food	FOOD
+food	O
 is	O
 cooked	O
 right	O
@@ -49350,7 +49350,7 @@ menu	FOOD
 with	O
 mostly	O
 fried	O
-food	FOOD
+food	O
 ,	O
 not	O
 many	O
@@ -49444,7 +49444,7 @@ forward	O
 to	O
 trying	O
 the	O
-food	FOOD
+food	O
 here	O
 .	O
 The	O
@@ -49712,7 +49712,7 @@ Samantha	O
 ROCKS	O
 !!!	O
 Great	O
-food	FOOD
+food	O
 .	O
 Friendly	O
 staff	O
@@ -49802,12 +49802,12 @@ to	O
 eat	O
 only	O
 fried	O
-food	FOOD
+food	O
 -RRB-	O
 .	O
 My	O
 all-time	O
-favorite	FOOD
+favorite	O
 is	O
 their	O
 summer	O
@@ -50015,7 +50015,7 @@ service	O
 prompt	O
 and	O
 hot	O
-food	FOOD
+food	O
 .	O
 Do	O
 n't	O
@@ -50044,7 +50044,7 @@ bar	FOOD
 feel	O
 .	O
 Good	O
-food	FOOD
+food	O
 ,	O
 nice	O
 tap	O
@@ -50070,7 +50070,7 @@ It	O
 's	O
 simple	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 but	O
 done	O
@@ -50151,7 +50151,7 @@ I	O
 stick	O
 to	O
 my	O
-cheeseburger.The	O
+cheeseburger.The	FOOD
 Village	O
 Green	FOOD
 is	O
@@ -50172,7 +50172,7 @@ and	O
 better	O
 than	O
 average	O
-food	FOOD
+food	O
 .	O
 It	O
 was	O
@@ -50218,7 +50218,7 @@ hankering	O
 for	O
 WI	O
 bar	FOOD
-food	FOOD
+food	O
 .	O
 I	O
 felt	O
@@ -50363,7 +50363,7 @@ service	O
 and	O
 really	O
 good	O
-food	FOOD
+food	O
 --	O
 we	O
 'll	O
@@ -50385,7 +50385,7 @@ neighborhood	O
 tavern	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 mostly	O
 fried	O
@@ -50530,7 +50530,7 @@ Wisconsin	O
 bar	FOOD
 .	O
 Good	O
-food	FOOD
+food	O
 and	O
 they	O
 make	O
@@ -50882,7 +50882,7 @@ service	O
 ,	O
 very	O
 tasty	O
-food	FOOD
+food	O
 and	O
 a	O
 friendly	O
@@ -51159,7 +51159,7 @@ clean	O
 atmosphere	O
 .	O
 My	O
-table	FOOD
+table	O
 of	O
 5	O
 started	O
@@ -51326,7 +51326,7 @@ for	O
 birthdays	O
 .	O
 Good	O
-food	FOOD
+food	O
 too	O
 ...	O
 Seemed	O
@@ -51492,7 +51492,7 @@ the	O
 end	O
 of	O
 the	O
-table	FOOD
+table	O
 as	O
 a	O
 hint	O
@@ -51987,7 +51987,7 @@ a	O
 bar	FOOD
 with	O
 good	O
-food	FOOD
+food	O
 to	O
 watch	O
 baseball	O
@@ -52218,7 +52218,7 @@ recent	O
 visit	O
 ,	O
 our	O
-table	FOOD
+table	O
 got	O
 an	O
 order	O
@@ -52384,7 +52384,7 @@ more	O
 of	O
 their	O
 crappy	O
-food	FOOD
+food	O
 .	O
 We	O
 spent	O
@@ -52465,7 +52465,7 @@ top	O
 of	O
 refills	O
 and	O
-food	FOOD
+food	O
 came	O
 out	O
 of	O
@@ -52996,7 +52996,7 @@ grilled	O
 cheese	FOOD
 ,	O
 and	O
-cheeseburger	O
+cheeseburger	FOOD
 .	O
 Very	O
 nice	O
@@ -53004,7 +53004,7 @@ nice	O
 friendly	O
 staff	O
 .	O
-Food	FOOD
+Food	O
 was	O
 brought	O
 out	O
@@ -53014,7 +53014,7 @@ Clean	O
 tables	O
 &	O
 restrooms.The	O
-food	FOOD
+food	O
 here	O
 is	O
 pretty	O
@@ -53288,7 +53288,7 @@ with	O
 Culvers	O
 ?	O
 The	O
-food	FOOD
+food	O
 costs	O
 twice	O
 that	O
@@ -53411,7 +53411,7 @@ A	O
 frank	O
 `	O
 en	O
-food	FOOD
+food	O
 knock	O
 off	O
 of	O
@@ -53498,7 +53498,7 @@ very	O
 happy	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 very	O
 tasty	O
@@ -53511,11 +53511,11 @@ I	O
 can	O
 find	O
 quality	O
-fast-food	FOOD
+fast-food	O
 ,	O
 yet	O
 sit-down	O
-food	FOOD
+food	O
 across	O
 the	O
 nation!This	O
@@ -53558,12 +53558,12 @@ miserable	O
 like	O
 most	O
 fast	O
-food	FOOD
+food	O
 employees	O
 .	O
 And	O
 the	O
-food	FOOD
+food	O
 is	O
 almost	O
 always	O
@@ -53644,7 +53644,7 @@ It	O
 is	O
 a	O
 fast	O
-food	FOOD
+food	O
 restaurant	O
 but	O
 it	O
@@ -53658,7 +53658,7 @@ expect	O
 from	O
 a	O
 fast	O
-food	FOOD
+food	O
 restaurant.Affordable	O
 ,	O
 fast	O
@@ -53707,7 +53707,7 @@ good	O
 too!The	O
 best	O
 Italian	O
-food	FOOD
+food	O
 in	O
 town	O
 ,	O
@@ -53742,7 +53742,7 @@ tomorrow	O
 My	O
 girlfriend	O
 's	O
-favorite	FOOD
+favorite	O
 is	O
 the	O
 pasta	FOOD
@@ -53805,7 +53805,7 @@ best	O
 home	O
 made	O
 Italian	O
-food	FOOD
+food	O
 in	O
 the	O
 midwest	O
@@ -53929,7 +53929,7 @@ the	O
 quality	O
 of	O
 their	O
-food	FOOD
+food	O
 and	O
 the	O
 high	O
@@ -53942,7 +53942,7 @@ their	O
 guests	O
 .	O
 Their	O
-food	FOOD
+food	O
 is	O
 some	O
 of	O
@@ -54001,7 +54001,7 @@ without	O
 leftovers	FOOD
 .	O
 My	O
-favorite	FOOD
+favorite	O
 dish	O
 is	O
 the	O
@@ -54038,7 +54038,7 @@ easily	O
 the	O
 best	O
 Italian	O
-food	FOOD
+food	O
 in	O
 the	O
 Madison	O
@@ -54151,7 +54151,7 @@ back	O
 for	O
 the	O
 delicious	O
-food	FOOD
+food	O
 ,	O
 big	O
 servings	O
@@ -54397,7 +54397,7 @@ high	O
 expectations	O
 for	O
 the	O
-food	FOOD
+food	O
 .	O
 Although	O
 some	O
@@ -54476,7 +54476,7 @@ bread	FOOD
 served	O
 at	O
 the	O
-table	FOOD
+table	O
 is	O
 similarly	O
 warm	O
@@ -54860,7 +54860,7 @@ last	O
 piece	O
 to	O
 a	O
-table	FOOD
+table	O
 that	O
 came	O
 in	O
@@ -54982,7 +54982,7 @@ easily	O
 the	O
 best	O
 Italian	O
-food	FOOD
+food	O
 in	O
 the	O
 Madison	O
@@ -55002,7 +55002,7 @@ Pasta	FOOD
 make	O
 better	O
 Italian	O
-food	FOOD
+food	O
 ,	O
 and	O
 I	O
@@ -55251,7 +55251,7 @@ HUGE	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 fresh	O
 and	O
@@ -55414,7 +55414,7 @@ minutes	O
 As	O
 for	O
 the	O
-food	FOOD
+food	O
 ,	O
 none	O
 of	O
@@ -55507,7 +55507,7 @@ We	O
 definitely	O
 be	O
 back.Great	O
-food	FOOD
+food	O
 ,	O
 large	O
 portions	O
@@ -55848,7 +55848,7 @@ in	O
 the	O
 kitchen	FOOD
 kept	O
-food	FOOD
+food	O
 coming	O
 at	O
 a	O
@@ -55947,7 +55947,7 @@ next	O
 day	O
 .	O
 Great	O
-food	FOOD
+food	O
 ,	O
 great	O
 service	O
@@ -56340,7 +56340,7 @@ far	O
 the	O
 best	O
 Italian	O
-food	FOOD
+food	O
 I	O
 've	O
 ever	O
@@ -56416,7 +56416,7 @@ a	O
 little	O
 close	O
 .	O
-Food	FOOD
+Food	O
 was	O
 delivered	O
 piping	O
@@ -56426,7 +56426,7 @@ service	O
 was	O
 good	O
 .	O
-Food	FOOD
+Food	O
 we	O
 had	O
 was	O
@@ -56476,7 +56476,7 @@ to	O
 hear	O
 from	O
 our	O
-table	FOOD
+table	O
 ,	O
 kinda	O
 shouting	O
@@ -56533,12 +56533,12 @@ had	O
 stopped	O
 at	O
 our	O
-table	FOOD
+table	O
 and	O
 asked	O
 how	O
 our	O
-food	FOOD
+food	O
 was	O
 ,	O
 etc.	O
@@ -56572,7 +56572,7 @@ again	O
 based	O
 on	O
 the	O
-food	FOOD
+food	O
 ,	O
 but	O
 hope	O
@@ -56626,7 +56626,7 @@ blown	O
 away	O
 by	O
 the	O
-food	FOOD
+food	O
 here	O
 .	O
 There	O
@@ -56770,14 +56770,14 @@ tiramisu	FOOD
 simple	O
 sensational	O
 .	O
-Canoli	O
+Canoli	FOOD
 was	O
 good	O
 but	O
 was	O
 my	O
 least	O
-favorite	FOOD
+favorite	O
 part	O
 of	O
 the	O
@@ -57010,7 +57010,7 @@ how	O
 I	O
 liked	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 service	O
@@ -57066,7 +57066,7 @@ love	O
 to	O
 rate	O
 their	O
-food	FOOD
+food	O
 ,	O
 but	O
 never	O
@@ -57312,7 +57312,7 @@ Olive	FOOD
 Garden	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 10x	O
 the	O
@@ -57387,7 +57387,7 @@ cuisine!Really	FOOD
 a	O
 wonderful	O
 Italian	O
-Food	FOOD
+Food	O
 experience	O
 .	O
 Everything	O
@@ -57483,7 +57483,7 @@ at	O
 2.5	O
 stars	O
 for	O
-food	FOOD
+food	O
 and	O
 4	O
 stars	O
@@ -57505,7 +57505,7 @@ francisco	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 at	O
 Vin	O
 Santo	O
@@ -57576,7 +57576,7 @@ deal	O
 -RRB-	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 great	O
 ,	O
@@ -57595,7 +57595,7 @@ back!This	O
 is	O
 my	O
 new	O
-favorite	FOOD
+favorite	O
 restaurant	O
 in	O
 the	O
@@ -57606,7 +57606,7 @@ Everything	O
 that	O
 crossed	O
 our	O
-table	FOOD
+table	O
 from	O
 the	O
 fresh	O
@@ -57741,7 +57741,7 @@ casually	O
 decorated	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 the	O
 stand	O
@@ -57789,7 +57789,7 @@ describing	O
 the	O
 menu	FOOD
 .	O
-Food	FOOD
+Food	O
 is	O
 delivered	O
 in	O
@@ -57846,12 +57846,12 @@ place	O
 for	O
 its	O
 great	O
-food	FOOD
+food	O
 and	O
 for	O
 its	O
 character.Average	O
-food	FOOD
+food	O
 ,	O
 good	O
 service	O
@@ -57884,7 +57884,7 @@ Louisianne	O
 .	O
 Fresh	O
 Italian	O
-food	FOOD
+food	O
 with	O
 a	O
 emphasis	O
@@ -57909,7 +57909,7 @@ hoping	O
 to	O
 order	O
 some	O
-food	FOOD
+food	O
 to	O
 go	O
 .	O
@@ -57982,7 +57982,7 @@ out	O
 request	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 delicious	O
 and	O
@@ -58090,7 +58090,7 @@ so	O
 good	O
 ,	O
 the	O
-table	FOOD
+table	O
 will	O
 definitely	O
 fight	O
@@ -58148,7 +58148,7 @@ Need	O
 More	O
 .	O
 Pasta.Great	FOOD
-food	FOOD
+food	O
 ,	O
 portions	O
 could	O
@@ -58183,7 +58183,7 @@ gems	O
 It	O
 's	O
 our	O
-favorite	FOOD
+favorite	O
 place	O
 to	O
 go	O
@@ -58215,7 +58215,7 @@ small	O
 place	O
 but	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 ...	O
@@ -58640,7 +58640,7 @@ atmosphere	O
 .	O
 The	O
 Italian	O
-food	FOOD
+food	O
 tastes	O
 homemade	O
 and	O
@@ -58659,7 +58659,7 @@ not	O
 for	O
 a	O
 family.The	O
-food	FOOD
+food	O
 is	O
 very	O
 good	O
@@ -58670,7 +58670,7 @@ overpriced	O
 My	O
 wife	O
 's	O
-favorite	FOOD
+favorite	O
 dessert	FOOD
 is	O
 bread	FOOD
@@ -58699,7 +58699,7 @@ was	O
 excellent	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 also	O
 very	O
@@ -58868,13 +58868,13 @@ in	O
 your	O
 face	O
 and	O
-food	FOOD
+food	O
 when	O
 she	O
 is	O
 at	O
 the	O
-table	FOOD
+table	O
 next	O
 to	O
 you	O
@@ -59152,7 +59152,7 @@ while	O
 to	O
 get	O
 your	O
-food	FOOD
+food	O
 .	O
 Also	O
 ,	O
@@ -59200,7 +59200,7 @@ inexpensive	O
 and	O
 SO	O
 much	O
-food	FOOD
+food	O
 !	O
 In	O
 fact	O
@@ -59255,7 +59255,7 @@ had	O
 heaping	O
 amounts	O
 of	O
-food	FOOD
+food	O
 and	O
 delicious	O
 in	O
@@ -59331,7 +59331,7 @@ better	O
 ...	O
 Unbelievably	O
 good	O
-food	FOOD
+food	O
 .	O
 Portions	O
 are	O
@@ -59429,7 +59429,7 @@ meh	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 was	O
 great	O
 .	O
@@ -59479,7 +59479,7 @@ excellent	O
 service	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 fantastic	O
 .	O
@@ -59689,7 +59689,7 @@ is	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 restaurants	O
 in	O
 Middleton	O
@@ -59703,7 +59703,7 @@ friendly	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 delicious	O
 .	O
@@ -59832,7 +59832,7 @@ friendly	O
 atmosphere	O
 and	O
 great	O
-food	FOOD
+food	O
 .	O
 I	O
 highly	O
@@ -60218,7 +60218,7 @@ had	O
 any	O
 of	O
 the	O
-food	FOOD
+food	O
 ,	O
 but	O
 I	O
@@ -60425,7 +60425,7 @@ were	O
 non-existent	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 atrocious	O
 ,	O
@@ -60532,7 +60532,7 @@ bitter	O
 cold	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 nothing	O
 worth	O
@@ -60740,7 +60740,7 @@ a	O
 drink	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 average	O
 ,	O
@@ -61066,7 +61066,7 @@ selection	O
 is	O
 average	O
 .	O
-Food	FOOD
+Food	O
 is	O
 ok	O
 but	O
@@ -61279,7 +61279,7 @@ there	O
 .	O
 While	O
 the	O
-food	FOOD
+food	O
 overall	O
 wasnt	O
 the	O
@@ -61343,7 +61343,7 @@ the	O
 island	O
 ...	O
 atleast	O
-food	FOOD
+food	O
 is	O
 fresh	O
 .	O
@@ -61438,7 +61438,7 @@ so	O
 everyone	O
 at	O
 the	O
-table	FOOD
+table	O
 tried	O
 the	O
 soda	O
@@ -62032,7 +62032,7 @@ pretty	O
 representative	O
 of	O
 the	O
-food/wait	FOOD
+food/wait	O
 staff	O
 which	O
 is	O
@@ -62485,7 +62485,7 @@ There	O
 way	O
 too	O
 much	O
-food	FOOD
+food	O
 and	O
 it	O
 's	O
@@ -62526,7 +62526,7 @@ will	O
 continue	O
 to.Not	O
 my	O
-favorite	FOOD
+favorite	O
 live	O
 music	O
 venue	O
@@ -62614,7 +62614,7 @@ dining	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 good	O
 .	O
@@ -62785,7 +62785,7 @@ Club	O
 was	O
 always	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 75	O
 cent	O
@@ -62828,7 +62828,7 @@ is	O
 making	O
 some	O
 great	O
-food	FOOD
+food	O
 these	O
 days	O
 !	O
@@ -62912,7 +62912,7 @@ spectacular	O
 though	O
 the	O
 homemade	O
-breads	O
+breads	FOOD
 are	O
 quite	O
 good	O
@@ -63049,7 +63049,7 @@ hostess	O
 offered	O
 me	O
 a	O
-table	FOOD
+table	O
 outside	O
 ,	O
 which	O
@@ -63128,7 +63128,7 @@ to	O
 tend	O
 to	O
 another	O
-table	FOOD
+table	O
 ;	O
 I	O
 needed	O
@@ -63341,7 +63341,7 @@ at	O
 the	O
 chance	O
 .	O
-Food	FOOD
+Food	O
 came	O
 about	O
 20	O
@@ -63516,7 +63516,7 @@ stars	O
 nothing	O
 great	O
 -RRB-	O
-Food	FOOD
+Food	O
 =	O
 3	O
 stars	O
@@ -63542,7 +63542,7 @@ MISC	O
 3	O
 stars	O
 -LRB-	O
-bakery	FOOD
+bakery	O
 items	O
 looked	O
 stellar	O
@@ -63639,7 +63639,7 @@ again	O
 .5	O
 stars	O
 for	O
-food	FOOD
+food	O
 and	O
 service	O
 .	O
@@ -63825,12 +63825,12 @@ much	O
 your	O
 standard	O
 breakfast	FOOD
-food	FOOD
+food	O
 ,	O
 with	O
 some	O
 specialty	O
-bakery	FOOD
+bakery	O
 fare	O
 .	O
 Clean	O
@@ -63951,7 +63951,7 @@ one	O
 complaint	O
 about	O
 my	O
-food	FOOD
+food	O
 `	O
 tho	O
 ,	O
@@ -64036,7 +64036,7 @@ since	O
 it	O
 was	O
 a	O
-bakery	FOOD
+bakery	O
 ,	O
 we	O
 HAD	O
@@ -64263,7 +64263,7 @@ Plus	O
 all	O
 of	O
 the	O
-breads	O
+breads	FOOD
 are	O
 made	O
 in-house	O
@@ -64298,7 +64298,7 @@ something	O
 out	O
 of	O
 the	O
-bakery	FOOD
+bakery	O
 case.C	O
 's	O
 is	O
@@ -64316,14 +64316,14 @@ restaurant	O
 makes	O
 all	O
 the	O
-breads	O
+breads	FOOD
 ,	O
 buns	O
 ,	O
 pies	O
 ,	O
 and	O
-bakery	FOOD
+bakery	O
 in	O
 house	O
 .	O
@@ -64433,7 +64433,7 @@ has	O
 quickly	O
 become	O
 a	O
-favorite	FOOD
+favorite	O
 for	O
 Sunday	O
 breakfast.I	FOOD
@@ -64510,7 +64510,7 @@ of	O
 minutes	O
 for	O
 a	O
-table	FOOD
+table	O
 and	O
 if	O
 push	O
@@ -64749,7 +64749,7 @@ have	O
 mentioned	O
 ,	O
 the	O
-bakery	FOOD
+bakery	O
 is	O
 amazing	O
 :	O
@@ -65000,7 +65000,7 @@ I	O
 had	O
 such	O
 wonderful	O
-food	FOOD
+food	O
 when	O
 eating	O
 out	O
@@ -65174,14 +65174,14 @@ and	O
 satisfying	O
 .	O
 The	O
-breads	O
+breads	FOOD
 remain	O
 excellent	O
 ,	O
 as	O
 are	O
 the	O
-bakery	FOOD
+bakery	O
 items	O
 .	O
 I	O
@@ -65409,7 +65409,7 @@ the	O
 greatest	O
 and	O
 my	O
-food	FOOD
+food	O
 was	O
 cold	O
 ...	O
@@ -65455,7 +65455,7 @@ and	O
 the	O
 quality	O
 of	O
-food	FOOD
+food	O
 was	O
 lacking	O
 .	O
@@ -65480,7 +65480,7 @@ I	O
 do	O
 love	O
 the	O
-bakery	FOOD
+bakery	O
 items	O
 so	O
 could	O
@@ -65588,7 +65588,7 @@ day	O
 .	O
 That	O
 happens.My	O
-favorite	FOOD
+favorite	O
 breakfast	FOOD
 place	O
 in	O
@@ -65641,7 +65641,7 @@ are	O
 slooooooooow	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 adequate	O
 -LRB-	O
@@ -65652,7 +65652,7 @@ lecture	O
 me	O
 about	O
 fast	O
-food	FOOD
+food	O
 ,	O
 why	O
 are	O
@@ -65734,7 +65734,7 @@ pretty	O
 dirty	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 mediocre	O
 ,	O
@@ -65760,7 +65760,7 @@ for	O
 showing	O
 up.Good	O
 bk	O
-food	FOOD
+food	O
 .	O
 Slow	O
 service	O
@@ -65795,7 +65795,7 @@ window.It	O
 's	O
 called	O
 fast	O
-food	FOOD
+food	O
 .	O
 Not	O
 wait	O
@@ -65806,7 +65806,7 @@ for	O
 a	O
 fricking	O
 burger	FOOD
-food	FOOD
+food	O
 .	O
 WTF	O
 how	O
@@ -65917,7 +65917,7 @@ the	O
 worst	O
 in	O
 fast	O
-food	FOOD
+food	O
 .	O
 Once	O
 i	O
@@ -65983,7 +65983,7 @@ Wendy	O
 ,	O
 got	O
 my	O
-food	FOOD
+food	O
 and	O
 drove	O
 past	O
@@ -66080,7 +66080,7 @@ one	O
 piece	O
 delivered	O
 our	O
-food	FOOD
+food	O
 .	O
 Do	O
 n't	O
@@ -66100,7 +66100,7 @@ from	O
 the	O
 ``	O
 Family	O
-Food	FOOD
+Food	O
 ''	O
 giveaway	O
 at	O
@@ -66259,7 +66259,7 @@ because	O
 they	O
 made	O
 his	O
-food	FOOD
+food	O
 wrong	O
 .	O
 At	O
@@ -66650,7 +66650,7 @@ ordered	O
 and	O
 got	O
 my	O
-food	FOOD
+food	O
 in	O
 less	O
 time	O
@@ -66766,7 +66766,7 @@ and	O
 they	O
 make	O
 the	O
-food	FOOD
+food	O
 fresh	O
 to	O
 order	O
@@ -66845,7 +66845,7 @@ elsewhere	O
 -LRB-	O
 still	O
 no	O
-food	FOOD
+food	O
 -RRB-	O
 and	O
 I	O
@@ -66877,7 +66877,7 @@ later	O
 -RRB-	O
 got	O
 my	O
-food	FOOD
+food	O
 ,	O
 which	O
 was	O
@@ -67105,7 +67105,7 @@ hole	O
 Why	O
 does	O
 the	O
-food	FOOD
+food	O
 taste	O
 weird	O
 ?	O
@@ -67141,7 +67141,7 @@ my	O
 house	O
 .	O
 The	O
-food	FOOD
+food	O
 here	O
 tastes	O
 bad	O
@@ -67157,7 +67157,7 @@ they	O
 doing	O
 to	O
 the	O
-food	FOOD
+food	O
 ?	O
 Fix	O
 thyself	O
@@ -67529,7 +67529,7 @@ translate	O
 to	O
 the	O
 mediocre	O
-food	FOOD
+food	O
 ?	O
 You	O
 can	O
@@ -67675,7 +67675,7 @@ knows	O
 Now	O
 onto	O
 the	O
-food	FOOD
+food	O
 .	O
 Their	O
 pizza	FOOD
@@ -67926,7 +67926,7 @@ Sun	O
 Prairie	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 even	O
 better	O
@@ -68004,7 +68004,7 @@ times	O
 I	O
 recommend	O
 sea	O
-food	FOOD
+food	O
 soup	FOOD
 ,	O
 spicy	O
@@ -68065,7 +68065,7 @@ place	O
 to	O
 get	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Sun	O
 Prairie	O
@@ -68191,7 +68191,7 @@ great	O
 selection	O
 and	O
 fabulous	O
-food	FOOD
+food	O
 .	O
 I	O
 ordered	O
@@ -68313,7 +68313,7 @@ going	O
 to	O
 charge	O
 for	O
-food	FOOD
+food	O
 with	O
 those	O
 items	O
@@ -68361,7 +68361,7 @@ They	O
 have	O
 excellent	O
 Chinese	O
-food	FOOD
+food	O
 and	O
 the	O
 prices	O
@@ -68466,7 +68466,7 @@ for	O
 our	O
 Americanized	O
 Chinese	O
-food	FOOD
+food	O
 every	O
 so	O
 often	O
@@ -68486,7 +68486,7 @@ the	O
 quality	O
 of	O
 their	O
-food	FOOD
+food	O
 has	O
 taken	O
 a	O
@@ -68587,7 +68587,7 @@ It	O
 just	O
 really	O
 really	O
-good.Food	FOOD
+good.Food	O
 is	O
 insanely	O
 good	O
@@ -68731,7 +68731,7 @@ red	FOOD
 and	O
 white	O
 checkered	O
-table	FOOD
+table	O
 cloths	O
 .	O
 Soooo	O
@@ -68857,7 +68857,7 @@ bread	FOOD
 -LRB-	O
 my	O
 new	O
-favorite	FOOD
+favorite	O
 bread	FOOD
 -RRB-	O
 .	O
@@ -69129,7 +69129,7 @@ know	O
 Chris	O
 Burke	O
 !!!!	O
-Food	FOOD
+Food	O
 was	O
 amazing	O
 !!!	O
@@ -69352,7 +69352,7 @@ this	O
 usually	O
 means	O
 good	O
-food	FOOD
+food	O
 .	O
 But	O
 we	O
@@ -69374,7 +69374,7 @@ one	O
 couple	O
 at	O
 a	O
-table	FOOD
+table	O
 eating	O
 ,	O
 but	O
@@ -69463,12 +69463,12 @@ them	O
 not	O
 being	O
 fast	O
-food	FOOD
+food	O
 ,	O
 and	O
 that	O
 good	O
-food	FOOD
+food	O
 takes	O
 time	O
 so	O
@@ -69671,7 +69671,7 @@ not	O
 from	O
 a	O
 fast	O
-food	FOOD
+food	O
 chain	O
 .	O
 Talk	O
@@ -69764,7 +69764,7 @@ dominated	O
 mostly	O
 by	O
 fast	O
-food	FOOD
+food	O
 joints	O
 .	O
 Only	O
@@ -69788,7 +69788,7 @@ is	O
 awesome	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 amazing	O
 to	O
@@ -69973,7 +69973,7 @@ year	O
 or	O
 so	O
 the	O
-food	FOOD
+food	O
 has	O
 been	O
 slipping	O
@@ -70300,7 +70300,7 @@ closed	O
 This	O
 was	O
 my	O
-favorite	FOOD
+favorite	O
 sandwich	FOOD
 ,	O
 anywhere	O
@@ -70320,7 +70320,7 @@ you	O
 for	O
 the	O
 delicious	O
-food!Ross	FOOD
+food!Ross	O
 ,	O
 I	O
 hope	O
@@ -70364,7 +70364,7 @@ folks	O
 darn	O
 good	O
 diner	FOOD
-food	FOOD
+food	O
 ,	O
 nice	O
 size	O
@@ -70395,7 +70395,7 @@ that.Found	O
 hair	O
 in	O
 my	O
-food	FOOD
+food	O
 .	O
 BLECH	O
 !!	O
@@ -70518,7 +70518,7 @@ stuck	O
 to	O
 the	O
 new	O
-table	FOOD
+table	O
 ,	O
 the	O
 floor	O
@@ -70725,7 +70725,7 @@ had	O
 n't	O
 eaten	O
 my	O
-food	FOOD
+food	O
 ,	O
 she	O
 offered	O
@@ -70799,7 +70799,7 @@ the	O
 garbage	O
 they	O
 call	O
-food	FOOD
+food	O
 .	O
 I	O
 paid	O
@@ -70925,7 +70925,7 @@ waitress	O
 .	O
 When	O
 the	O
-food	FOOD
+food	O
 finally	O
 arrived	O
 three	O
@@ -70974,7 +70974,7 @@ kept	O
 staring	O
 at	O
 our	O
-table	FOOD
+table	O
 with	O
 a	O
 look	O
@@ -71175,7 +71175,7 @@ the	O
 restaurant	O
 .	O
 The	O
-food	FOOD
+food	O
 seems	O
 a	O
 bit	O
@@ -71275,7 +71275,7 @@ for	O
 breakfast	FOOD
 as	O
 a	O
-table	FOOD
+table	O
 of	O
 four	O
 .	O
@@ -71383,7 +71383,7 @@ the	O
 bill	O
 on	O
 the	O
-table	FOOD
+table	O
 saying	O
 that	O
 she	O
@@ -71468,7 +71468,7 @@ had	O
 lunch	FOOD
 or	O
 dinner	FOOD
-food	FOOD
+food	O
 here	O
 ,	O
 and	O
@@ -71542,7 +71542,7 @@ times	O
 ,	O
 and	O
 breakfast	FOOD
-food	FOOD
+food	O
 is	O
 solid	O
 .	O
@@ -71607,7 +71607,7 @@ well	O
 that	O
 's	O
 it	O
-food	FOOD
+food	O
 -	O
 just	O
 not	O
@@ -72027,7 +72027,7 @@ customers	O
 -RRB-	O
 .	O
 The	O
-food	FOOD
+food	O
 :	O
 Any	O
 hobo	FOOD
@@ -72153,7 +72153,7 @@ restaurant	O
 but	O
 ...	O
 The	O
-food	FOOD
+food	O
 was	O
 NOT	O
 good	O
@@ -72358,7 +72358,7 @@ chain	O
 restaurants	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 usually	O
 above	O
@@ -72396,7 +72396,7 @@ always	O
 get	O
 so	O
 much	O
-food	FOOD
+food	O
 and	O
 so	O
 fast	O
@@ -72501,7 +72501,7 @@ Americanized	O
 ,	O
 crappy	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 Here	O
 ,	O
@@ -72544,7 +72544,7 @@ too	O
 .	O
 The	O
 Chinese	O
-food	FOOD
+food	O
 options	O
 in	O
 Portland	O
@@ -72660,7 +72660,7 @@ and	O
 calling	O
 it	O
 chinese	O
-food.This	FOOD
+food.This	O
 place	O
 is	O
 both	O
@@ -72688,7 +72688,7 @@ it	O
 okay	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 always	O
 fresh	O
@@ -72724,7 +72724,7 @@ good	O
 It	O
 's	O
 a	O
-favorite	FOOD
+favorite	O
 for	O
 take	O
 out	O
@@ -72739,7 +72739,7 @@ this	O
 place	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 always	O
 fresh	O
@@ -72820,7 +72820,7 @@ the	O
 other	O
 mediocre	O
 Chinese	O
-food	FOOD
+food	O
 buffet	FOOD
 restaurants	O
 I	O
@@ -73068,7 +73068,7 @@ to	O
 nap	O
 off	O
 the	O
-food	FOOD
+food	O
 coma	O
 ...	O
 I	O
@@ -73296,13 +73296,13 @@ n't	O
 found	O
 any	O
 Chinese	O
-food	FOOD
+food	O
 as	O
 good.Good	O
 old	O
 fashioned	O
 diner	FOOD
-food	FOOD
+food	O
 with	O
 a	O
 generous	O
@@ -73605,7 +73605,7 @@ gimmicks	O
 ,	O
 just	O
 honest	O
-food	FOOD
+food	O
 done	O
 well	O
 .	O
@@ -73636,7 +73636,7 @@ perfect	O
 .	O
 Perhaps	O
 my	O
-favorite	FOOD
+favorite	O
 part	O
 about	O
 my	O
@@ -73716,7 +73716,7 @@ you	O
 they	O
 make	O
 good	O
-food	FOOD
+food	O
 in	O
 that	O
 tiny	O
@@ -73895,7 +73895,7 @@ at	O
 home	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 just	O
 average	O
@@ -73912,7 +73912,7 @@ as	O
 important	O
 as	O
 the	O
-food	FOOD
+food	O
 in	O
 a	O
 restaurant	O
@@ -73982,7 +73982,7 @@ gravy	FOOD
 lots	O
 of	O
 diner	FOOD
-food	FOOD
+food	O
 .	O
 We	O
 sat	O
@@ -74031,7 +74031,7 @@ are	O
 reasonable	O
 ,	O
 the	O
-food	FOOD
+food	O
 plentiful	O
 and	O
 the	O
@@ -74045,7 +74045,7 @@ fancy	O
 ,	O
 just	O
 good	O
-food.We	FOOD
+food.We	O
 will	O
 be	O
 going	O
@@ -74097,7 +74097,7 @@ for	O
 the	O
 quality	O
 of	O
-food	FOOD
+food	O
 ,	O
 and	O
 the	O
@@ -74151,7 +74151,7 @@ nice	O
 atmosphere	O
 ,	O
 good	O
-food	FOOD
+food	O
 ,	O
 nice	O
 waitstaff	O
@@ -74317,7 +74317,7 @@ local	O
 diner	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 good	O
 with	O
@@ -74466,7 +74466,7 @@ the	O
 tongs	O
 for	O
 serving	O
-food	FOOD
+food	O
 ,	O
 no	O
 hand	O
@@ -74748,7 +74748,7 @@ downing	O
 a	O
 ton	O
 of	O
-food	FOOD
+food	O
 was	O
 a	O
 little	O
@@ -74932,7 +74932,7 @@ his	O
 teeth	O
 on	O
 the	O
-table	FOOD
+table	O
 ,	O
 and	O
 another	O
@@ -74943,7 +74943,7 @@ dog	FOOD
 hidden	O
 under	O
 the	O
-table	FOOD
+table	O
 .	O
 That	O
 man	O
@@ -74971,7 +74971,7 @@ am	O
 Alice	O
 !	O
 The	O
-food	FOOD
+food	O
 here	O
 is	O
 just	O
@@ -75021,7 +75021,7 @@ competent	O
 staff.Good	O
 inexpensive	O
 cafe	FOOD
-food	FOOD
+food	O
 .	O
 Pleasant	O
 waitresses	O
@@ -75124,7 +75124,7 @@ good	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 -LRB-	O
 I	O
 got	O
@@ -75239,7 +75239,7 @@ old-fashioned	O
 breakfast	FOOD
 with	O
 real	O
-food	FOOD
+food	O
 and	O
 friendly	O
 serviceGreat	O
@@ -75270,7 +75270,7 @@ not	O
 recommend	O
 DQ	O
 's	O
-food	FOOD
+food	O
 .	O
 It	O
 is	O
@@ -76053,7 +76053,7 @@ friendly.Good	O
 bar	FOOD
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 ok	O
 not	O
@@ -76097,7 +76097,7 @@ again	O
 I	O
 'm	O
 sure.Great	O
-food	FOOD
+food	O
 ,	O
 new	O
 management	O
@@ -76625,7 +76625,7 @@ and	O
 I	O
 thought	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 .	O
@@ -76844,7 +76844,7 @@ were	O
 happy	O
 .	O
 Yummy	O
-food	FOOD
+food	O
 and	O
 good	O
 portions	O
@@ -76878,7 +76878,7 @@ back	O
 again	O
 to	O
 try	O
-dinner.Food	FOOD	FOOD
+dinner.Food	FOOD
 is	O
 average	O
 ,	O
@@ -76912,7 +76912,7 @@ simply	O
 put	O
 ...	O
 good	O
-food	FOOD
+food	O
 ,	O
 atmosphere	O
 and	O
@@ -76933,7 +76933,7 @@ atmosphere	O
 is	O
 nice	O
 .	O
-Food	FOOD
+Food	O
 is	O
 below	O
 average	O
@@ -76941,7 +76941,7 @@ and	O
 pricey	O
 .	O
 Our	O
-food	FOOD
+food	O
 was	O
 cold	O
 and	O
@@ -77046,7 +77046,7 @@ was	O
 more	O
 than	O
 enough	O
-food	FOOD
+food	O
 .	O
 Others	O
 in	O
@@ -77103,7 +77103,7 @@ quantity	O
 and	O
 quality	O
 of	O
-food	FOOD
+food	O
 you	O
 are	O
 given	O
@@ -77192,7 +77192,7 @@ here	O
 and	O
 really	O
 good	O
-food	FOOD
+food	O
 .	O
 The	O
 dairy	O
@@ -77282,7 +77282,7 @@ there	O
 for	O
 20	O
 minutes.Lifetime	O
-favorite	FOOD
+favorite	O
 .	O
 Restaurant	O
 was	O
@@ -77302,7 +77302,7 @@ A&W	O
 .	O
 Best	O
 fast	O
-food	FOOD
+food	O
 out	O
 there	O
 and	O
@@ -77445,7 +77445,7 @@ for	O
 some	O
 better	O
 fast	O
-food.I	FOOD
+food.I	O
 enjoy	O
 this	O
 place	O
@@ -77462,7 +77462,7 @@ and	O
 has	O
 consistently	O
 good	O
-food	FOOD
+food	O
 .	O
 Large	O
 soda	O
@@ -77473,7 +77473,7 @@ crab	FOOD
 rangoon	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 dish	O
 is	O
 the	O
@@ -77503,7 +77503,7 @@ liking	O
 Real	O
 authentic	O
 Chinese	O
-food	FOOD
+food	O
 is	O
 n't	O
 always	O
@@ -77539,7 +77539,7 @@ When	O
 I	O
 ordered	O
 my	O
-food	FOOD
+food	O
 a	O
 few	O
 years	O
@@ -77551,7 +77551,7 @@ they	O
 put	O
 too	O
 much	O
-food	FOOD
+food	O
 coloring	O
 so	O
 much	O
@@ -77603,7 +77603,7 @@ Madison	O
 this	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 Consistently	O
 tasty	O
@@ -77691,10 +77691,10 @@ it	O
 .	O
 Good	O
 overall	O
-food	FOOD
+food	O
 .	O
 Our	O
-favorite	FOOD
+favorite	O
 Chinese	O
 takeout	O
 .	O
@@ -77787,7 +77787,7 @@ some	O
 of	O
 the	O
 best	O
-food	FOOD
+food	O
 in	O
 town	O
 .	O
@@ -77796,7 +77796,7 @@ is	O
 fast	O
 and	O
 the	O
-food	FOOD
+food	O
 comes	O
 out	O
 consistently	O
@@ -77824,7 +77824,7 @@ they	O
 even	O
 had	O
 my	O
-favorite	FOOD
+favorite	O
 nestea	O
 pomegranate	FOOD
 &	O
@@ -77977,7 +77977,7 @@ all	O
 that	O
 bright	O
 red	FOOD
-food	FOOD
+food	O
 coloring	O
 .	O
 Very	O
@@ -78011,7 +78011,7 @@ order	O
 and	O
 pick	O
 your	O
-food	FOOD
+food	O
 up	O
 at	O
 a	O
@@ -78281,7 +78281,7 @@ Prices	O
 are	O
 good	O
 .	O
-Food	FOOD
+Food	O
 is	O
 huge	O
 ,	O
@@ -78352,7 +78352,7 @@ with	O
 that	O
 considering	O
 their	O
-food	FOOD
+food	O
 is	O
 so	O
 good.Pretty	O
@@ -78389,7 +78389,7 @@ carryout	O
 is	O
 quick	O
 ,	O
-food	FOOD
+food	O
 I	O
 ordered	O
 -LRB-	O
@@ -78502,7 +78502,7 @@ for	O
 others	O
 ,	O
 the	O
-food	FOOD
+food	O
 I	O
 got	O
 was	O
@@ -78552,7 +78552,7 @@ when	O
 I	O
 ate	O
 the	O
-food	FOOD
+food	O
 it	O
 was	O
 n't	O
@@ -78621,7 +78621,7 @@ person	O
 that	O
 said	O
 the	O
-food	FOOD
+food	O
 was	O
 too	O
 sweet	O
@@ -78805,7 +78805,7 @@ in	O
 East	O
 Madison	O
 .	O
-Food	FOOD
+Food	O
 is	O
 always	O
 fresh	O
@@ -78932,7 +78932,7 @@ good	O
 prices	O
 ,	O
 decent	O
-food	FOOD
+food	O
 and	O
 great	O
 service	O
@@ -79078,7 +79078,7 @@ good	O
 quality	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 hot	O
 and	O
@@ -79114,7 +79114,7 @@ can	O
 call	O
 and	O
 your	O
-food	FOOD
+food	O
 will	O
 be	O
 ready	O
@@ -79129,7 +79129,7 @@ affordable	O
 restaurant	O
 with	O
 good	O
-food	FOOD
+food	O
 ,	O
 too	O
 -LRB-	O
@@ -79174,7 +79174,7 @@ more	O
 After	O
 that	O
 the	O
-food	FOOD
+food	O
 did	O
 n't	O
 taste	O
@@ -79298,7 +79298,7 @@ not	O
 bad.Very	O
 good	O
 mexican	FOOD
-food	FOOD
+food	O
 .	O
 Authentic	O
 in	O
@@ -79311,7 +79311,7 @@ Fajita	FOOD
 Guadalajara	O
 is	O
 our	O
-favorite	FOOD
+favorite	O
 .	O
 We	O
 share	O
@@ -79344,7 +79344,7 @@ for	O
 me	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 fine	O
 ,	O
@@ -79376,7 +79376,7 @@ not	O
 that	O
 good	O
 -	O
-food	FOOD
+food	O
 is	O
 only	O
 average	O
@@ -79544,7 +79544,7 @@ chicken	FOOD
 chimis	O
 *	O
 .	O
-Food	FOOD
+Food	O
 trashed	O
 for	O
 no	O
@@ -79616,7 +79616,7 @@ one	O
 person	O
 at	O
 the	O
-table	FOOD
+table	O
 ,	O
 and	O
 took	O
@@ -79626,7 +79626,7 @@ finally	O
 bring	O
 them	O
 their	O
-food	FOOD
+food	O
 -LRB-	O
 soup	FOOD
 -RRB-	O
@@ -79679,7 +79679,7 @@ So	O
 yeah	O
 .	O
 The	O
-food	FOOD
+food	O
 there	O
 is	O
 fine	O
@@ -79783,7 +79783,7 @@ We	O
 only	O
 got	O
 our	O
-food	FOOD
+food	O
 to	O
 take-out	O
 so	O
@@ -79803,7 +79803,7 @@ bar	FOOD
 We	O
 got	O
 our	O
-food	FOOD
+food	O
 pretty	O
 quickly	O
 and	O
@@ -79841,7 +79841,7 @@ taste	O
 .	O
 All	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 and	O
@@ -79876,7 +79876,7 @@ has	O
 the	O
 best	O
 Mexican	FOOD
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -79921,7 +79921,7 @@ surprised	O
 in	O
 that	O
 the	O
-food	FOOD
+food	O
 was	O
 actually	O
 pretty	O
@@ -80143,7 +80143,7 @@ oven	O
 mitt	O
 in	O
 the	O
-food	FOOD
+food	O
 -LRB-	O
 I	O
 'm	O
@@ -80255,7 +80255,7 @@ on	O
 how	O
 gross	O
 the	O
-food	FOOD
+food	O
 looked	O
 as	O
 well	O
@@ -80416,7 +80416,7 @@ Service	O
 is	O
 good	O
 .	O
-Food	FOOD
+Food	O
 is	O
 inexpensive	O
 .	O
@@ -80435,7 +80435,7 @@ of	O
 Pedro	O
 's	O
 .	O
-Food	FOOD
+Food	O
 was	O
 excellent	O
 and	O
@@ -80469,7 +80469,7 @@ go	O
 back	O
 for	O
 the	O
-food	FOOD
+food	O
 ,	O
 but	O
 the	O
@@ -80487,7 +80487,7 @@ of	O
 the	O
 best	O
 Mexican	FOOD
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -80495,7 +80495,7 @@ Well	O
 priced	O
 ,	O
 great	O
-food	FOOD
+food	O
 ,	O
 friendly	O
 service	O
@@ -80548,7 +80548,7 @@ there	O
 actually	O
 any	O
 real	O
-food	FOOD
+food	O
 underneath	O
 the	O
 gigantic	O
@@ -80616,7 +80616,7 @@ blurp	O
 so	O
 ,	O
 chinese	O
-food	FOOD
+food	O
 ...	O
 i	O
 never	O
@@ -80942,7 +80942,7 @@ standard	O
 Well	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 alright	O
 -	O
@@ -81084,7 +81084,7 @@ though	O
 most	O
 of	O
 the	O
-food	FOOD
+food	O
 is	O
 pretty	O
 standard	O
@@ -81166,7 +81166,7 @@ fast	O
 .	O
 Although	O
 the	O
-food	FOOD
+food	O
 is	O
 generally	O
 nothing	O
@@ -81229,7 +81229,7 @@ price	O
 range	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 not	O
 super	O
@@ -81244,7 +81244,7 @@ that	O
 fake	O
 testing	O
 Chinese	O
-food	FOOD
+food	O
 seasoning	O
 some	O
 of	O
@@ -81431,7 +81431,7 @@ fast	O
 ,	O
 hot	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 Really	O
 ,	O
@@ -81489,7 +81489,7 @@ in	O
 Madison	O
 .	O
 Their	O
-food	FOOD
+food	O
 is	O
 flavorful	O
 ,	O
@@ -81545,7 +81545,7 @@ is	O
 that	O
 while	O
 our	O
-food	FOOD
+food	O
 was	O
 steamy	O
 hot	O
@@ -81610,7 +81610,7 @@ efficient	O
 Overall	O
 very	O
 good	O
-food	FOOD
+food	O
 and	O
 experience.You	O
 know	O
@@ -81620,7 +81620,7 @@ see	O
 a	O
 picture	O
 of	O
-food	FOOD
+food	O
 at	O
 a	O
 restaurant	O
@@ -81774,7 +81774,7 @@ at	O
 how	O
 great	O
 the	O
-food	FOOD
+food	O
 looks	O
 when	O
 it	O
@@ -81828,7 +81828,7 @@ and	O
 the	O
 quality	O
 of	O
-food	FOOD
+food	O
 reminded	O
 me	O
 how	O
@@ -81915,7 +81915,7 @@ us	O
 .	O
 Quantity	O
 of	O
-food	FOOD
+food	O
 is	O
 also	O
 great	O
@@ -82005,7 +82005,7 @@ indicators	O
 for	O
 good	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 1	O
 .	O
@@ -82162,7 +82162,7 @@ hit	O
 them	O
 up	O
 again.There	O
-food	FOOD
+food	O
 is	O
 good	O
 for	O
@@ -82321,7 +82321,7 @@ simple	O
 enough	O
 .	O
 Delicious	O
-food	FOOD
+food	O
 .	O
 I	O
 ordered	O
@@ -82366,7 +82366,7 @@ want	O
 some	O
 moderately	O
 priced	O
-food	FOOD
+food	O
 that	O
 will	O
 get	O
@@ -82439,7 +82439,7 @@ That	O
 's	O
 not	O
 real	O
-food	FOOD
+food	O
 !	O
 Have	O
 you	O
@@ -82665,7 +82665,7 @@ we	O
 have	O
 ordering	O
 Japanese	O
-food	FOOD
+food	O
 from	O
 a	O
 Chinese	O
@@ -82734,7 +82734,7 @@ lunch	FOOD
 combos	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 usually	O
 ready	O
@@ -82745,7 +82745,7 @@ in	O
 minutes	O
 .	O
 My	O
-food	FOOD
+food	O
 is	O
 always	O
 hot	O
@@ -83000,7 +83000,7 @@ paying	O
 for	O
 a	O
 double	O
-cheeseburger	O
+cheeseburger	FOOD
 only	O
 to	O
 get	O
@@ -83060,7 +83060,7 @@ Madison	O
 get	O
 more	O
 fast	O
-food	FOOD
+food	O
 .	O
 I	O
 do	O
@@ -83079,7 +83079,7 @@ steady	O
 supply	O
 of	O
 fast	O
-food	FOOD
+food	O
 places	O
 .	O
 My	O
@@ -83183,7 +83183,7 @@ drive	O
 for	O
 a	O
 fast	O
-food	FOOD
+food	O
 and	O
 decided	O
 to	O
@@ -83304,7 +83304,7 @@ me	O
 to	O
 get	O
 my	O
-food	FOOD
+food	O
 ,	O
 so	O
 I	O
@@ -83377,7 +83377,7 @@ and	O
 tray	O
 on	O
 the	O
-table	FOOD
+table	O
 and	O
 walked	O
 out	O
@@ -83423,7 +83423,7 @@ is	O
 the	O
 worst	O
 fast	O
-food	FOOD
+food	O
 franchise	O
 in	O
 town	O
@@ -83435,7 +83435,7 @@ is	O
 slow	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 inconsistent	O
 .	O
@@ -83573,7 +83573,7 @@ considering	O
 its	O
 a	O
 fast	O
-food	FOOD
+food	O
 place	O
 but	O
 its	O
@@ -83581,7 +83581,7 @@ terrible	O
 even	O
 by	O
 fast	O
-food	FOOD
+food	O
 standards	O
 .	O
 Orders	O
@@ -83622,7 +83622,7 @@ tasteless	O
 Are	O
 n't	O
 these	O
-food	FOOD
+food	O
 products	O
 supposed	O
 to	O
@@ -83696,7 +83696,7 @@ had	O
 paid	O
 for	O
 their	O
-food	FOOD
+food	O
 .	O
 When	O
 I	O
@@ -83779,7 +83779,7 @@ the	O
 way	O
 a	O
 fast	O
-food	FOOD
+food	O
 restraunt	O
 should	O
 be	O
@@ -83821,7 +83821,7 @@ suffers	O
 from	O
 the	O
 McDonalds	O
-food.We	FOOD
+food.We	O
 have	O
 gone	O
 here	O
@@ -83859,7 +83859,7 @@ get	O
 ice	FOOD
 cream	FOOD
 and	O
-food	FOOD
+food	O
 .	O
 Ordered	O
 chicken	FOOD
@@ -84029,7 +84029,7 @@ car	O
 finally	O
 gets	O
 their	O
-food	FOOD
+food	O
 and	O
 drives	O
 off	O
@@ -84134,7 +84134,7 @@ huge	O
 bags	O
 of	O
 BK	O
-food	FOOD
+food	O
 .	O
 The	O
 DRIVER	O
@@ -84181,7 +84181,7 @@ BK	O
 employees	O
 carrying	O
 out	O
-FOOD	FOOD
+FOOD	O
 ?!	O
 ''	O
 BURGER	FOOD
@@ -84245,7 +84245,7 @@ The	O
 CAR	O
 waiting	O
 for	O
-food	FOOD
+food	O
 behind	O
 the	O
 SOUL	O
@@ -84343,7 +84343,7 @@ we	O
 just	O
 want	O
 the	O
-food	FOOD
+food	O
 we	O
 ordered	O
 ...	O
@@ -84693,14 +84693,14 @@ this	O
 sorry	O
 excuse	O
 for	O
-food	FOOD
+food	O
 and	O
 order	O
 Culver	O
 's	O
 ...	O
 the	O
-food	FOOD
+food	O
 is	O
 always	O
 hot	O
@@ -84746,7 +84746,7 @@ the	O
 BK	O
 bags	O
 of	O
-food	FOOD
+food	O
 away	O
 in	O
 the	O
@@ -84809,7 +84809,7 @@ from	O
 reality	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 great	O
 ...	O
@@ -84879,7 +84879,7 @@ retreat	O
 crap	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 average	O
 ,	O
@@ -84925,7 +84925,7 @@ price	O
 for	O
 the	O
 bland	O
-food	FOOD
+food	O
 .	O
 Much	O
 better	O
@@ -84982,7 +84982,7 @@ away	O
 from	O
 your	O
 crappy	O
-food	FOOD
+food	O
 and	O
 balancing	O
 the	O
@@ -85001,7 +85001,7 @@ the	O
 patio	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 uniformly	O
 ordinary	O
@@ -85054,7 +85054,7 @@ complete	O
 nightmare	O
 .	O
 Awful	O
-food	FOOD
+food	O
 served	O
 by	O
 stupid	O
@@ -85072,7 +85072,7 @@ with	O
 those	O
 stupid	O
 mini	O
-cheeseburger	O
+cheeseburger	FOOD
 appetizers?Overrated	FOOD
 ,	O
 yes	O
@@ -85127,7 +85127,7 @@ drunk	O
 and	O
 eat	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 .	O
 That	O
 's	O
@@ -85290,7 +85290,7 @@ their	O
 specialty	O
 drinks	O
 ...	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 -LRB-	O
@@ -85370,7 +85370,7 @@ and	O
 your	O
 own	O
 personal	O
-Cheeseburger	O
+Cheeseburger	FOOD
 In	O
 Paradise	O
 .	O
@@ -85618,7 +85618,7 @@ effort	O
 and	O
 the	O
 decent	O
-food	FOOD
+food	O
 .	O
 I	O
 'd	O
@@ -85646,7 +85646,7 @@ had	O
 gone	O
 to	O
 a	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 a	O
@@ -85687,7 +85687,7 @@ miles	O
 -RRB-	O
 However	O
 ,	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 during	O
@@ -85749,7 +85749,7 @@ rocks	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 okay	O
 .	O
@@ -85800,7 +85800,7 @@ fairly	O
 prompt	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 merely	O
 average	O
@@ -85895,7 +85895,7 @@ I	O
 first	O
 heard	O
 of	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 ,	O
@@ -85970,7 +85970,7 @@ we	O
 ended	O
 up	O
 at	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 .	O
@@ -86394,7 +86394,7 @@ Buffett	O
 supposedly	O
 wrote	O
 ``	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 ''	O
@@ -86425,7 +86425,7 @@ best	O
 Overall	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 satisfactory	O
 .	O
@@ -86442,7 +86442,7 @@ to	O
 pass	O
 by	O
 a	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 ,	O
@@ -86485,7 +86485,7 @@ name	O
 and	O
 order	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 .	O
 WWJBD	O
 ...	O
@@ -86516,7 +86516,7 @@ drinks	O
 are	O
 prime	O
 !	O
-Food	FOOD
+Food	O
 is	O
 decently	O
 priced	O
@@ -86618,7 +86618,7 @@ do	O
 n't	O
 trust	O
 their	O
-food	FOOD
+food	O
 .	O
 And	O
 it	O
@@ -86665,7 +86665,7 @@ slow	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 uber-forgettable	O
 .	O
@@ -86679,7 +86679,7 @@ we	O
 could	O
 get	O
 a	O
-table	FOOD
+table	O
 for	O
 16	O
 on	O
@@ -86775,7 +86775,7 @@ every	O
 time	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 cold	O
 ,	O
@@ -86827,7 +86827,7 @@ they	O
 were	O
 giving	O
 the	O
-food	FOOD
+food	O
 away	O
 FREE.During	O
 a	O
@@ -86914,7 +86914,7 @@ I	O
 honestly	O
 enjoyed	O
 my	O
-cheeseburger	O
+cheeseburger	FOOD
 and	O
 drinks	O
 .	O
@@ -86941,7 +86941,7 @@ and	O
 felt	O
 like	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 ,	O
 this	O
 place	O
@@ -87335,7 +87335,7 @@ I	O
 ordered	O
 the	O
 Cuban	O
-Sandwhich	O
+Sandwhich	FOOD
 .	O
 Having	O
 lived	O
@@ -87487,7 +87487,7 @@ line	O
 awesome!Nice	O
 atmosphere	O
 .	O
-Cheeseburger	O
+Cheeseburger	FOOD
 was	O
 not	O
 all	O
@@ -87614,7 +87614,7 @@ of	O
 drinks	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 okay	O
 --	O
@@ -87753,7 +87753,7 @@ to	O
 a	O
 place	O
 called	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 I	O
@@ -88055,7 +88055,7 @@ a	O
 nice	O
 chunk	FOOD
 of	O
-food	FOOD
+food	O
 from	O
 the	O
 previous	O
@@ -88079,7 +88079,7 @@ some	O
 from	O
 a	O
 nearby	O
-table	FOOD
+table	O
 .	O
 After	O
 that	O
@@ -88150,7 +88150,7 @@ mushroom	FOOD
 and	O
 swiss	O
 .	O
-Food	FOOD
+Food	O
 came	O
 and	O
 the	O
@@ -88276,7 +88276,7 @@ do	O
 not	O
 have	O
 good	O
-food	FOOD
+food	O
 .	O
 I	O
 'll	O
@@ -88379,7 +88379,7 @@ nice	O
 menu	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 came	O
 out	O
 very	O
@@ -88399,7 +88399,7 @@ The	O
 big	O
 problem	O
 with	O
-Cheeseburger	O
+Cheeseburger	FOOD
 was	O
 the	O
 service	O
@@ -88444,7 +88444,7 @@ minutes	O
 later	O
 .	O
 Order	O
-food	FOOD
+food	O
 ,	O
 where	O
 did	O
@@ -88495,10 +88495,10 @@ back	O
 even	O
 though	O
 the	O
-food	FOOD
+food	O
 was	O
 fine.Greasy	O
-food	FOOD
+food	O
 ,	O
 lazy	O
 service	O
@@ -88626,7 +88626,7 @@ break	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 OK	O
 .	O
@@ -88688,7 +88688,7 @@ anybody	O
 come	O
 to	O
 our	O
-table	FOOD
+table	O
 for	O
 drink	O
 orders	O
@@ -88708,7 +88708,7 @@ got	O
 drinks	O
 and	O
 ordered	O
-food	FOOD
+food	O
 before	O
 us	O
 .	O
@@ -88877,7 +88877,7 @@ a	O
 promotion	O
 for	O
 National	O
-Cheeseburger	O
+Cheeseburger	FOOD
 Day	O
 and	O
 there	O
@@ -88983,7 +88983,7 @@ walked	O
 us	O
 to	O
 our	O
-table	FOOD
+table	O
 and	O
 told	O
 us	O
@@ -89037,7 +89037,7 @@ slow	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 service	O
 was	O
 okay	O
@@ -89095,7 +89095,7 @@ back	O
 anytime	O
 soon.Generic	O
 chain	O
-food	FOOD
+food	O
 ,	O
 most	O
 of	O
@@ -89162,7 +89162,7 @@ star	O
 because	O
 I	O
 got	O
-food	FOOD
+food	O
 poisoning	O
 from	O
 this	O
@@ -89188,7 +89188,7 @@ nausea	O
 ,	O
 bloating	O
 ,	O
-gas	FOOD
+gas	O
 -RRB-	O
 that	O
 night	O
@@ -89208,9 +89208,9 @@ it	O
 was	O
 from	O
 the	O
-food	FOOD
+food	O
 at	O
-Cheeseburger	O
+Cheeseburger	FOOD
 in	O
 Paradise	O
 .	O
@@ -89383,7 +89383,7 @@ the	O
 booth	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 decent	O
 .	O
@@ -89536,7 +89536,7 @@ to	O
 choke	O
 down	O
 the	O
-food	FOOD
+food	O
 .	O
 However	O
 I	O
@@ -89571,14 +89571,14 @@ and	O
 pointing	O
 it	O
 toward	O
-Cheeseburger	O
+Cheeseburger	FOOD
 In	O
 Paradise.Decent	O
 restaurant	O
 with	O
 plenty	O
 of	O
-fishes	O
+fishes	FOOD
 ,	O
 seafood	FOOD
 and	O
@@ -89707,7 +89707,7 @@ took	O
 us	O
 to	O
 our	O
-table	FOOD
+table	O
 and	O
 told	O
 us	O
@@ -89766,7 +89766,7 @@ came	O
 back	O
 to	O
 our	O
-table	FOOD
+table	O
 and	O
 said	O
 that	O
@@ -89818,7 +89818,7 @@ than	O
 water	O
 !	O
 Our	O
-food	FOOD
+food	O
 quickly	O
 came	O
 out	O
@@ -90002,7 +90002,7 @@ back	O
 Yes	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 amazing	O
 BUT	O
@@ -90044,7 +90044,7 @@ are	O
 losing	O
 if	O
 our	O
-table	FOOD
+table	O
 would	O
 've	O
 ordered	O
@@ -90182,7 +90182,7 @@ long	O
 time	O
 for	O
 the	O
-food	FOOD
+food	O
 to	O
 come	O
 up	O
@@ -90199,7 +90199,7 @@ main	O
 entrees	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 just	O
 ok	O
@@ -90243,7 +90243,7 @@ that	O
 .	O
 So	O
 the	O
-food	FOOD
+food	O
 was	O
 average	O
 ,	O
@@ -90370,7 +90370,7 @@ of	O
 mine	O
 to	O
 get	O
-food	FOOD
+food	O
 before	O
 i	O
 'm	O
@@ -90392,7 +90392,7 @@ restaurant	O
 is	O
 not	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 however	O
 ,	O
@@ -90545,7 +90545,7 @@ stars	O
 last	O
 time	O
 .	O
-Food	FOOD
+Food	O
 and	O
 service	O
 has	O
@@ -90913,7 +90913,7 @@ totally	O
 awful	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 hideous	O
 .	O
@@ -90929,7 +90929,7 @@ me.Good	O
 ,	O
 reliable	O
 Italian	O
-food	FOOD
+food	O
 .	O
 A	O
 surprisingly	O
@@ -91169,7 +91169,7 @@ from	O
 the	O
 kitchen	FOOD
 .	O
-Food	FOOD
+Food	O
 quality	O
 was	O
 excellent	O
@@ -91251,7 +91251,7 @@ go	O
 back	O
 for	O
 the	O
-food	FOOD
+food	O
 next	O
 time	O
 we	O
@@ -91277,7 +91277,7 @@ way	O
 just	O
 for	O
 the	O
-food.We	FOOD
+food.We	O
 go	O
 to	O
 Benvenuto	O
@@ -91324,7 +91324,7 @@ place	O
 was	O
 nasty	O
 ,	O
-food	FOOD
+food	O
 had	O
 no	O
 flavor	FOOD
@@ -91361,7 +91361,7 @@ McDonald	O
 over	O
 this	O
 place!The	O
-food	FOOD
+food	O
 is	O
 always	O
 good	O
@@ -91503,7 +91503,7 @@ our	O
 party	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 pretty	O
 tasty	O
@@ -91579,7 +91579,7 @@ two	O
 waitresses	O
 helping	O
 our	O
-table	FOOD
+table	O
 we	O
 spot	FOOD
 on	O
@@ -91610,7 +91610,7 @@ it	O
 decent	O
 basic	O
 Italian	O
-food	FOOD
+food	O
 ,	O
 but	O
 really	O
@@ -91791,7 +91791,7 @@ always	O
 friendly	O
 and	O
 the	O
-food	FOOD
+food	O
 always	O
 tastes	O
 really	O
@@ -92048,7 +92048,7 @@ waiters	O
 write	O
 on	O
 your	O
-table	FOOD
+table	O
 in	O
 classy	O
 crayon	O
@@ -92190,7 +92190,7 @@ two	O
 baskets	FOOD
 for	O
 our	O
-table	FOOD
+table	O
 of	O
 4	O
 .	O
@@ -92222,7 +92222,7 @@ appealing	O
 so	O
 I	O
 ordered	O
-Portabella	O
+Portabella	FOOD
 Penne	FOOD
 .	O
 She	O
@@ -92547,7 +92547,7 @@ leftovers	FOOD
 ,	O
 we	O
 had	O
-food	FOOD
+food	O
 for	O
 3	O
 days	O
@@ -92613,7 +92613,7 @@ It	O
 has	O
 consistently	O
 good	O
-food	FOOD
+food	O
 .	O
 The	O
 pizza	FOOD
@@ -92774,7 +92774,7 @@ you	O
 want	O
 Chicago	O
 Italian	O
-food	FOOD
+food	O
 ,	O
 go	O
 to	O
@@ -93038,7 +93038,7 @@ fix	O
 the	O
 issue	O
 fastHorrible	O
-food	FOOD
+food	O
 .	O
 It	O
 takes	O
@@ -93078,7 +93078,7 @@ say	O
 .	O
 Typical	O
 chain	O
-food	FOOD
+food	O
 .	O
 Service	O
 is	O
@@ -93170,7 +93170,7 @@ afraid	O
 to	O
 try	O
 the	O
-food	FOOD
+food	O
 ,	O
 fearing	O
 that	O
@@ -93205,11 +93205,11 @@ cleaniness	O
 of	O
 this	O
 establishment.My	O
-favorite	FOOD
+favorite	O
 place	O
 for	O
 fast	O
-food	FOOD
+food	O
 in	O
 Madison	O
 -	O
@@ -93236,7 +93236,7 @@ in	O
 Cream	FOOD
 Sauce	FOOD
 or	O
-Crawfish	O
+Crawfish	FOOD
 in	O
 Cream	FOOD
 Sauce	FOOD
@@ -93317,14 +93317,14 @@ big	O
 fan	O
 of	O
 the	O
-crawfish	O
+crawfish	FOOD
 etoufee	O
 with	O
 a	O
 big	O
 slab	O
 of	O
-cornbread	O
+cornbread	FOOD
 .	O
 The	O
 spice	FOOD
@@ -93521,7 +93521,7 @@ are	O
 some	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 memories	O
 ,	O
 and	O
@@ -93581,7 +93581,7 @@ it	O
 becomes	O
 my	O
 new	O
-favorite	FOOD
+favorite	O
 .	O
 The	O
 po	O
@@ -93659,7 +93659,7 @@ is	O
 my	O
 mother	O
 's	O
-favorite	FOOD
+favorite	O
 .	O
 The	O
 Gulf	O
@@ -93771,9 +93771,9 @@ sausage	FOOD
 is	O
 my	O
 all-time	O
-favorite	FOOD
+favorite	O
 comfort	O
-food	FOOD
+food	O
 .	O
 Most	O
 of	O
@@ -93812,7 +93812,7 @@ with	O
 a	O
 piece	O
 of	O
-cornbread	O
+cornbread	FOOD
 to	O
 finish	O
 it	O
@@ -94203,13 +94203,13 @@ my	O
 younger	O
 days	O
 of	O
-bakery	FOOD
+bakery	O
 ,	O
 I	O
 worked	O
 at	O
 the	O
-bakery	FOOD
+bakery	O
 that	O
 supplied	O
 NOTO	O
@@ -94270,7 +94270,7 @@ would	O
 apply	O
 to	O
 his	O
-food	FOOD
+food	O
 ,	O
 and	O
 I	O
@@ -94307,7 +94307,7 @@ some	O
 lunch	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 excellent	O
 .	O
@@ -94411,12 +94411,12 @@ here	O
 for	O
 some	O
 great	O
-food.One	FOOD
+food.One	O
 of	O
 my	O
 all	O
 time	O
-favorite	FOOD
+favorite	O
 places	O
 in	O
 Madison	O
@@ -94448,7 +94448,7 @@ years	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 consistently	O
 good	O
@@ -94493,7 +94493,7 @@ Cajun	FOOD
 meatballs	FOOD
 ?	O
 The	O
-cornbread	O
+cornbread	FOOD
 is	O
 also	O
 worth	O
@@ -94693,7 +94693,7 @@ much	O
 soul	O
 in	O
 this	O
-food	FOOD
+food	O
 and	O
 super	O
 flavor	FOOD
@@ -94714,7 +94714,7 @@ so	O
 unique	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 truly	O
 special	O
@@ -94775,7 +94775,7 @@ negative	O
 side	O
 is	O
 the	O
-crawfish	O
+crawfish	FOOD
 off	O
 season	O
 are	O
@@ -94866,7 +94866,7 @@ it	O
 a	O
 ton	O
 of	O
-food	FOOD
+food	O
 but	O
 oh	O
 so	O
@@ -94875,7 +94875,7 @@ boyfriend	O
 and	O
 I	O
 discuss	O
-food	FOOD
+food	O
 often	O
 and	O
 he	O
@@ -94917,7 +94917,7 @@ curry	FOOD
 chicken	FOOD
 and	O
 creole	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 were	O
 my	O
 favorites	O
@@ -95023,7 +95023,7 @@ say	O
 enough	O
 about	O
 it.Good	O
-food	FOOD
+food	O
 for	O
 a	O
 good	O
@@ -95065,7 +95065,7 @@ It	O
 was	O
 plenty	O
 of	O
-food	FOOD
+food	O
 .	O
 Nothing	O
 too	O
@@ -95226,7 +95226,7 @@ mouths	O
 Cajun	FOOD
 is	O
 spicy	O
-food	FOOD
+food	O
 and	O
 this	O
 def	O
@@ -95313,7 +95313,7 @@ oyster	O
 ,	O
 shrimp	FOOD
 ,	O
-crawfish	O
+crawfish	FOOD
 or	O
 chicken	FOOD
 .	O
@@ -95414,7 +95414,7 @@ Madison	O
 WI.I	O
 love	O
 the	O
-food	FOOD
+food	O
 here	O
 .	O
 Love	O
@@ -95641,7 +95641,7 @@ shrimp	FOOD
 jambalaya	FOOD
 but	O
 great	O
-cornbread	O
+cornbread	FOOD
 in	O
 a	O
 developing	O
@@ -95651,7 +95651,7 @@ A	O
 future	O
 spot	FOOD
 on	O
-Food	FOOD
+Food	O
 Network	O
 's	O
 Diners	O
@@ -95682,7 +95682,7 @@ cream	FOOD
 sauce	FOOD
 was	O
 outstanding.Good	O
-food	FOOD
+food	O
 ,	O
 slightly	O
 high	O
@@ -95691,7 +95691,7 @@ prices	O
 I	O
 had	O
 the	O
-crawfish	O
+crawfish	FOOD
 etouffee	FOOD
 ,	O
 my	O
@@ -95769,7 +95769,7 @@ all	O
 things-considered	O
 .	O
 Good	O
-food	FOOD
+food	O
 but	O
 totally	O
 overpriced.While	O
@@ -96383,7 +96383,7 @@ week	O
 's	O
 worth	O
 of	O
-food	FOOD
+food	O
 .	O
 That	O
 works	O
@@ -96403,7 +96403,7 @@ happy.Overall	O
 felt	O
 like	O
 the	O
-food	FOOD
+food	O
 lacked	O
 flavor	FOOD
 .	O
@@ -96422,7 +96422,7 @@ The	O
 BBQ	FOOD
 shrimp	FOOD
 and	O
-cornbread	O
+cornbread	FOOD
 were	O
 both	O
 good.I	O
@@ -96506,13 +96506,13 @@ less	O
 fresh	O
 like	O
 the	O
-food	FOOD
+food	O
 has	O
 been	O
 in	O
 a	O
 steam	O
-table	FOOD
+table	O
 for	O
 a	O
 while	O
@@ -96649,7 +96649,7 @@ and	O
 white	O
 rice	FOOD
 with	O
-cornbread	O
+cornbread	FOOD
 ,	O
 dirty	O
 rice	FOOD
@@ -96696,7 +96696,7 @@ upset	O
 my	O
 stomach	O
 .	O
-Cornbread	O
+Cornbread	FOOD
 was	O
 dense	O
 and	O
@@ -96710,7 +96710,7 @@ wanted	O
 some	O
 warm	O
 buttery	FOOD
-cornbread	O
+cornbread	FOOD
 goodness	O
 .	O
 Nope	O
@@ -96746,7 +96746,7 @@ with	O
 the	O
 best	O
 Cajun	FOOD
-food	FOOD
+food	O
 in	O
 Wisconsin	O
 .	O
@@ -96765,14 +96765,14 @@ right	O
 back	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 fresh	O
 and	O
 delicious	O
 !	O
 My	O
-favorite	FOOD
+favorite	O
 way	O
 to	O
 treat	O
@@ -96911,7 +96911,7 @@ to	O
 eat	O
 shrimp	FOOD
 etouffe	FOOD
-favorite	FOOD
+favorite	O
 spicy	O
 dish	O
 in	O
@@ -97078,7 +97078,7 @@ just	O
 perfect	O
 .	O
 Creole	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 is	O
 one	O
 you	O
@@ -97090,7 +97090,7 @@ Po	O
 boys	O
 are	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 The	O
 rice	FOOD
@@ -97382,7 +97382,7 @@ this	O
 place	O
 ,	O
 over-salted	O
-food	FOOD
+food	O
 ...	O
 check	O
 ,	O
@@ -97394,7 +97394,7 @@ yup	O
 includes	O
 ranch	O
 in	O
-food	FOOD
+food	O
 ...	O
 oh	O
 yes	O
@@ -97439,7 +97439,7 @@ decent	O
 service	O
 .	O
 The	O
-food	FOOD
+food	O
 plays	O
 to	O
 the	O
@@ -97454,7 +97454,7 @@ hate	O
 all	O
 things	O
 not-American	O
-food	FOOD
+food	O
 can	O
 find	O
 something	O
@@ -97643,7 +97643,7 @@ me	O
 through	O
 crappy	O
 Mexican	FOOD
-food	FOOD
+food	O
 -	O
 margaritas	FOOD
 -	O
@@ -97697,11 +97697,11 @@ Chihuahuas	O
 would	O
 touch	O
 this	O
-food	FOOD
+food	O
 .	O
 All	O
 their	O
-food	FOOD
+food	O
 is	O
 canned	O
 process	O
@@ -97736,7 +97736,7 @@ to	O
 you	O
 ,	O
 this	O
-food	FOOD
+food	O
 is	O
 nowhere	O
 near	O
@@ -97885,7 +97885,7 @@ this	O
 a	O
 great	O
 Mexican	FOOD
-food	FOOD
+food	O
 location	O
 ?	O
 Both	O
@@ -97996,7 +97996,7 @@ texting	O
 ,	O
 poor	O
 quality	O
-food	FOOD
+food	O
 and	O
 terrible	O
 lighting	O
@@ -98050,7 +98050,7 @@ know	O
 this	O
 :	O
 Mexican	FOOD
-food	FOOD
+food	O
 is	O
 great	O
 ,	O
@@ -98080,7 +98080,7 @@ years	O
 this	O
 was	O
 my	O
-favorite	FOOD
+favorite	O
 Mexican	FOOD
 place	O
 .	O
@@ -98104,7 +98104,7 @@ and	O
 had	O
 real	O
 Mexican	FOOD
-food	FOOD
+food	O
 and	O
 now	O
 ...	O
@@ -98168,7 +98168,7 @@ are	O
 fantastic	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 dish	O
 here	O
 is	O
@@ -98200,7 +98200,7 @@ a	O
 lot	O
 of	O
 this	O
-food	FOOD
+food	O
 is	O
 simply	O
 not	O
@@ -98254,7 +98254,7 @@ is	O
 no	O
 superb	O
 mexican	FOOD
-food	FOOD
+food	O
 here	O
 in	O
 Madison	O
@@ -98318,7 +98318,7 @@ and	O
 we	O
 got	O
 our	O
-food	FOOD
+food	O
 quickly	O
 .	O
 Our	O
@@ -98336,7 +98336,7 @@ gone	O
 -RRB-	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 pretty	O
 tasty	O
@@ -98432,7 +98432,7 @@ place	O
 for	O
 authentic	O
 Mexican	FOOD
-food	FOOD
+food	O
 ,	O
 by	O
 now	O
@@ -98514,7 +98514,7 @@ be	O
 mediocre	O
 Americanized	O
 Mexican	FOOD
-food	FOOD
+food	O
 complete	O
 with	O
 kitschy	O
@@ -98557,7 +98557,7 @@ get	O
 warm	O
 cheesy	O
 comfort	O
-food	FOOD
+food	O
 ,	O
 that	O
 is	O
@@ -98672,7 +98672,7 @@ cheesy	O
 ,	O
 Americanized	O
 Mexican	FOOD
-food	FOOD
+food	O
 experience	O
 .	O
 I	O
@@ -98856,7 +98856,7 @@ teenaged	O
 ass	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 ,	O
 service	O
 ,	O
@@ -98915,7 +98915,7 @@ good	O
 time	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 all	O
 made	O
@@ -98983,7 +98983,7 @@ the	O
 other	O
 big	O
 Mexican	FOOD
-food	FOOD
+food	O
 presence	O
 ,	O
 Laredo	O
@@ -99217,7 +99217,7 @@ etc.	O
 Most	O
 of	O
 the	O
-food	FOOD
+food	O
 comes	O
 out	O
 cold	O
@@ -99248,7 +99248,7 @@ this	O
 one	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 n't	O
 as	O
@@ -99489,7 +99489,7 @@ beacon	O
 of	O
 good	O
 mexican	FOOD
-food	FOOD
+food	O
 in	O
 the	O
 US	O
@@ -99592,7 +99592,7 @@ with	O
 some	O
 great	O
 ingredients	O
-table	FOOD
+table	O
 side	O
 .	O
 Delicious	O
@@ -99671,12 +99671,12 @@ Picante	O
 salsa	FOOD
 ,	O
 microwaved	O
-food	FOOD
+food	O
 .	O
 I	O
 ordered	O
 a	O
-chimi	O
+chimi	FOOD
 and	O
 the	O
 middle	O
@@ -99727,7 +99727,7 @@ EAT	O
 HERE	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 microwaved	O
 and	O
@@ -99868,7 +99868,7 @@ In	O
 short	O
 ,	O
 the	O
-food	FOOD
+food	O
 left	O
 much	O
 to	O
@@ -99889,7 +99889,7 @@ make	O
 up	O
 for	O
 subpar	O
-food	FOOD
+food	O
 .	O
 Venture	O
 into	O
@@ -99985,7 +99985,7 @@ search	O
 of	O
 authentic	O
 Mexican	FOOD
-food	FOOD
+food	O
 .	O
 But	O
 there	O
@@ -100237,7 +100237,7 @@ to	O
 wait.Absolute	O
 worst	O
 Mexican	FOOD
-food	FOOD
+food	O
 I	O
 have	O
 ever	O
@@ -100249,7 +100249,7 @@ It	O
 's	O
 like	O
 Mexican	FOOD
-food	FOOD
+food	O
 for	O
 people	O
 who	O
@@ -100257,12 +100257,12 @@ do	O
 n't	O
 like	O
 Mexican	FOOD
-food	FOOD
+food	O
 .	O
 Much	O
 of	O
 the	O
-food	FOOD
+food	O
 had	O
 little	O
 taste	O
@@ -100301,7 +100301,7 @@ from	O
 AZ	O
 ,	O
 Mexican	FOOD
-food	FOOD
+food	O
 which	O
 is	O
 ``	O
@@ -100479,7 +100479,7 @@ party	O
 ordered	O
 the	O
 ``	O
-table	FOOD
+table	O
 ''	O
 Guacamole	FOOD
 ,	O
@@ -100493,7 +100493,7 @@ your	O
 preference	O
 at	O
 the	O
-table	FOOD
+table	O
 .	O
 That	O
 was	O
@@ -100503,7 +100503,7 @@ good	O
 So	O
 try	O
 the	O
-table	FOOD
+table	O
 guac	O
 ,	O
 but	O
@@ -100733,7 +100733,7 @@ great	O
 ,	O
 but	O
 Mexican	FOOD
-food	FOOD
+food	O
 in	O
 Wisconsin	O
 has	O
@@ -100818,7 +100818,7 @@ always	O
 slow	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 just	O
 decent	O
@@ -100895,7 +100895,7 @@ ordered	O
 ,	O
 again	O
 our	O
-food	FOOD
+food	O
 took	O
 forever	O
 .	O
@@ -100914,7 +100914,7 @@ for	O
 it	O
 .	O
 My	O
-food	FOOD
+food	O
 was	O
 ok	O
 .	O
@@ -100980,7 +100980,7 @@ Having	O
 just	O
 received	O
 our	O
-food	FOOD
+food	O
 ...	O
 Yes	O
 it	O
@@ -101174,7 +101174,7 @@ bean	FOOD
 buffet	FOOD
 with	O
 that.The	O
-food	FOOD
+food	O
 was	O
 really	O
 really	O
@@ -101200,7 +101200,7 @@ on	O
 returning	O
 for	O
 future	O
-visits.Food	FOOD
+visits.Food	O
 is	O
 ok	O
 .	O
@@ -101232,7 +101232,7 @@ or	O
 more	O
 people	O
 .	O
-Table	FOOD
+Table	O
 is	O
 served	O
 the	O
@@ -101307,7 +101307,7 @@ an	O
 eye	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 pretty	O
 good	O
@@ -101326,7 +101326,7 @@ are	O
 fresh	O
 and	O
 my	O
-favorite	FOOD
+favorite	O
 dish	O
 is	O
 the	O
@@ -101376,7 +101376,7 @@ by	O
 the	O
 time	O
 my	O
-food	FOOD
+food	O
 comes	O
 ,	O
 its	O
@@ -101432,7 +101432,7 @@ bar	FOOD
 was	O
 good	O
 ,	O
-food	FOOD
+food	O
 not	O
 so	O
 good	O
@@ -101595,7 +101595,7 @@ a	O
 small	O
 amount	O
 of	O
-food	FOOD
+food	O
 .	O
 I	O
 could	O
@@ -101656,7 +101656,7 @@ service	O
 -RRB-	O
 average	O
 quality	O
-food	FOOD
+food	O
 Had	O
 dinner	FOOD
 at	O
@@ -101838,7 +101838,7 @@ the	O
 side	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 just	O
 ok	O
@@ -102127,7 +102127,7 @@ n't	O
 order	O
 any	O
 other	O
-food	FOOD
+food	O
 +	O
 Tons	O
 of	O
@@ -102273,7 +102273,7 @@ of	O
 Madisonians	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 things	O
 about	O
 this	O
@@ -102349,7 +102349,7 @@ yuck	O
 this	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 enchilada	FOOD
 anywhere	O
 -	O
@@ -102555,7 +102555,7 @@ as	O
 old-school	O
 Americanized	O
 Mexican	FOOD
-food	FOOD
+food	O
 .	O
 Unfortunately	O
 ,	O
@@ -102877,7 +102877,7 @@ What	O
 came	O
 to	O
 the	O
-table	FOOD
+table	O
 was	O
 a	O
 bloody	O
@@ -103056,7 +103056,7 @@ good	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 was	O
 absolutely	O
 horrid	O
@@ -103093,7 +103093,7 @@ but	O
 truly	O
 ,	O
 the	O
-food	FOOD
+food	O
 we	O
 ate	O
 was	O
@@ -103304,7 +103304,7 @@ and	O
 have	O
 enjoyed	O
 the	O
-food	FOOD
+food	O
 and	O
 service	O
 every	O
@@ -103321,7 +103321,7 @@ of	O
 bacon	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 very	O
 good	O
@@ -103396,7 +103396,7 @@ did	O
 not	O
 inquire	O
 .	O
-Food	FOOD
+Food	O
 did	O
 not	O
 have	O
@@ -103425,13 +103425,13 @@ or	O
 to	O
 receive	O
 my	O
-food	FOOD
+food	O
 .	O
 I	O
 really	O
 like	O
 the	O
-food	FOOD
+food	O
 came	O
 exactly	O
 as	O
@@ -103595,7 +103595,7 @@ Rude	O
 employee	O
 ,	O
 Bad	O
-food	FOOD
+food	O
 ,	O
 Bad	O
 service	O
@@ -103755,7 +103755,7 @@ cordial	O
 however	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 the	O
 worst	O
@@ -103829,7 +103829,7 @@ so	O
 I	O
 ordered	O
 some	O
-food	FOOD
+food	O
 online	O
 for	O
 delivery	O
@@ -103876,7 +103876,7 @@ and	O
 threw	O
 on	O
 the	O
-table	FOOD
+table	O
 next	O
 to	O
 the	O
@@ -103983,7 +103983,7 @@ Hi	O
 ,	O
 you	O
 delivered	O
-food	FOOD
+food	O
 to	O
 me	O
 yesterday	O
@@ -104242,7 +104242,7 @@ substitute	O
 I	O
 love	O
 my	O
-food	FOOD
+food	O
 VERY	O
 spicy	O
 and	O
@@ -104335,7 +104335,7 @@ got	O
 a	O
 ton	O
 of	O
-food	FOOD
+food	O
 .	O
 Basically	O
 this	O
@@ -104343,7 +104343,7 @@ is	O
 a	O
 typical/standard	O
 Chinese	O
-food	FOOD
+food	O
 place.Wow	O
 ,	O
 this	O
@@ -104467,7 +104467,7 @@ Great	O
 It	O
 's	O
 enough	O
-food	FOOD
+food	O
 for	O
 a	O
 second	O
@@ -104533,7 +104533,7 @@ to	O
 what	O
 quality	O
 of	O
-food	FOOD
+food	O
 will	O
 end	O
 up	O
@@ -104730,7 +104730,7 @@ for	O
 the	O
 young	O
 `	O
-uns.Food	FOOD
+uns.Food	O
 is	O
 good	O
 ,	O
@@ -104782,7 +104782,7 @@ barrel	FOOD
 twice	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 ok	O
 ,	O
@@ -104792,7 +104792,7 @@ with	O
 Thomas	O
 that	O
 the	O
-food	FOOD
+food	O
 can	O
 be	O
 bland	O
@@ -104865,7 +104865,7 @@ you	O
 'd	O
 find	O
 in	O
-food	FOOD
+food	O
 at	O
 McDonalds	O
 .	O
@@ -104907,7 +104907,7 @@ Do	O
 n't	O
 eat	O
 the	O
-food.I	FOOD
+food.I	O
 am	O
 sorry	O
 to	O
@@ -104915,7 +104915,7 @@ hear	O
 about	O
 the	O
 bad	O
-food	FOOD
+food	O
 some	O
 people	O
 had	O
@@ -105029,7 +105029,7 @@ and	O
 the	O
 quality	O
 of	O
-food	FOOD
+food	O
 .	O
 Service	O
 has	O
@@ -105337,7 +105337,7 @@ record	O
 ,	O
 but	O
 my	O
-favorite	FOOD
+favorite	O
 is	O
 the	O
 Grandpas	O
@@ -105468,7 +105468,7 @@ n't	O
 have	O
 sent	O
 our	O
-food	FOOD
+food	O
 back	O
 simply	O
 because	O
@@ -105478,7 +105478,7 @@ to	O
 work	O
 in	O
 the	O
-food	FOOD
+food	O
 industry	O
 ,	O
 but	O
@@ -105509,7 +105509,7 @@ matter	O
 what	O
 .	O
 Good	O
-food	FOOD
+food	O
 at	O
 a	O
 GREAT	O
@@ -105534,11 +105534,11 @@ significantly	O
 smaller	O
 than	O
 my	O
-table	FOOD
+table	O
 mates	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 okay	O
 ,	O
@@ -105730,7 +105730,7 @@ a	O
 solid	O
 3	O
 stars.Delicious	O
-food	FOOD
+food	O
 -LRB-	O
 their	O
 burgers	O
@@ -105738,7 +105738,7 @@ are	O
 seriously	O
 the	O
 best	O
-fast-food	FOOD
+fast-food	O
 burgers	O
 -RRB-	O
 !	O
@@ -105774,7 +105774,7 @@ considering	O
 it	O
 's	O
 fast	O
-food.Hardee	FOOD
+food.Hardee	O
 's	O
 in	O
 Madison	O
@@ -105816,7 +105816,7 @@ Simply	O
 put	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 better	O
 than	O
@@ -105837,7 +105837,7 @@ as	O
 quick	O
 but	O
 your	O
-food	FOOD
+food	O
 is	O
 fresher	O
 when	O
@@ -105862,7 +105862,7 @@ value	O
 !	O
 Best	O
 fast	O
-food	FOOD
+food	O
 burgers	O
 in	O
 town	O
@@ -106157,7 +106157,7 @@ burgers	O
 that	O
 resemble	O
 dog	FOOD
-food	FOOD
+food	O
 and	O
 that	O
 's	O
@@ -106199,7 +106199,7 @@ Culvers.Grade	O
 :	O
 C	O
 Chain	O
-food	FOOD
+food	O
 .	O
 Okay	O
 service	O
@@ -106358,7 +106358,7 @@ that	O
 ?	O
 Oh	O
 yeah.Good	O
-food	FOOD
+food	O
 .	O
 Great	O
 service	O
@@ -106488,7 +106488,7 @@ similar	O
 comment	O
 from	O
 another	O
-table	FOOD
+table	O
 when	O
 we	O
 came	O
@@ -106545,7 +106545,7 @@ charges	O
 but	O
 kiosk	O
 on	O
-table	FOOD
+table	O
 showed	O
 the	O
 over	O
@@ -106759,7 +106759,7 @@ the	O
 service	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 always	O
 good.Had	O
@@ -106823,7 +106823,7 @@ in	O
 pretty	O
 much	O
 every	O
-food	FOOD
+food	O
 category	O
 ,	O
 including	O
@@ -106831,7 +106831,7 @@ a	O
 coffee	FOOD
 stand	O
 ,	O
-bakery	FOOD
+bakery	O
 ,	O
 butcher	O
 ,	O
@@ -106973,7 +106973,7 @@ counters	O
 -LRB-	O
 deli	O
 ,	O
-bakery	FOOD
+bakery	O
 ,	O
 etc.	O
 -RRB-	O
@@ -107009,7 +107009,7 @@ One	O
 shop	O
 for	O
 everything	O
-food	FOOD
+food	O
 .	O
 I	O
 like	O
@@ -107061,7 +107061,7 @@ image-signs	O
 in	O
 the	O
 frozen	O
-food	FOOD
+food	O
 completely	O
 counter-intuitive	O
 ,	O
@@ -107071,7 +107071,7 @@ it	O
 clean	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 decently	O
 fresh	O
@@ -107366,7 +107366,7 @@ I	O
 do	O
 -RRB-	O
 .	O
-Bakery	FOOD
+Bakery	O
 items	O
 are	O
 usually	O
@@ -107385,7 +107385,7 @@ place	O
 with	O
 good	O
 fried	O
-food	FOOD
+food	O
 and	O
 super	O
 cheap	O
@@ -107638,7 +107638,7 @@ friendly	O
 service	O
 ,	O
 great	O
-food	FOOD
+food	O
 and	O
 the	O
 owner	O
@@ -107707,7 +107707,7 @@ nearly-fresh	O
 `	O
 fast	O
 '	O
-food.Once	FOOD
+food.Once	O
 ,	O
 when	O
 I	O
@@ -108123,7 +108123,7 @@ Crowded	O
 loud	O
 ,	O
 mediocre	O
-food	FOOD
+food	O
 ,	O
 slow	O
 service	O
@@ -108174,7 +108174,7 @@ vomited	O
 there	O
 at	O
 the	O
-table.It	FOOD
+table.It	O
 's	O
 an	O
 Applebee	O
@@ -108608,7 +108608,7 @@ even	O
 ask	O
 if	O
 the	O
-food	FOOD
+food	O
 was	O
 okay	O
 or	O
@@ -108648,7 +108648,7 @@ did	O
 not	O
 expect	O
 the	O
-food	FOOD
+food	O
 to	O
 be	O
 so	O
@@ -108748,7 +108748,7 @@ they	O
 have	O
 more	O
 quality	O
-food	FOOD
+food	O
 and	O
 servers	O
 .	O
@@ -108776,7 +108776,7 @@ voiding	O
 it	O
 like	O
 the	O
-plague.Food	FOOD
+plague.Food	O
 was	O
 good	O
 .	O
@@ -109093,7 +109093,7 @@ I	O
 ordered	O
 the	O
 bacon	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 with	O
 the	O
 works	O
@@ -109120,7 +109120,7 @@ for	O
 later	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 good	O
 ,	O
@@ -109247,7 +109247,7 @@ called	O
 to	O
 reserve	O
 a	O
-table	FOOD
+table	O
 in	O
 advance	O
 .	O
@@ -109810,7 +109810,7 @@ I	O
 acquired	O
 a	O
 nasty	O
-food	FOOD
+food	O
 based	O
 illness	O
 here	O
@@ -109904,7 +109904,7 @@ themselves	O
 -	O
 and	O
 the	O
-food	FOOD
+food	O
 .	O
 How	O
 was	O
@@ -109984,7 +109984,7 @@ working	O
 at	O
 a	O
 fast	O
-food	FOOD
+food	O
 place	O
 ,	O
 but	O
@@ -110035,7 +110035,7 @@ and	O
 you	O
 get	O
 fast	O
-food	FOOD
+food	O
 hell	O
 .	O
 Avoid	O
@@ -110134,7 +110134,7 @@ a	O
 shame	O
 because	O
 the	O
-food	FOOD
+food	O
 is	O
 usually	O
 good	O
@@ -110189,7 +110189,7 @@ used	O
 to	O
 be	O
 a	O
-favorite	FOOD
+favorite	O
 .	O
 Very	O
 disappointed	O
@@ -110260,7 +110260,7 @@ is	O
 versus	O
 other	O
 fast	O
-food	FOOD
+food	O
 restaurants	O
 ,	O
 but	O
@@ -110427,7 +110427,7 @@ a	O
 top	O
 tier	O
 fast	O
-food	FOOD
+food	O
 choice	FOOD
 .	O
 The	O
@@ -110766,7 +110766,7 @@ Busy	O
 Good	O
 service	O
 .	O
-Food	FOOD
+Food	O
 is	O
 delish	O
 ...	O
@@ -110882,7 +110882,7 @@ disappointing	O
 lunch	FOOD
 given	O
 the	O
-food	FOOD
+food	O
 was	O
 not	O
 served	O
@@ -110898,12 +110898,12 @@ calling	O
 the	O
 manager	O
 the	O
-food	FOOD
+food	O
 was	O
 finally	O
 on	O
 the	O
-table	FOOD
+table	O
 but	O
 apparently	O
 there	O
@@ -110922,7 +110922,7 @@ the	O
 waiter	O
 at	O
 our	O
-table	FOOD
+table	O
 was	O
 showing	O
 us	O
@@ -110944,7 +110944,7 @@ such	O
 a	O
 failure	O
 .	O
-Food	FOOD
+Food	O
 is	O
 okay	O
 ,	O
@@ -111317,10 +111317,10 @@ great	O
 service	O
 and	O
 delicious	O
-food	FOOD
+food	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 nothing	O
 amazing	O
@@ -111440,8 +111440,8 @@ seafood	FOOD
 It	O
 's	O
 my	O
-favorite	FOOD
-food	FOOD
+favorite	O
+food	O
 .	O
 However	O
 ,	O
@@ -111588,7 +111588,7 @@ good	O
 meal	FOOD
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 very	O
 average	O
@@ -111607,7 +111607,7 @@ are	O
 iffy	O
 .	O
 Their	O
-food	FOOD
+food	O
 is	O
 nothing	O
 special	O
@@ -111907,13 +111907,13 @@ when	O
 they	O
 served	O
 our	O
-table	FOOD
+table	O
 separately	O
 and	O
 completely	O
 forgot	O
 my	O
-food	FOOD
+food	O
 ,	O
 I	O
 was	O
@@ -111947,7 +111947,7 @@ already	O
 paid	O
 toward	O
 my	O
-food	FOOD
+food	O
 order	O
 .	O
 Sure	O
@@ -112175,7 +112175,7 @@ service	O
 and	O
 love	O
 the	O
-food	FOOD
+food	O
 -LRB-	O
 our	O
 faves	O
@@ -112212,7 +112212,7 @@ friendly	O
 bartenders	O
 ,	O
 good	O
-food	FOOD
+food	O
 and	O
 great	O
 drink	O
@@ -112323,7 +112323,7 @@ name	O
 in	O
 for	O
 a	O
-table	FOOD
+table	O
 ,	O
 and	O
 were	O
@@ -112443,7 +112443,7 @@ have	O
 it	O
 ,	O
 our	O
-table	FOOD
+table	O
 became	O
 available	O
 soon	O
@@ -112477,7 +112477,7 @@ soup	FOOD
 others	O
 at	O
 the	O
-table	FOOD
+table	O
 went	O
 with	O
 chili	FOOD
@@ -112897,7 +112897,7 @@ Dexter	O
 's	O
 =	O
 WIN	O
-Food	FOOD
+Food	O
 =	O
 4.5	O
 stars	O
@@ -113025,7 +113025,7 @@ Gnarleywine	O
 was	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 solid	O
 ,	O
@@ -113186,7 +113186,7 @@ calories	O
 of	O
 deep	O
 fried	O
-food	FOOD
+food	O
 ,	O
 I	O
 still	O
@@ -113438,7 +113438,7 @@ garlic	FOOD
 fries	FOOD
 .	O
 Our	O
-food	FOOD
+food	O
 was	O
 AMAZING	O
 .	O
@@ -113577,7 +113577,7 @@ beer	FOOD
 and	O
 some	O
 good	O
-food	FOOD
+food	O
 and	O
 this	O
 place	O
@@ -113641,7 +113641,7 @@ tasty	O
 along	O
 with	O
 the	O
-cheesecurds	O
+cheesecurds	FOOD
 and	O
 fries	FOOD
 .	O
@@ -113692,7 +113692,7 @@ friendly	O
 crowd	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 okay	O
 .	O
@@ -113706,7 +113706,7 @@ delicious	O
 but	O
 the	O
 other	O
-food	FOOD
+food	O
 is	O
 not	O
 remarkable	O
@@ -113744,7 +113744,7 @@ is	O
 large	O
 and	O
 okay.The	O
-food	FOOD
+food	O
 is	O
 good	O
 !	O
@@ -113813,7 +113813,7 @@ times	O
 for	O
 drinks	O
 ,	O
-food	FOOD
+food	O
 and	O
 football	O
 .	O
@@ -113968,7 +113968,7 @@ a	O
 blast	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 great	O
 ,	O
@@ -114019,7 +114019,7 @@ decided	O
 to	O
 give	O
 the	O
-food	FOOD
+food	O
 service	O
 a	O
 shot	O
@@ -114181,7 +114181,7 @@ return	O
 and	O
 give	O
 the	O
-food	FOOD
+food	O
 another	O
 shot	O
 ,	O
@@ -114194,7 +114194,7 @@ getting	O
 even	O
 two	O
 stars.Great	O
-food	FOOD
+food	O
 .	O
 Has	O
 a	O
@@ -114247,7 +114247,7 @@ waffle	FOOD
 fries	FOOD
 .	O
 Good	O
-food	FOOD
+food	O
 ,	O
 neighborhood	O
 bar.I	FOOD
@@ -114341,7 +114341,7 @@ of	O
 information	O
 .	O
 The	O
-food	FOOD
+food	O
 has	O
 been	O
 incredible	O
@@ -114609,7 +114609,7 @@ or	O
 to	O
 grab	O
 a	O
-table	FOOD
+table	O
 and	O
 chill	O
 for	O
@@ -114622,7 +114622,7 @@ Dexters	O
 =	O
 MAJOR	O
 WIN	O
-Food	FOOD
+Food	O
 =	O
 4.75	O
 stars	O
@@ -114812,7 +114812,7 @@ fish	FOOD
 fry	FOOD
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 delicious	O
 -	O
@@ -114855,7 +114855,7 @@ nearly	O
 minutes	O
 for	O
 our	O
-food	FOOD
+food	O
 and	O
 then	O
 when	O
@@ -114958,7 +114958,7 @@ up	O
 for	O
 the	O
 horrible	O
-food	FOOD
+food	O
 -LRB-	O
 although	O
 it	O
@@ -115024,7 +115024,7 @@ or	O
 so	O
 for	O
 a	O
-table	FOOD
+table	O
 .	O
 Once	O
 we	O
@@ -115058,7 +115058,7 @@ still	O
 waiting	O
 for	O
 our	O
-food	FOOD
+food	O
 .	O
 All	O
 we	O
@@ -115107,7 +115107,7 @@ we	O
 finally	O
 got	O
 our	O
-food	FOOD
+food	O
 ,	O
 it	O
 was	O
@@ -115208,7 +115208,7 @@ there	O
 to	O
 eat	O
 the	O
-food	FOOD
+food	O
 anymore	O
 .	O
 Two	O
@@ -115267,7 +115267,7 @@ up	O
 all	O
 night	O
 with	O
-food	FOOD
+food	O
 poisoning	O
 .	O
 Yup	O
@@ -115304,7 +115304,7 @@ be	O
 waiting	O
 for	O
 a	O
-table	FOOD
+table	O
 ,	O
 we	O
 went	O
@@ -115574,7 +115574,7 @@ to	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 on	O
 Fridays	O
 ,	O
@@ -115657,7 +115657,7 @@ brews	O
 Interesting	O
 and	O
 delicious	O
-food	FOOD
+food	O
 .	O
 The	O
 last	O
@@ -115666,7 +115666,7 @@ I	O
 went	O
 in	O
 for	O
-food	FOOD
+food	O
 and	O
 a	O
 beer	FOOD
@@ -115786,7 +115786,7 @@ times	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 for	O
 the	O
@@ -115954,10 +115954,10 @@ frequently	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 excellent	O
-bar-food	FOOD	FOOD
+bar-food	FOOD
 fare	O
 with	O
 some	O
@@ -115973,7 +115973,7 @@ you	O
 there	O
 for	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 right	O
 ?	O
@@ -116078,7 +116078,7 @@ and	O
 they	O
 actually	O
 cook	FOOD
-food	FOOD
+food	O
 to	O
 order	O
 ,	O
@@ -116295,7 +116295,7 @@ have	O
 it	O
 ,	O
 a	O
-table	FOOD
+table	O
 opened	O
 up	O
 near	O
@@ -116547,7 +116547,7 @@ The	O
 rest	O
 of	O
 their	O
-food	FOOD
+food	O
 remains	O
 superb	O
 ,	O
@@ -116680,10 +116680,10 @@ wait	O
 for	O
 both	O
 a	O
-table	FOOD
+table	O
 and	O
 the	O
-food	FOOD
+food	O
 but	O
 I	O
 believe	O
@@ -116857,10 +116857,10 @@ or	O
 I	O
 freeze	O
 .	O
-Food	FOOD
+Food	O
 -	O
 The	O
-food	FOOD
+food	O
 at	O
 Dexter	O
 's	O
@@ -116874,7 +116874,7 @@ slightly	O
 amped	O
 up	O
 pub	O
-food	FOOD
+food	O
 .	O
 It	O
 is	O
@@ -117116,7 +117116,7 @@ time	O
 I	O
 had	O
 the	O
-portabella	O
+portabella	FOOD
 mushroom	FOOD
 sandwich	FOOD
 .	O
@@ -117128,7 +117128,7 @@ but	O
 sort	O
 of	O
 lacked	O
-portabella	O
+portabella	FOOD
 -LRB-	O
 the	O
 piece	O
@@ -117427,7 +117427,7 @@ waits	O
 both	O
 for	O
 a	O
-table	FOOD
+table	O
 and	O
 then	O
 for	O
@@ -117583,7 +117583,7 @@ were	O
 called	O
 for	O
 our	O
-table	FOOD
+table	O
 .	O
 Two	O
 of	O
@@ -117819,7 +117819,7 @@ in	O
 town	O
 !	O
 My	O
-favorite	FOOD
+favorite	O
 dive	O
 on	O
 the	O
@@ -118030,7 +118030,7 @@ away.Easily	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 local	O
 hangouts	O
 ,	O
@@ -118064,13 +118064,13 @@ attentive	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 well	O
 above	O
 typical	O
 bar	FOOD
-food	FOOD
+food	O
 standards	O
 .	O
 There	O
@@ -118104,7 +118104,7 @@ you	O
 going	O
 for	O
 the	O
-food	FOOD
+food	O
 ,	O
 I	O
 have	O
@@ -118435,7 +118435,7 @@ a	O
 seat	O
 and	O
 imbibe!The	O
-food	FOOD
+food	O
 is	O
 great	O
 and	O
@@ -118778,7 +118778,7 @@ laid-back	O
 atmosphere	O
 ,	O
 great	O
-food	FOOD
+food	O
 ,	O
 and	O
 seriouslygreatcraftbeerlist	O
@@ -118789,7 +118789,7 @@ are	O
 all	O
 of	O
 the	O
-cant-pick-up-at-the-gas-station	FOOD
+cant-pick-up-at-the-gas-station	O
 variety	O
 and	O
 it	O
@@ -118885,7 +118885,7 @@ a	O
 huge	O
 amount	O
 of	O
-food	FOOD
+food	O
 .	O
 One	O
 of	O
@@ -119125,7 +119125,7 @@ my	O
 experience	O
 .	O
 Our	O
-food	FOOD
+food	O
 was	O
 just	O
 so	O
@@ -119187,7 +119187,7 @@ was	O
 going	O
 to	O
 get	O
-food	FOOD
+food	O
 poisoning	O
 but	O
 miraculously	O
@@ -119546,7 +119546,7 @@ able	O
 to	O
 snag	O
 a	O
-table	FOOD
+table	O
 after	O
 about	O
 a	O
@@ -119868,7 +119868,7 @@ there	O
 to	O
 enjoy	O
 the	O
-beer/food	FOOD	FOOD
+beer/food	FOOD
 .	O
 Dexter	O
 's	O
@@ -119916,7 +119916,7 @@ Hawks	O
 -RRB-	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 pretty	O
 mediocre	O
@@ -120235,7 +120235,7 @@ remains	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 plates	O
 in	O
 the	O
@@ -120531,7 +120531,7 @@ the	O
 Hometown	O
 Buffet	FOOD
 .	O
-Food	FOOD
+Food	O
 choices	O
 here	O
 are	O
@@ -120649,7 +120649,7 @@ The	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 wo	O
 n't	O
 win	O
@@ -120689,7 +120689,7 @@ an	O
 abundance	O
 of	O
 mediocre	O
-food	FOOD
+food	O
 that	O
 is	O
 poorly	O
@@ -120708,7 +120708,7 @@ that	O
 actually	O
 like	O
 good	O
-food	FOOD
+food	O
 I	O
 would	O
 suggest	O
@@ -120773,11 +120773,11 @@ try	O
 them	O
 out	O
 .	O
-Food	FOOD
+Food	O
 is	O
 diverse	O
 .	O
-Food	FOOD
+Food	O
 is	O
 hot	O
 .	O
@@ -120813,7 +120813,7 @@ If	O
 you	O
 want	O
 junk	FOOD
-food	FOOD
+food	O
 and	O
 you	O
 want	O
@@ -120904,7 +120904,7 @@ in	O
 fact	O
 it	O
 my	O
-favorite	FOOD
+favorite	O
 meatloaf	FOOD
 in	O
 town	O
@@ -120953,7 +120953,7 @@ buffet	FOOD
 except	O
 all	O
 the	O
-food	FOOD
+food	O
 gave	O
 me	O
 heartburn	O
@@ -121014,7 +121014,7 @@ know	O
 is	O
 that	O
 the	O
-food	FOOD
+food	O
 is	O
 cheap	O
 ,	O
@@ -121201,7 +121201,7 @@ we	O
 wo	O
 n't	O
 get	O
-food	FOOD
+food	O
 poisoning	O
 ,	O
 but	O
@@ -121234,7 +121234,7 @@ off	O
 great	O
 selection	O
 of	O
-food	FOOD
+food	O
 !	O
 Beyond	O
 great	O
@@ -121352,7 +121352,7 @@ buffet	FOOD
 Wide	O
 selection	O
 of	O
-food	FOOD
+food	O
 and	O
 it	O
 was	O
@@ -121369,7 +121369,7 @@ with	O
 all	O
 the	O
 typical	O
-food	FOOD
+food	O
 and	O
 sweets	FOOD
 .	O
@@ -121566,7 +121566,7 @@ SUCK	O
 .	O
 Stay	O
 away.Good	O
-food	FOOD
+food	O
 ,	O
 reasonable	O
 prices	O
@@ -121592,7 +121592,7 @@ town	O
 location	O
 .	O
 Good	O
-food	FOOD
+food	O
 ,	O
 love	O
 the	O
@@ -121620,11 +121620,11 @@ hour	O
 ...	O
 but	O
 the	O
-food	FOOD
+food	O
 ...	O
 oh	O
 the	O
-food	FOOD
+food	O
 !	O
 There	O
 is	O
@@ -121780,7 +121780,7 @@ the	O
 later	O
 being	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 I	O
 've	O
@@ -121811,7 +121811,7 @@ well	O
 It	O
 is	O
 fast	O
-food	FOOD
+food	O
 but	O
 really	O
 does	O
@@ -121821,7 +121821,7 @@ like	O
 it	O
 .	O
 The	O
-food	FOOD
+food	O
 comes	O
 to	O
 you	O
@@ -121931,7 +121931,7 @@ of	O
 Auburn.Always	O
 a	O
 family	O
-favorite	FOOD
+favorite	O
 !	O
 Tastes	O
 great	O
@@ -122163,7 +122163,7 @@ good	O
 at	O
 under	O
 boiling	FOOD
-noodles!Food	FOOD	FOOD
+noodles!Food	FOOD
 is	O
 always	O
 great	O
@@ -122318,7 +122318,7 @@ dine-in	O
 experience	O
 .	O
 My	O
-food	FOOD
+food	O
 is	O
 always	O
 fresh	O
@@ -122772,7 +122772,7 @@ witnessed	O
 others	O
 get	O
 their	O
-food	FOOD
+food	O
 that	O
 had	O
 ordered	O
@@ -122810,11 +122810,11 @@ hour	O
 we	O
 got	O
 our	O
-food	FOOD
+food	O
 tossed	O
 on	O
 the	O
-table	FOOD
+table	O
 .	O
 The	O
 personable	O
@@ -122924,7 +122924,7 @@ poor	O
 hygiene	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 decent	O
 .	O
@@ -122998,7 +122998,7 @@ service	O
 and	O
 even	O
 worse	O
-food	FOOD
+food	O
 .	O
 I	O
 did	O
@@ -123248,7 +123248,7 @@ huge	O
 I	O
 had	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 .	O
 I	O
 barely	O
@@ -123296,7 +123296,7 @@ friend	O
 had	O
 the	O
 bacon	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 .	O
 I	O
 could	O
@@ -123536,7 +123536,7 @@ particular	O
 bar	FOOD
 has	O
 amazing	O
-food	FOOD
+food	O
 .	O
 Since	O
 this	O
@@ -123602,7 +123602,7 @@ suggest	O
 .	O
 My	O
 new	O
-favorite	FOOD
+favorite	O
 bar.I	FOOD
 had	O
 gone	O
@@ -123658,7 +123658,7 @@ drinks	O
 and	O
 found	O
 a	O
-table	FOOD
+table	O
 to	O
 sit	O
 at	O
@@ -123669,7 +123669,7 @@ were	O
 going	O
 through	O
 the	O
-food	FOOD
+food	O
 line	O
 which	O
 was	O
@@ -123678,7 +123678,7 @@ up	O
 at	O
 the	O
 pool	O
-table	FOOD
+table	O
 .	O
 But	O
 my	O
@@ -123837,7 +123837,7 @@ good	O
 simply	O
 and	O
 quality	O
-food	FOOD
+food	O
 .	O
 So	O
 thank	O
@@ -123885,7 +123885,7 @@ waited	O
 minutes	O
 for	O
 a	O
-table	FOOD
+table	O
 .	O
 Another	O
 20	O
@@ -123944,7 +123944,7 @@ minutes	O
 to	O
 decide	O
 on	O
-food	FOOD
+food	O
 and	O
 beverages	FOOD
 ...	O
@@ -123962,7 +123962,7 @@ we	O
 left	O
 .	O
 Your	O
-food	FOOD
+food	O
 is	O
 not	O
 that	O
@@ -124081,7 +124081,7 @@ was	O
 only	O
 one	O
 other	O
-table	FOOD
+table	O
 there	O
 .	O
 Another	O
@@ -124138,7 +124138,7 @@ it	O
 off	O
 I	O
 got	O
-food	FOOD
+food	O
 poisoning	O
 and	O
 spent	O
@@ -124191,7 +124191,7 @@ staff	O
 was	O
 attentive	O
 .	O
-Food	FOOD
+Food	O
 showed	O
 up	O
 quick	O
@@ -124199,7 +124199,7 @@ and	O
 tasted	O
 like	O
 IHOP	O
-food.TERRIBLE	FOOD
+food.TERRIBLE	O
 MANAGEMENT	O
 !	O
 -	O
@@ -124277,7 +124277,7 @@ I	O
 could	O
 have	O
 my	O
-food	FOOD
+food	O
 warmed	O
 up	O
 cause	O
@@ -124316,7 +124316,7 @@ the	O
 $	O
 30.00	O
 in	O
-food	FOOD
+food	O
 and	O
 walked	O
 out	O
@@ -124338,7 +124338,7 @@ the	O
 conclusion	O
 that	O
 there	O
-food	FOOD
+food	O
 gets	O
 cold	O
 and	O
@@ -124438,7 +124438,7 @@ any	O
 problems	O
 with	O
 the	O
-food	FOOD
+food	O
 before	O
 -LRB-	O
 we	O
@@ -124451,7 +124451,7 @@ year	O
 -RRB-	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 still	O
 fine	O
@@ -124700,7 +124700,7 @@ incompetent	O
 manager	O
 !	O
 The	O
-food	FOOD
+food	O
 was	O
 merely	O
 meh	O
@@ -125108,16 +125108,16 @@ while	O
 dining	O
 ,	O
 this	O
-food	FOOD
+food	O
 was	O
 good	O
 and	O
 inexpensive.Personally	O
 ,	O
 my	O
-favorite	FOOD
+favorite	O
 chinese	O
-food	FOOD
+food	O
 place	O
 in	O
 Madison	O
@@ -125125,7 +125125,7 @@ Madison	O
 They	O
 have	O
 excellent	O
-food	FOOD
+food	O
 ,	O
 excellent	O
 service	O
@@ -125316,7 +125316,7 @@ lacking	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 always	O
 hot	O
@@ -125434,7 +125434,7 @@ dining	O
 room	O
 and	O
 BLAND	O
-food	FOOD
+food	O
 .	O
 I	O
 'll	O
@@ -125456,7 +125456,7 @@ of	O
 the	O
 best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -125547,7 +125547,7 @@ sit	O
 anywhere	O
 .	O
 My	O
-food	FOOD
+food	O
 was	O
 excellent	O
 .	O
@@ -125594,7 +125594,7 @@ friendly	O
 service	O
 ,	O
 awesome	O
-food	FOOD
+food	O
 ,	O
 good	O
 prices	O
@@ -125605,7 +125605,7 @@ be	O
 back.Really	O
 great	O
 Chinese	O
-food	FOOD
+food	O
 .	O
 Something	O
 about	O
@@ -125624,7 +125624,7 @@ really	O
 care	O
 about	O
 your	O
-food	FOOD
+food	O
 .	O
 Everything	O
 is	O
@@ -125683,7 +125683,7 @@ ta	O
 say	O
 that	O
 the	O
-food	FOOD
+food	O
 from	O
 this	O
 restaurant	O
@@ -125799,7 +125799,7 @@ was	O
 lovely	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 all	O
 Wong	O
@@ -125932,7 +125932,7 @@ friendly	O
 .	O
 However	O
 the	O
-food	FOOD
+food	O
 was	O
 run	O
 of	O
@@ -126201,7 +126201,7 @@ better	O
 Besides	O
 the	O
 great	O
-food	FOOD
+food	O
 ,	O
 their	O
 prices	O
@@ -126317,7 +126317,7 @@ about	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 has	O
 been	O
 consistently	O
@@ -126611,7 +126611,7 @@ a	O
 wide	O
 selection	O
 of	O
-food	FOOD
+food	O
 unparalleled	O
 to	O
 starbucks	O
@@ -126995,7 +126995,7 @@ Aside	O
 from	O
 the	O
 disappointing	O
-food	FOOD
+food	O
 and	O
 lack	O
 of	O
@@ -127055,7 +127055,7 @@ the	O
 kids	O
 .	O
 The	O
-food	FOOD
+food	O
 seemed	O
 over-priced	O
 for	O
@@ -127174,7 +127174,7 @@ coffee	FOOD
 amazing	O
 atmosphere	O
 .	O
-Food	FOOD
+Food	O
 is	O
 also	O
 really	O
@@ -127238,7 +127238,7 @@ fireplace	O
 or	O
 find	O
 a	O
-table	FOOD
+table	O
 or	O
 up	O
 top	O
@@ -127334,7 +127334,7 @@ family	O
 The	O
 coffee	FOOD
 and	O
-food	FOOD
+food	O
 is	O
 good	O
 .	O
@@ -127481,7 +127481,7 @@ and	O
 not	O
 -RRB-	O
 and	O
-food	FOOD
+food	O
 .	O
 Skip	O
 the	O
@@ -127526,7 +127526,7 @@ good	O
 :	O
 -RRB-	O
 Good	O
-food	FOOD
+food	O
 ,	O
 comfy	O
 environment.Cool	O
@@ -127659,7 +127659,7 @@ But	O
 it	O
 's	O
 their	O
-food	FOOD
+food	O
 options	O
 that	O
 blew	O
@@ -127826,7 +127826,7 @@ balance	FOOD
 of	O
 coffee	FOOD
 and	O
-food	FOOD
+food	O
 .	O
 I	O
 would	O
@@ -127922,7 +127922,7 @@ highlighted	O
 on	O
 the	O
 back	O
-table	FOOD
+table	O
 on	O
 the	O
 way	O
@@ -128052,7 +128052,7 @@ of	O
 hours	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 great	O
 as	O
@@ -128312,7 +128312,7 @@ is	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 write	O
@@ -128336,7 +128336,7 @@ roasted	O
 -RRB-	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 fresh	O
 and	O
@@ -128504,7 +128504,7 @@ It	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 bring	O
@@ -128521,7 +128521,7 @@ work	O
 week	O
 .	O
 Their	O
-food	FOOD
+food	O
 is	O
 great	O
 and	O
@@ -128539,7 +128539,7 @@ here	O
 ,	O
 but	O
 my	O
-favorite	FOOD
+favorite	O
 is	O
 the	O
 grilled	O
@@ -128576,7 +128576,7 @@ Monty	O
 is	O
 a	O
 Madison	O
-favorite	FOOD
+favorite	O
 .	O
 Breakfast	FOOD
 all	O
@@ -128584,7 +128584,7 @@ day	O
 .	O
 Fantastic	O
 comfort	O
-food	FOOD
+food	O
 .	O
 Friendly	O
 service	O
@@ -128626,7 +128626,7 @@ with	O
 some	O
 tasty	O
 comfort	O
-food.Honestly	FOOD
+food.Honestly	O
 ,	O
 I	O
 ca	O
@@ -128654,7 +128654,7 @@ community	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 decent	O
 ,	O
@@ -128674,7 +128674,7 @@ the	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 .	O
 Classic	O
 diner	FOOD
@@ -128698,7 +128698,7 @@ place	O
 ,	O
 with	O
 average	O
-food.This	FOOD
+food.This	O
 diner	FOOD
 offers	O
 an	O
@@ -128768,7 +128768,7 @@ really	O
 impressed	O
 with	O
 their	O
-food	FOOD
+food	O
 ,	O
 and	O
 the	O
@@ -128782,9 +128782,9 @@ brought	O
 out	O
 half	O
 the	O
-table	FOOD
+table	O
 's	O
-food	FOOD
+food	O
 ,	O
 making	O
 a	O
@@ -128852,7 +128852,7 @@ let	O
 down	O
 by	O
 the	O
-food	FOOD
+food	O
 .	O
 The	O
 meals	O
@@ -129074,7 +129074,7 @@ place	O
 .	O
 Lemmings	O
 ...	O
-Food	FOOD
+Food	O
 Fight	O
 Inc.	O
 fools	O
@@ -129309,7 +129309,7 @@ interior	O
 Reasonable	O
 prices	O
 -	O
-Food	FOOD
+Food	O
 was	O
 decent	O
 -	O
@@ -129384,7 +129384,7 @@ as	O
 ``	O
 diner	FOOD
 ''	O
-food	FOOD
+food	O
 goes	O
 ,	O
 it	O
@@ -129713,7 +129713,7 @@ service	O
 sucks	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 okay	O
 ,	O
@@ -129759,7 +129759,7 @@ recently	O
 taken	O
 my	O
 2	O
-favorite	FOOD
+favorite	O
 items	O
 off	O
 the	O
@@ -129829,7 +129829,7 @@ drinks	O
 ,	O
 and	O
 your	O
-food	FOOD
+food	O
 ,	O
 and	O
 the	O
@@ -129924,7 +129924,7 @@ waiter	O
 come	O
 to	O
 the	O
-table	FOOD
+table	O
 ,	O
 so	O
 we	O
@@ -129952,7 +129952,7 @@ many	O
 diners	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 decent	O
 ,	O
@@ -130206,7 +130206,7 @@ over	O
 it	O
 .	O
 Their	O
-cheeseburger	O
+cheeseburger	FOOD
 was	O
 surprisingly	O
 good	O
@@ -130243,7 +130243,7 @@ one	O
 evening	O
 ,	O
 ``	O
-Cheeseburger	O
+Cheeseburger	FOOD
 Mac	O
 &	O
 Cheese	FOOD
@@ -130261,7 +130261,7 @@ really	O
 tasted	O
 like	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 over	O
 noodles	FOOD
 !	O
@@ -130578,7 +130578,7 @@ be	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 on	O
 the	O
@@ -130706,7 +130706,7 @@ run	O
 location	O
 .	O
 The	O
-food	FOOD
+food	O
 we	O
 were	O
 served	O
@@ -130731,7 +130731,7 @@ nice	O
 I	O
 thought	O
 the	O
-food	FOOD
+food	O
 was	O
 well	O
 priced	O
@@ -130978,7 +130978,7 @@ I	O
 've	O
 ever	O
 had.The	O
-food	FOOD
+food	O
 can	O
 be	O
 good	O
@@ -131077,7 +131077,7 @@ attention	O
 focused	O
 on	O
 the	O
-table	FOOD
+table	O
 next	O
 to	O
 mine	O
@@ -131126,7 +131126,7 @@ this	O
 summer	O
 even	O
 with	O
-gas	FOOD
+gas	O
 price	O
 ,	O
 we	O
@@ -131157,7 +131157,7 @@ room	O
 after	O
 the	O
 regular	O
-food	FOOD
+food	O
 so	O
 I	O
 end	O
@@ -131235,7 +131235,7 @@ places	O
 are	O
 generally	O
 my	O
-favorite	FOOD
+favorite	O
 types	O
 of	O
 places	O
@@ -131250,7 +131250,7 @@ because	O
 breakfast	FOOD
 is	O
 my	O
-favorite	FOOD
+favorite	O
 meal	FOOD
 of	O
 the	O
@@ -131555,7 +131555,7 @@ twice	O
 .	O
 The	O
 vegetarian	O
-food	FOOD
+food	O
 was	O
 that	O
 good	O
@@ -131641,7 +131641,7 @@ the	O
 best	O
 of	O
 the	O
-food	FOOD
+food	O
 we	O
 ate	O
 -LRB-	O
@@ -131680,7 +131680,7 @@ looked	O
 great	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 delicious	O
 ,	O
@@ -131721,7 +131721,7 @@ we	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 .	O
 I	O
 highly	O
@@ -131764,7 +131764,7 @@ well.This	O
 is	O
 my	O
 absolute	O
-favorite	FOOD
+favorite	O
 restaurant	O
 and	O
 anytime	O
@@ -131837,7 +131837,7 @@ been	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 diners	O
 in	O
 Mad-town	O
@@ -131847,7 +131847,7 @@ veggie	O
 chili	FOOD
 ,	O
 spicy	O
-cornbread	O
+cornbread	FOOD
 ,	O
 malts	O
 and	O
@@ -131984,7 +131984,7 @@ to	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 ,	O
 unlike	O
 people	O
@@ -132151,7 +132151,7 @@ the	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 could	O
 stand	O
 to	O
@@ -132261,7 +132261,7 @@ made	O
 this	O
 tiny	O
 former	O
-gas	FOOD
+gas	O
 station	O
 a	O
 stalwart	O
@@ -132288,7 +132288,7 @@ and	O
 your	O
 vegetarian	O
 comfort	O
-food	FOOD
+food	O
 ,	O
 zucchini-potato	FOOD	FOOD
 pancakes	O
@@ -132375,7 +132375,7 @@ awesome	O
 Their	O
 vegetarian	O
 comfort	O
-food	FOOD
+food	O
 is	O
 great	O
 and	O
@@ -132690,7 +132690,7 @@ here	O
 we	O
 got	O
 our	O
-food	FOOD
+food	O
 in	O
 a	O
 decent	O
@@ -132870,7 +132870,7 @@ there	O
 we	O
 had	O
 a	O
-table	FOOD
+table	O
 for	O
 four	O
 people	O
@@ -132991,7 +132991,7 @@ can	O
 get	O
 good	O
 comfort	O
-food	FOOD
+food	O
 !	O
 Me	O
 and	O
@@ -133197,7 +133197,7 @@ dairy	O
 yet	O
 am	O
 a	O
-food	FOOD
+food	O
 warrior	O
 .	O
 Indeed	O
@@ -133217,7 +133217,7 @@ Monty	O
 's	O
 marks	O
 my	O
-favorite	FOOD
+favorite	O
 eatery	O
 in	O
 the	O
@@ -133401,13 +133401,13 @@ the	O
 entire	O
 pile	O
 of	O
-food	FOOD
+food	O
 ,	O
 despite	O
 being	O
 a	O
 hormonal	O
-food	FOOD
+food	O
 warrior	O
 that	O
 day	O
@@ -133743,7 +133743,7 @@ dessert	FOOD
 ,	O
 pie	FOOD
 ,	O
-bakery	FOOD
+bakery	O
 ,	O
 cakes	O
 ,	O
@@ -133939,7 +133939,7 @@ companion	O
 ordered	O
 a	O
 plain	O
-cheeseburger	O
+cheeseburger	FOOD
 and	O
 it	O
 was	O
@@ -133985,7 +133985,7 @@ place	O
 but	O
 needs	O
 better	O
-food.My	FOOD
+food.My	O
 impression	O
 of	O
 Monty	O
@@ -134010,7 +134010,7 @@ awesome	O
 place	O
 with	O
 great	O
-food	FOOD
+food	O
 .	O
 On	O
 the	O
@@ -134440,7 +134440,7 @@ Monty	O
 's	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 consistently	O
 good	O
@@ -134655,7 +134655,7 @@ value	O
 and	O
 sub	O
 par	O
-food	FOOD
+food	O
 ?	O
 Service	O
 was	O
@@ -134763,7 +134763,7 @@ you	O
 do	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 delicious	O
 .	O
@@ -134771,7 +134771,7 @@ Once	O
 you	O
 get	O
 a	O
-table	FOOD
+table	O
 ,	O
 enjoy!Monty	O
 's	O
@@ -134805,8 +134805,8 @@ far	O
 and	O
 away	O
 my	O
-favorite	FOOD
-Food	FOOD
+favorite	O
+Food	O
 Fight	O
 place	O
 and	O
@@ -134822,7 +134822,7 @@ meal	FOOD
 .	O
 Monty	O
 's	O
-food	FOOD
+food	O
 is	O
 better	O
 than	O
@@ -135341,7 +135341,7 @@ why	O
 everyone	O
 loves	O
 the	O
-bakery	FOOD
+bakery	O
 here.I	O
 like	O
 this	O
@@ -135387,7 +135387,7 @@ high	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 hits	O
 the	O
 spot!Monty	FOOD
@@ -135438,7 +135438,7 @@ much	O
 I	O
 loved	O
 their	O
-food	FOOD
+food	O
 .	O
 Nestled	O
 in	O
@@ -135562,7 +135562,7 @@ you	O
 probably	O
 enjoyed	O
 the	O
-food	FOOD
+food	O
 as	O
 all	O
 the	O
@@ -135618,7 +135618,7 @@ n't	O
 feel	O
 that	O
 the	O
-food	FOOD
+food	O
 and	O
 eastside	O
 location	O
@@ -135738,7 +135738,7 @@ be	O
 missed	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 so	O
 good	O
@@ -136033,7 +136033,7 @@ options	O
 for	O
 classic	O
 diner	FOOD
-food	FOOD
+food	O
 that	O
 they	O
 do	O
@@ -136197,7 +136197,7 @@ when	O
 I	O
 want	O
 breakfast	FOOD
-food	FOOD
+food	O
 at	O
 2pm	O
 but	O
@@ -136205,7 +136205,7 @@ do	O
 not	O
 want	O
 big-chain	O
-food	FOOD
+food	O
 .	O
 They	O
 have	O
@@ -136297,7 +136297,7 @@ finally	O
 did	O
 get	O
 our	O
-food	FOOD
+food	O
 -LRB-	O
 although	O
 the	O
@@ -136315,7 +136315,7 @@ good	O
 All-in-all	O
 the	O
 tasty	O
-food	FOOD
+food	O
 and	O
 the	O
 kitschy	O
@@ -136439,7 +136439,7 @@ the	O
 pie	FOOD
 .	O
 Comfort	O
-food	FOOD
+food	O
 for	O
 the	O
 masses	O
@@ -136531,7 +136531,7 @@ state	O
 .	O
 For	O
 maximum	O
-food	FOOD
+food	O
 coma-ry	O
 ,	O
 I	O
@@ -136958,7 +136958,7 @@ zucchini	FOOD
 pancakes	O
 .	O
 Awesome	O
-bakery	FOOD
+bakery	O
 and	O
 great	O
 ,	O
@@ -137084,7 +137084,7 @@ Fantastic	O
 vegetarian	O
 and	O
 nonvegetarian	O
-food	FOOD
+food	O
 alike	O
 ,	O
 great	O
@@ -137114,12 +137114,12 @@ and	O
 atmosphere	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 good	O
 -	O
 comfort	O
-food	FOOD
+food	O
 for	O
 the	O
 soul.I	O
@@ -137380,7 +137380,7 @@ Mastercard	O
 Overall	O
 ,	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 ,	O
@@ -137642,7 +137642,7 @@ times	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 makes	O
 it	O
 totally	O
@@ -137946,7 +137946,7 @@ complete	O
 the	O
 perfect	O
 comfort/diner	FOOD
-food	FOOD
+food	O
 experience.Monty	O
 's	O
 is	O
@@ -137980,7 +137980,7 @@ setting	O
 and	O
 really	O
 good	O
-food	FOOD
+food	O
 .	O
 The	O
 only	O
@@ -138083,7 +138083,7 @@ It	O
 's	O
 sort	O
 of	O
-scaled-up-diner-food-meets-comfort-food	FOOD	FOOD	FOOD
+scaled-up-diner-food-meets-comfort-food	FOOD
 ,	O
 then	O
 add	O
@@ -138486,7 +138486,7 @@ my	O
 money	O
 on	O
 mediocre	O
-food	FOOD
+food	O
 .	O
 It	O
 got	O
@@ -138512,7 +138512,7 @@ had	O
 the	O
 meatless	O
 loaf	FOOD
-sammich	O
+sammich	FOOD
 ,	O
 and	O
 it	O
@@ -138642,7 +138642,7 @@ it	O
 comes	O
 to	O
 ordering	O
-food	FOOD
+food	O
 ,	O
 but	O
 reckless	O
@@ -138700,7 +138700,7 @@ of	O
 vegetarian	O
 options	O
 .	O
-Food	FOOD
+Food	O
 is	O
 just	O
 okay	O
@@ -138714,7 +138714,7 @@ wonder	O
 why	O
 everyone	O
 likes	O
-Food	FOOD
+Food	O
 Fight	O
 so	O
 much.Eh	O
@@ -138777,7 +138777,7 @@ meh	O
 Its	O
 not	O
 amazing	O
-food.One	FOOD
+food.One	O
 of	O
 madison	O
 's	O
@@ -138887,7 +138887,7 @@ put	O
 crack	O
 in	O
 their	O
-food	FOOD
+food	O
 its	O
 so	O
 good	O
@@ -138914,7 +138914,7 @@ lone	O
 diner	FOOD
 -	O
 no	O
-Table	FOOD
+Table	O
 for	O
 One	O
 ...	O
@@ -138928,7 +138928,7 @@ must	O
 admit	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 so	O
 good	O
@@ -138948,7 +138948,7 @@ Monty	O
 's	O
 .	O
 Yummy	O
-food	FOOD
+food	O
 .	O
 Service	O
 is	O
@@ -139009,7 +139009,7 @@ would	O
 Breakfast	FOOD
 is	O
 my	O
-favorite	FOOD
+favorite	O
 ,	O
 although	O
 lunch	FOOD
@@ -139405,7 +139405,7 @@ here	O
 ,	O
 and	O
 my	O
-favorite	FOOD
+favorite	O
 dishes	FOOD
 are	O
 the	O
@@ -139463,7 +139463,7 @@ plates	O
 of	O
 super	O
 fresh	O
-food	FOOD
+food	O
 ,	O
 yet	O
 always	O
@@ -139547,7 +139547,7 @@ Great	O
 place	O
 .	O
 Great	O
-food	FOOD
+food	O
 .	O
 Great	O
 people.Really	O
@@ -139570,7 +139570,7 @@ easier	O
 to	O
 get	O
 a	O
-table	FOOD
+table	O
 during	O
 meal	FOOD
 times	O
@@ -139629,7 +139629,7 @@ is	O
 key	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 thing	O
 is	O
 their	O
@@ -139718,7 +139718,7 @@ place	O
 is	O
 pretty	O
 small.Excellent	O
-food	FOOD
+food	O
 .	O
 The	O
 biscuits	FOOD
@@ -139828,7 +139828,7 @@ There	O
 's	O
 an	O
 amazing	O
-bakery	FOOD
+bakery	O
 display	O
 case	O
 in	O
@@ -140136,7 +140136,7 @@ and	O
 friendly	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 pretty	O
 good	O
@@ -140162,7 +140162,7 @@ get	O
 a	O
 lot	O
 of	O
-food	FOOD
+food	O
 !	O
 I	O
 've	O
@@ -140220,7 +140220,7 @@ tell	O
 me	O
 abou	O
 the	O
-food	FOOD
+food	O
 ''	O
 you	O
 ask	O
@@ -140539,7 +140539,7 @@ I	O
 like	O
 Monty	O
 's	O
-food	FOOD
+food	O
 --	O
 breakfast	FOOD
 ,	O
@@ -140721,7 +140721,7 @@ I	O
 trust	O
 that	O
 the	O
-food	FOOD
+food	O
 is	O
 good	O
 .	O
@@ -140767,7 +140767,7 @@ usually	O
 means	O
 that	O
 the	O
-food	FOOD
+food	O
 is	O
 worth	O
 it	O
@@ -140789,7 +140789,7 @@ local	O
 diner	FOOD
 with	O
 great	O
-food	FOOD
+food	O
 .	O
 Yelp	O
 recommended	O
@@ -140959,7 +140959,7 @@ price	O
 of	O
 the	O
 diner	FOOD
-food	FOOD
+food	O
 .	O
 The	O
 beef	FOOD
@@ -141006,7 +141006,7 @@ a	O
 diner	FOOD
 &	O
 the	O
-food	FOOD
+food	O
 is	O
 some	O
 of	O
@@ -141141,7 +141141,7 @@ Fun	O
 atmosphere	O
 ,	O
 great	O
-food	FOOD
+food	O
 ,	O
 nice	O
 variety	O
@@ -141198,7 +141198,7 @@ Madison	O
 has	O
 the	O
 best	O
-food	FOOD
+food	O
 ,	O
 this	O
 place	O
@@ -141227,7 +141227,7 @@ palate	O
 I	O
 had	O
 a	O
-cheeseburger	O
+cheeseburger	FOOD
 from	O
 here	O
 a	O
@@ -141491,7 +141491,7 @@ generally	O
 pleased	O
 with	O
 the	O
-food	FOOD
+food	O
 .	O
 Huge	O
 servings	O
@@ -141736,7 +141736,7 @@ pancakes	O
 .	O
 Around	O
 the	O
-table	FOOD
+table	O
 there	O
 were	O
 also	O
@@ -141807,7 +141807,7 @@ hit	O
 or	O
 miss	O
 .	O
-Food	FOOD
+Food	O
 is	O
 pretty	O
 good	O
@@ -141846,7 +141846,7 @@ gods	O
 .	O
 '	O
 Absolute	O
-favorite	FOOD
+favorite	O
 place.Monty	O
 's	O
 is	O
@@ -141855,18 +141855,18 @@ of	O
 the	O
 many	O
 mind-boggling	O
-Food	FOOD
+Food	O
 Fight	O
 restaurants	O
 that	O
 is	O
 a	O
 Madison	O
-favorite	FOOD
+favorite	O
 despite	O
 serving	O
 mediocre	O
-food	FOOD
+food	O
 .	O
 I	O
 've	O
@@ -141933,7 +141933,7 @@ more	O
 sustainability-conscious	O
 ,	O
 organic	O
-food	FOOD
+food	O
 .	O
 I	O
 ordered	O
@@ -141991,7 +141991,7 @@ in	O
 .	O
 But	O
 the	O
-food	FOOD
+food	O
 quality	O
 is	O
 generally	O
@@ -142255,7 +142255,7 @@ other	O
 old	O
 school	O
 diner	FOOD
-food	FOOD
+food	O
 in	O
 addition	O
 to	O
@@ -142284,7 +142284,7 @@ it	O
 for	O
 breakfast.good	FOOD
 diner	FOOD
-food	FOOD
+food	O
 with	O
 lot	O
 's	O
@@ -142403,7 +142403,7 @@ great	O
 looking	O
 desserts!Yucky	O
 greasy	O
-food.It	FOOD
+food.It	O
 's	O
 a	O
 cute	O
@@ -142446,7 +142446,7 @@ it	O
 .	O
 Then	O
 the	O
-food	FOOD
+food	O
 came	O
 .	O
 Ohmigod	O
@@ -142596,7 +142596,7 @@ what	O
 they	O
 call	O
 comfort	O
-food	FOOD
+food	O
 --	O
 what	O
 Mom	O
@@ -142649,7 +142649,7 @@ this	O
 stuff	O
 ``	O
 white	O
-food	FOOD
+food	O
 .	O
 ''	O
 The	O
@@ -142844,7 +142844,7 @@ to	O
 be.One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 brunch	FOOD
 spots	O
 in	O
@@ -142885,7 +142885,7 @@ tofu	FOOD
 scrambler	O
 -RRB-	O
 Another	O
-favorite	FOOD
+favorite	O
 is	O
 whatever	O
 the	O
@@ -142908,7 +142908,7 @@ restaurant	O
 Homestyle	O
 ,	O
 diner	FOOD
-food	FOOD
+food	O
 with	O
 a	O
 twist	O
@@ -143010,7 +143010,7 @@ was	O
 okay	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 okay	O
 ,	O
@@ -143041,7 +143041,7 @@ write	O
 about	O
 .	O
 My	O
-food	FOOD
+food	O
 was	O
 enjoyable	O
 ,	O
@@ -143399,7 +143399,7 @@ greasy	O
 .	O
 The	O
 artichoke	FOOD
-sandwhich	O
+sandwhich	FOOD
 is	O
 also	O
 off	O
@@ -143411,7 +143411,7 @@ Very	O
 good	O
 down	O
 home	O
-food	FOOD
+food	O
 all	O
 the	O
 way	O
@@ -143494,7 +143494,7 @@ worked	O
 professionally	O
 in	O
 the	O
-food	FOOD
+food	O
 industry	O
 for	O
 the	O
@@ -143529,7 +143529,7 @@ one	O
 of	O
 my	O
 absolute	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 go	O
@@ -143606,7 +143606,7 @@ omnivore	O
 ,	O
 and	O
 my	O
-favorite	FOOD
+favorite	O
 things	O
 to	O
 order	O
@@ -143805,12 +143805,12 @@ long-lost	O
 lover.One	O
 of	O
 our	O
-favorite	FOOD
+favorite	O
 Madison	O
 restaurants	O
 !	O
 Great	O
-food	FOOD
+food	O
 -LRB-	O
 most	O
 of	O
@@ -143861,7 +143861,7 @@ him	O
 what	O
 good	O
 American	O
-food	FOOD
+food	O
 was	O
 like	O
 ,	O
@@ -144073,7 +144073,7 @@ probably	O
 my	O
 #	O
 1	O
-favorite	FOOD
+favorite	O
 restaurant	O
 in	O
 Madison	O
@@ -144081,7 +144081,7 @@ Madison	O
 if	O
 not	O
 my	O
-favorite	FOOD
+favorite	O
 restaurant	O
 ever.We	O
 've	O
@@ -144098,7 +144098,7 @@ have	O
 always	O
 had	O
 good	O
-food	FOOD
+food	O
 there	O
 .	O
 Service	O
@@ -144192,7 +144192,7 @@ great	O
 meal	FOOD
 ,	O
 but	O
-food	FOOD
+food	O
 is	O
 totally	O
 plain	O
@@ -144751,7 +144751,7 @@ breakfast	FOOD
 next	O
 time	O
 ,	O
-though.Food	FOOD
+though.Food	O
 ,	O
 decent	O
 .	O
@@ -144811,7 +144811,7 @@ short	O
 time	O
 for	O
 our	O
-table	FOOD
+table	O
 .	O
 I	O
 liked	O
@@ -144820,7 +144820,7 @@ the	O
 person	O
 cleaning	O
 the	O
-table	FOOD
+table	O
 also	O
 put	O
 the	O
@@ -144904,7 +144904,7 @@ with	O
 bean	FOOD
 salad	FOOD
 .	O
-Food	FOOD
+Food	O
 arrived	O
 pretty	O
 quick	O
@@ -144982,7 +144982,7 @@ the	O
 service	O
 .	O
 The	O
-food	FOOD
+food	O
 got	O
 dropped	O
 off	O
@@ -145081,7 +145081,7 @@ Madison	O
 for	O
 vegetarians	O
 .	O
-Food	FOOD
+Food	O
 is	O
 delicious	O
 .	O
@@ -145132,7 +145132,7 @@ to	O
 Madison	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 always	O
 good	O
@@ -145149,7 +145149,7 @@ mix	FOOD
 of	O
 traditional	O
 diner	FOOD
-food	FOOD
+food	O
 with	O
 some	O
 great	O
@@ -145163,7 +145163,7 @@ couple	O
 times	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 outstanding	O
 .	O
@@ -145200,7 +145200,7 @@ wait	O
 to	O
 go	O
 back!My	O
-table	FOOD
+table	O
 ordered	O
 :	O
 and	O
@@ -145354,7 +145354,7 @@ to	O
 mention	O
 that	O
 the	O
-food	FOOD
+food	O
 is	O
 always	O
 mediocre	O
@@ -145440,7 +145440,7 @@ pancakes	O
 .	O
 So	O
 much	O
-food	FOOD
+food	O
 !	O
 But	O
 really	O
@@ -145481,7 +145481,7 @@ the	O
 multitude	O
 of	O
 imitation	O
-food	FOOD
+food	O
 offerings	O
 ,	O
 I	O
@@ -145493,7 +145493,7 @@ the	O
 sniffy	O
 reviews	O
 by	O
-food	FOOD
+food	O
 snobs	O
 ;	O
 Monty	O
@@ -145551,7 +145551,7 @@ clock	O
 lots	O
 of	O
 comfort	O
-food	FOOD
+food	O
 veg	O
 and	O
 non-veg	O
@@ -145731,7 +145731,7 @@ the	O
 offer	O
 .	O
 Our	O
-food	FOOD
+food	O
 was	O
 great	O
 !	O
@@ -145742,7 +145742,7 @@ great	O
 coffee	FOOD
 ,	O
 fast	O
-food	FOOD
+food	O
 prep	O
 from	O
 order	O
@@ -145750,7 +145750,7 @@ to	O
 plates	O
 on	O
 the	O
-table	FOOD
+table	O
 as	O
 well	O
 .	O
@@ -146167,7 +146167,7 @@ Monty	O
 offers	O
 fantastic	O
 diner	FOOD
-food	FOOD
+food	O
 and	O
 a	O
 wide	O
@@ -146260,7 +146260,7 @@ meal	FOOD
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 `	O
 da	O
@@ -146754,7 +146754,7 @@ else	O
 where	O
 .	O
 The	O
-food	FOOD
+food	O
 that	O
 we	O
 got	O
@@ -146767,7 +146767,7 @@ time	O
 anyway.A	O
 diner	FOOD
 with	O
-Food	FOOD
+Food	O
 Fight	O
 style	O
 and	O
@@ -146812,7 +146812,7 @@ friendly	O
 and	O
 efficient	O
 ,	O
-food	FOOD
+food	O
 quality	O
 to	O
 be	O
@@ -146834,7 +146834,7 @@ short	O
 wait	O
 for	O
 a	O
-table.The	FOOD
+table.The	O
 great	O
 thing	O
 about	O
@@ -146925,7 +146925,7 @@ to	O
 scarf	O
 down	O
 my	O
-food	FOOD
+food	O
 ,	O
 only	O
 couple	O
@@ -146934,7 +146934,7 @@ after	O
 arriving	O
 at	O
 the	O
-table	FOOD
+table	O
 it	O
 was	O
 already	O
@@ -147101,7 +147101,7 @@ galore	O
 Woohoo!One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 breakfast	FOOD
 places	O
 in	O
@@ -147146,7 +147146,7 @@ you	O
 are	O
 at	O
 a	O
-table	FOOD
+table	O
 ,	O
 at	O
 the	O
@@ -147179,7 +147179,7 @@ If	O
 you	O
 like	O
 unpretentious	O
-food	FOOD
+food	O
 that	O
 is	O
 filled	O
@@ -147206,7 +147206,7 @@ a	O
 pie	FOOD
 at	O
 our	O
-table	FOOD
+table	O
 .	O
 I	O
 think	O
@@ -147289,7 +147289,7 @@ No	O
 wimpy	O
 smoothies	FOOD
 or	O
-oatmeal	O
+oatmeal	FOOD
 here	O
 .	O
 I	O
@@ -147624,7 +147624,7 @@ prompt	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 fabulous	O
 .	O
@@ -147945,7 +147945,7 @@ of	O
 the	O
 Madison	O
 based	O
-Food	FOOD
+Food	O
 Fight	O
 Inc	O
 -LRB-	O
@@ -148024,7 +148024,7 @@ Service	O
 is	O
 fast	O
 ,	O
-food	FOOD
+food	O
 is	O
 good	O
 ,	O
@@ -148064,7 +148064,7 @@ vegetarian	O
 options	O
 also	O
 .	O
-Food	FOOD
+Food	O
 is	O
 interesting	O
 ,	O
@@ -148291,7 +148291,7 @@ good	O
 and	O
 interesting	O
 ,	O
-food	FOOD
+food	O
 ,	O
 fast	O
 ,	O
@@ -148376,7 +148376,7 @@ low	O
 One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 items	O
 is	O
 their	O
@@ -148507,7 +148507,7 @@ to	O
 give	O
 my	O
 money	O
-to.Food	FOOD
+to.Food	O
 was	O
 delicious	O
 .	O
@@ -148559,7 +148559,7 @@ and	O
 this	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 Madison	O
 restaurant	O
 ,	O
@@ -148567,7 +148567,7 @@ bar	FOOD
 none.One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 eat	O
@@ -148599,7 +148599,7 @@ for	O
 four	O
 but	O
 the	O
-food	FOOD
+food	O
 makes	O
 up	O
 for	O
@@ -148969,7 +148969,7 @@ so	O
 many	O
 options	O
 for	O
-food	FOOD
+food	O
 !	O
 There	O
 are	O
@@ -149029,7 +149029,7 @@ the	O
 mood	O
 for	O
 diner	FOOD
-food	FOOD
+food	O
 .	O
 It	O
 can	O
@@ -149360,7 +149360,7 @@ vegitarians	O
 alike	O
 .	O
 Our	O
-favorite	FOOD
+favorite	O
 is	O
 the	O
 Heathan	O
@@ -149454,7 +149454,7 @@ Monty	O
 's	O
 .	O
 Great	O
-food	FOOD
+food	O
 ,	O
 GREAT	O
 service	O
@@ -149572,7 +149572,7 @@ some	O
 of	O
 the	O
 best	O
-food	FOOD
+food	O
 I	O
 've	O
 had	O
@@ -149593,12 +149593,12 @@ have	O
 Hits	O
 :	O
 Tasty	O
-food	FOOD
+food	O
 ,	O
 happy	O
 servers	O
 ,	O
-bakery	FOOD
+bakery	O
 case	O
 ,	O
 and	O
@@ -149648,7 +149648,7 @@ you	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 .	O
 Bottom-line	O
 :	O
@@ -149749,7 +149749,7 @@ years	O
 ago	O
 .	O
 Great	O
-food	FOOD
+food	O
 ,	O
 lots	O
 of	O
@@ -149805,7 +149805,7 @@ meat	FOOD
 since	O
 watching	O
 a	O
-food	FOOD
+food	O
 documentary	O
 a	O
 few	O
@@ -149929,7 +149929,7 @@ ask	O
 .	O
 After	O
 the	O
-food	FOOD
+food	O
 arrived	O
 it	O
 took	O
@@ -150163,7 +150163,7 @@ Overall	O
 Monty	O
 's	O
 has	O
-food	FOOD
+food	O
 that	O
 is	O
 consistently	O
@@ -150492,7 +150492,7 @@ even	O
 for	O
 breakfast	FOOD
 !	O
-Food	FOOD
+Food	O
 is	O
 above	O
 average	O
@@ -150707,7 +150707,7 @@ the	O
 waiter	O
 :	O
 The	O
-food	FOOD
+food	O
 is	O
 excellent	O
 !	O
@@ -150719,7 +150719,7 @@ back	O
 soon	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 a	O
 five	O
@@ -150802,7 +150802,7 @@ is	O
 popular	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 bad	O
 and	O
@@ -151020,7 +151020,7 @@ and	O
 I	O
 think	O
 the	O
-food	FOOD
+food	O
 has	O
 made	O
 me	O
@@ -151083,7 +151083,7 @@ down	O
 .	O
 Some	O
 ok	O
-food	FOOD
+food	O
 ,	O
 some	O
 terrible	O
@@ -151157,7 +151157,7 @@ pleasant	O
 demeanor	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 also	O
 quite	O
@@ -151256,7 +151256,7 @@ Service	O
 is	O
 spectacular	O
 and	O
-food	FOOD
+food	O
 is	O
 beyond	O
 amazing	O
@@ -151290,7 +151290,7 @@ zucchini	FOOD
 pancakes	O
 are	O
 delectable.The	O
-food	FOOD
+food	O
 was	O
 ok	O
 !	O
@@ -151358,12 +151358,12 @@ Nope!It	O
 's	O
 unique	O
 diner	FOOD
-food	FOOD
+food	O
 in	O
 a	O
 renovated	O
 old	O
-gas	FOOD
+gas	O
 station	O
 .	O
 They	O
@@ -151375,7 +151375,7 @@ options	O
 and	O
 a	O
 fantastic	O
-bakery!Meatloaf	FOOD	FOOD
+bakery!Meatloaf	FOOD
 with	O
 red	FOOD
 wine	FOOD
@@ -151397,7 +151397,7 @@ Best	O
 place	O
 for	O
 comfort	O
-food	FOOD
+food	O
 .	O
 Did	O
 I	O
@@ -151720,7 +151720,7 @@ looks	O
 like	O
 an	O
 old	O
-gas	FOOD
+gas	O
 station	O
 -LRB-	O
 could	O
@@ -152419,7 +152419,7 @@ to	O
 wait	O
 for	O
 a	O
-table	FOOD
+table	O
 at	O
 7:30	O
 pm	O
@@ -152444,7 +152444,7 @@ people	O
 waiting	O
 for	O
 a	O
-table	FOOD
+table	O
 stole	O
 it	O
 before	O
@@ -152565,7 +152565,7 @@ coffee	FOOD
 checking	O
 on	O
 our	O
-food	FOOD
+food	O
 ,	O
 did	O
 we	O
@@ -152596,7 +152596,7 @@ a	O
 delicious	O
 consoling	O
 comfort	O
-food	FOOD
+food	O
 .	O
 My	O
 congratulation	O
@@ -152623,7 +152623,7 @@ great	O
 staff	O
 ,	O
 great	O
-food	FOOD
+food	O
 and	O
 ambiance	O
 .	O
@@ -153028,7 +153028,7 @@ is	O
 when	O
 there	O
 is	O
-food	FOOD
+food	O
 on	O
 the	O
 plate	O
@@ -153212,7 +153212,7 @@ so	O
 here	O
 comes	O
 the	O
-food	FOOD
+food	O
 part	O
 .	O
 .	O
@@ -153223,7 +153223,7 @@ beef	FOOD
 hash	FOOD
 .	O
 .	O
-food	FOOD
+food	O
 was	O
 lukewarm	O
 .	O
@@ -153232,7 +153232,7 @@ usually	O
 like	O
 my	O
 hot	O
-food	FOOD
+food	O
 hot	O
 .	O
 .	O
@@ -153288,7 +153288,7 @@ time	O
 The	O
 pie	FOOD
 and	O
-bakery	FOOD
+bakery	O
 goods	O
 look	O
 more	O
@@ -153318,7 +153318,7 @@ of	O
 person	O
 into	O
 good	O
-table	FOOD
+table	O
 service.Best	O
 .	O
 Place	O
@@ -153366,7 +153366,7 @@ that	O
 you	O
 like	O
 your	O
-food	FOOD
+food	O
 ,	O
 waiters	O
 know	O
@@ -153456,7 +153456,7 @@ this	O
 place	O
 !	O
 My	O
-favorite	FOOD
+favorite	O
 ?	O
 Bloody	O
 Mary	O
@@ -153475,7 +153475,7 @@ Mary	O
 in	O
 town	O
 .	O
-Food	FOOD
+Food	O
 is	O
 always	O
 delicious	O
@@ -153507,7 +153507,7 @@ experience.Nice	O
 atmosphere	O
 and	O
 fantastic	O
-food	FOOD
+food	O
 !	O
 And	O
 I	O
@@ -153781,7 +153781,7 @@ service	O
 and	O
 far	O
 better	O
-food	FOOD
+food	O
 and	O
 cheaper	O
 too	O
@@ -153929,7 +153929,7 @@ were	O
 menus	FOOD
 at	O
 the	O
-table	FOOD
+table	O
 so	O
 we	O
 were	O
@@ -154181,7 +154181,7 @@ was	O
 really	O
 good	O
 diner	FOOD
-food	FOOD
+food	O
 ,	O
 and	O
 was	O
@@ -154227,7 +154227,7 @@ was	O
 mediocre	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 mediocre	O
 ,	O
@@ -154243,7 +154243,7 @@ mediocre.Fantastic	O
 pie	FOOD
 !	O
 And	O
-food	FOOD
+food	O
 .	O
 And	O
 the	O
@@ -154292,7 +154292,7 @@ Dinner	FOOD
 is	O
 fancier	O
 diner	FOOD
-food	FOOD
+food	O
 that	O
 might	O
 be	O
@@ -154302,7 +154302,7 @@ overpriced	O
 for	O
 what	O
 it	O
-is.Food	FOOD
+is.Food	O
 is	O
 consistently	O
 good	O
@@ -154383,7 +154383,7 @@ same	O
 Great	O
 ,	O
 great	O
-food	FOOD
+food	O
 and	O
 convenient	O
 to	O
@@ -154401,7 +154401,7 @@ Awesome	O
 staff	O
 .	O
 Mediocre	O
-food.I	FOOD
+food.I	O
 like	O
 Monty	O
 's	O
@@ -154417,7 +154417,7 @@ good	O
 burgers.One	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 in	O
 Madison	O
@@ -154618,7 +154618,7 @@ there	O
 just	O
 for	O
 that!Great	O
-food	FOOD
+food	O
 and	O
 great	O
 atmosphere	O
@@ -154767,7 +154767,7 @@ are	O
 friendly	O
 and	O
 the	O
-food	FOOD
+food	O
 comes	O
 up	O
 fast	O
@@ -154804,7 +154804,7 @@ desserts	O
 from	O
 a	O
 local	O
-bakery	FOOD
+bakery	O
 .	O
 The	O
 carrot	FOOD
@@ -154885,7 +154885,7 @@ and	O
 has	O
 a	O
 killer	O
-bakery	FOOD
+bakery	O
 ...	O
 and	O
 allows	O
@@ -154957,7 +154957,7 @@ about	O
 drifting	O
 into	O
 a	O
-food	FOOD
+food	O
 coma	O
 on	O
 the	O
@@ -155004,7 +155004,7 @@ mix	FOOD
 of	O
 veggie	O
 friendly	O
-food	FOOD
+food	O
 and	O
 meaty	O
 dishes.Had	FOOD
@@ -155070,7 +155070,7 @@ amazing	O
 100	O
 %	O
 real	O
-food	FOOD
+food	O
 ,	O
 and	O
 a	O
@@ -155235,7 +155235,7 @@ from	O
 the	O
 Market	O
 Street	O
-bakery	FOOD
+bakery	O
 in	O
 Sun	O
 Prairie	O
@@ -155257,7 +155257,7 @@ cooking	FOOD
 fresh	O
 well	O
 made	O
-food	FOOD
+food	O
 that	O
 gives	O
 mom	O
@@ -155433,7 +155433,7 @@ good	O
 They	O
 do	O
 comfort	O
-food	FOOD
+food	O
 in	O
 good	O
 portions	O
@@ -155442,7 +155442,7 @@ reasonable	O
 prices	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 not	O
 spectacular	O
@@ -155517,7 +155517,7 @@ purely	O
 based	O
 on	O
 the	O
-food	FOOD
+food	O
 ,	O
 and	O
 on	O
@@ -155625,7 +155625,7 @@ so	O
 well	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 delicious	O
 .	O
@@ -155688,7 +155688,7 @@ gem.I	O
 always	O
 have	O
 awesome	O
-food	FOOD
+food	O
 here	O
 .	O
 I	O
@@ -155865,7 +155865,7 @@ able	O
 to	O
 get	O
 a	O
-table	FOOD
+table	O
 fairly	O
 quickly	O
 .	O
@@ -155978,7 +155978,7 @@ plate	O
 that	O
 makes	O
 the	O
-food	FOOD
+food	O
 messy	O
 and	O
 crowded.I	O
@@ -156178,7 +156178,7 @@ you	O
 looking	O
 for	O
 comfort-type	O
-food	FOOD
+food	O
 and/or	O
 a	O
 place	O
@@ -156313,7 +156313,7 @@ yummy	O
 sammies	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 thing	O
 to	O
 eat	O
@@ -156410,7 +156410,7 @@ try	O
 to	O
 get	O
 a	O
-table	FOOD
+table	O
 on	O
 the	O
 left	O
@@ -156654,7 +156654,7 @@ are	O
 from	O
 the	O
 Greenbush	O
-Bakery	FOOD
+Bakery	O
 ,	O
 sometimes	O
 it	O
@@ -156677,7 +156677,7 @@ up	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 .	O
 When	O
 you	O
@@ -156876,7 +156876,7 @@ I	O
 discovered	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 .	O
 How	O
 can	O
@@ -157098,7 +157098,7 @@ you	O
 can	O
 take	O
 your	O
-food	FOOD
+food	O
 to	O
 go	O
 .	O
@@ -157181,7 +157181,7 @@ I	O
 like	O
 going	O
 here.good	O
-food	FOOD
+food	O
 and	O
 very	O
 cheap.Since	O
@@ -157232,7 +157232,7 @@ was	O
 one	O
 of	O
 his	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 stop	O
@@ -157395,7 +157395,7 @@ As	O
 far	O
 as	O
 the	O
-food	FOOD
+food	O
 goes	O
 -	O
 the	O
@@ -157469,7 +157469,7 @@ selection	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 cooked	O
 right	O
@@ -157714,7 +157714,7 @@ they	O
 have	O
 pretty	O
 tasty	O
-food	FOOD
+food	O
 once	O
 I	O
 tried	O
@@ -157741,7 +157741,7 @@ for	O
 mousaka	O
 !	O
 MmmmThe	O
-food	FOOD
+food	O
 and	O
 service	O
 attitude	O
@@ -157801,7 +157801,7 @@ had	O
 better	O
 middle	O
 eastern	O
-food	FOOD
+food	O
 before	O
 .	O
 But	O
@@ -157812,7 +157812,7 @@ you	O
 pay	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 well	O
 worth	O
@@ -158026,7 +158026,7 @@ service	O
 at	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 are	O
 a	O
 great	O
@@ -158046,7 +158046,7 @@ business	O
 .	O
 Skip	O
 the	O
-babaganoush	O
+babaganoush	FOOD
 ,	O
 but	O
 make	O
@@ -158357,7 +158357,7 @@ Anyway	O
 ,	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 is	O
 truly	O
 a	O
@@ -158403,7 +158403,7 @@ they	O
 made	O
 all	O
 the	O
-food	FOOD
+food	O
 for	O
 me	O
 ,	O
@@ -158473,7 +158473,7 @@ delicious	O
 Mediterranean	O
 /	O
 Lebanese	O
-food	FOOD
+food	O
 that	O
 's	O
 worth	O
@@ -158482,7 +158482,7 @@ trying	O
 Also	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 really	O
 cheap	O
@@ -158496,7 +158496,7 @@ huge	O
 bag	O
 of	O
 great	O
-food	FOOD
+food	O
 for	O
 under	O
 20	O
@@ -158524,7 +158524,7 @@ As	O
 far	O
 as	O
 the	O
-bakery	FOOD
+bakery	O
 items	O
 ,	O
 go	O
@@ -158552,7 +158552,7 @@ expect	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 was	O
 EXCELLENT	O
 .	O
@@ -158658,7 +158658,7 @@ the	O
 name	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 ,	O
 you	O
 'd	O
@@ -158672,7 +158672,7 @@ the	O
 best	O
 Middle	O
 Eastern	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -158732,7 +158732,7 @@ matter	O
 your	O
 experience	O
 with	O
-food	FOOD
+food	O
 of	O
 the	O
 Middle	O
@@ -158907,7 +158907,7 @@ me	O
 it	O
 was	O
 her	O
-favorite	FOOD
+favorite	O
 ,	O
 best	O
 on	O
@@ -159084,7 +159084,7 @@ this	O
 was	O
 my	O
 least	O
-favorite	FOOD
+favorite	O
 today	O
 .	O
 I	O
@@ -159247,7 +159247,7 @@ outstanding	O
 Next	O
 time	O
 ,	O
-shish	O
+shish	FOOD
 tahouk	O
 and	O
 baba	FOOD
@@ -159300,7 +159300,7 @@ I	O
 discovered	O
 People	O
 's	O
-bakery	FOOD
+bakery	O
 .	O
 Upon	O
 walking	O
@@ -159336,7 +159336,7 @@ I	O
 knew	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 was	O
 gon	O
 na	O
@@ -159369,7 +159369,7 @@ to-go	O
 I	O
 got	O
 a	O
-Shish	O
+Shish	FOOD
 Taouk	O
 -LRB-	O
 commonly	O
@@ -159397,7 +159397,7 @@ Hummus	FOOD
 Well	O
 ,	O
 my	O
-Shish	O
+Shish	FOOD
 Tauok	O
 was	O
 plump	O
@@ -159521,7 +159521,7 @@ another	O
 day	O
 .	O
 Lebanese	O
-food	FOOD
+food	O
 and	O
 donuts	O
 ...	O
@@ -159536,7 +159536,7 @@ says	O
 donuts	O
 and	O
 Lebanese	O
-food	FOOD
+food	O
 do	O
 n't	O
 go	O
@@ -159544,7 +159544,7 @@ together	O
 ?!	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 has	O
 made	O
 me	O
@@ -159565,7 +159565,7 @@ affordable	O
 ,	O
 delicious	O
 Lebanese	O
-food	FOOD
+food	O
 ,	O
 and	O
 some	O
@@ -159587,7 +159587,7 @@ unassuming	O
 ,	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 authentic	O
 -LRB-	O
@@ -159666,7 +159666,7 @@ you	O
 think	O
 about	O
 ordering	O
-food	FOOD
+food	O
 here	O
 .	O
 still	O
@@ -159688,7 +159688,7 @@ a	O
 diner	FOOD
 ?	O
 A	O
-bakery	FOOD
+bakery	O
 ?	O
 An	O
 auntie	O
@@ -159774,7 +159774,7 @@ There	O
 was	O
 so	O
 much	O
-food	FOOD
+food	O
 my	O
 eyes	O
 pin-balled	O
@@ -159912,7 +159912,7 @@ enjoy	O
 us	O
 enjoying	O
 their	O
-food	FOOD
+food	O
 .	O
 My	O
 five-star	O
@@ -159945,7 +159945,7 @@ head	O
 !	O
 Fresh	O
 Lebanese	O
-food	FOOD
+food	O
 made	O
 to	O
 order	O
@@ -159963,7 +159963,7 @@ today	O
 at	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 .	O
 I	O
 do	O
@@ -160102,7 +160102,7 @@ Bunky	O
 is	O
 still	O
 my	O
-favorite	FOOD
+favorite	O
 in	O
 town	O
 .	O
@@ -160136,7 +160136,7 @@ beverages	FOOD
 they	O
 had	O
 my	O
-favorite	FOOD
+favorite	O
 Nantucket	O
 Nectar	O
 and	O
@@ -160236,12 +160236,12 @@ and	O
 everyone	O
 loved	O
 the	O
-food	FOOD
+food	O
 they	O
 ordered	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 very	O
 reasonably	O
@@ -160400,7 +160400,7 @@ dishes	FOOD
 from	O
 hummus	FOOD
 and	O
-babaganoush	O
+babaganoush	FOOD
 ,	O
 to	O
 kebabs	FOOD
@@ -160493,7 +160493,7 @@ crafting	O
 joy	O
 through	O
 delicious	O
-food	FOOD
+food	O
 for	O
 many	O
 moons	O
@@ -160509,7 +160509,7 @@ from	O
 recommending	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 with	O
 the	O
 full	FOOD
@@ -160626,7 +160626,7 @@ knock	O
 out	O
 some	O
 amazing	O
-food	FOOD
+food	O
 .	O
 Ca	O
 n't	O
@@ -160641,7 +160641,7 @@ you	O
 will	O
 enjoy	O
 the	O
-food	FOOD
+food	O
 .	O
 The	O
 falafel	FOOD
@@ -160746,7 +160746,7 @@ declared	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 as	O
 the	O
 worthy	O
@@ -160763,7 +160763,7 @@ to	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 was	O
 in	O
 the	O
@@ -160950,7 +160950,7 @@ was	O
 delivered	O
 to	O
 my	O
-table	FOOD
+table	O
 .	O
 I	O
 swear	O
@@ -160974,7 +160974,7 @@ quantity	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 delivered	O
 big	O
 time	O
@@ -161227,7 +161227,7 @@ does	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 unseat	O
 Trader	O
 Gus	O
@@ -161263,7 +161263,7 @@ to	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 to	O
 conduct	O
 more	O
@@ -161290,7 +161290,7 @@ wallet	O
 ,	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 is	O
 an	O
 option	O
@@ -161503,7 +161503,7 @@ found	O
 the	O
 People	O
 's	O
-Bakery	FOOD
+Bakery	O
 .	O
 The	O
 donuts	O
@@ -161594,7 +161594,7 @@ for	O
 lunch	FOOD
 and	O
 dinner.Their	FOOD
-food	FOOD
+food	O
 and	O
 pastries	O
 are	O
@@ -161825,7 +161825,7 @@ within	O
 minutes	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 much	O
 more	O
@@ -161937,7 +161937,7 @@ the	O
 person	O
 buying	O
 the	O
-food	FOOD
+food	O
 is	O
 responsible	O
 for	O
@@ -161978,7 +161978,7 @@ overall	O
 quality	O
 of	O
 the	O
-Food	FOOD
+Food	O
 Fight	O
 restaurants	O
 .	O
@@ -161990,7 +161990,7 @@ to	O
 point	O
 out	O
 that	O
-Food	FOOD
+Food	O
 Fight	O
 is	O
 based	O
@@ -162147,7 +162147,7 @@ behind	O
 Magnus.The	O
 restaurants	O
 that	O
-Food	FOOD
+Food	O
 Fight	O
 offers	O
 are	O
@@ -162173,7 +162173,7 @@ all	O
 serve	O
 incredibly	O
 bad	O
-food	FOOD
+food	O
 .	O
 I	O
 tried	O
@@ -162207,7 +162207,7 @@ ridiculous.I	O
 have	O
 been	O
 a	O
-food	FOOD
+food	O
 fight	O
 customer	O
 and	O
@@ -162222,7 +162222,7 @@ regular	O
 basis	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 is	O
 Monty	O
 's	O
@@ -162237,7 +162237,7 @@ the	O
 gods	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 .	O
 Have	O
 tried	O
@@ -162311,7 +162311,7 @@ it.This	O
 has	O
 been	O
 my	O
-favorite	FOOD
+favorite	O
 location	O
 to	O
 get	O
@@ -162480,7 +162480,7 @@ it	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 pizzas	O
 in	O
 the	O
@@ -162645,7 +162645,7 @@ do	O
 n't	O
 .	O
 Great	O
-food	FOOD
+food	O
 ,	O
 good	O
 service	O
@@ -162666,7 +162666,7 @@ for	O
 dinner	FOOD
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 still	O
 very	O
@@ -162897,7 +162897,7 @@ and	O
 they	O
 have	O
 great	O
-food	FOOD
+food	O
 .	O
 I	O
 recommend	O
@@ -162985,7 +162985,7 @@ If	O
 you	O
 like	O
 Indian	FOOD
-food	FOOD
+food	O
 at	O
 all	O
 ,	O
@@ -163073,7 +163073,7 @@ but	O
 hotness	O
 on	O
 the	O
-food	FOOD
+food	O
 at	O
 medium	O
 was	O
@@ -163133,7 +163133,7 @@ passionate	O
 love	O
 of	O
 Nepalese	O
-food	FOOD
+food	O
 until	O
 moving	O
 up	O
@@ -163177,7 +163177,7 @@ is	O
 nothing	O
 but	O
 chain	O
-food	FOOD
+food	O
 and	O
 malls	O
 on	O
@@ -163546,7 +163546,7 @@ into	O
 an	O
 almost	O
 immediate	O
-food	FOOD
+food	O
 coma	O
 upon	O
 settling	O
@@ -163756,7 +163756,7 @@ were	O
 super	O
 .	O
 The	O
-food	FOOD
+food	O
 seemed	O
 to	O
 be	O
@@ -163887,10 +163887,10 @@ making	O
 ``	O
 chaat	O
 ''	O
-food	FOOD
+food	O
 -	O
 street	O
-food	FOOD
+food	O
 of	O
 india	FOOD
 .	O
@@ -163937,7 +163937,7 @@ SD	O
 Save	O
 your	O
 indian	FOOD
-food	FOOD
+food	O
 craving	O
 and	O
 head	O
@@ -163952,7 +163952,7 @@ I	O
 like	O
 for	O
 Indian	FOOD
-food	FOOD
+food	O
 but	O
 this	O
 was	O
@@ -164293,7 +164293,7 @@ chai	FOOD
 I	O
 ordered	O
 the	O
-food	FOOD
+food	O
 to	O
 be	O
 Indian	FOOD
@@ -164438,7 +164438,7 @@ found	O
 love	O
 for	O
 Indian	FOOD
-food	FOOD
+food	O
 and	O
 when	O
 I	O
@@ -164501,7 +164501,7 @@ check	O
 this	O
 place	O
 out.The	O
-food	FOOD
+food	O
 here	O
 is	O
 good	O
@@ -164514,7 +164514,7 @@ are	O
 new	O
 to	O
 Indian	FOOD
-food	FOOD
+food	O
 ,	O
 so	O
 I	O
@@ -164534,7 +164534,7 @@ comparison	O
 to	O
 other	O
 Indian	FOOD
-food	FOOD
+food	O
 ,	O
 but	O
 overall	O
@@ -164542,7 +164542,7 @@ we	O
 really	O
 liked	O
 the	O
-food	FOOD
+food	O
 here	O
 .	O
 The	O
@@ -165039,7 +165039,7 @@ n't	O
 matter	O
 when	O
 the	O
-food	FOOD
+food	O
 is	O
 soooo	O
 good.We	O
@@ -165067,7 +165067,7 @@ try	O
 My	O
 husband	O
 's	O
-favorite	FOOD
+favorite	O
 is	O
 Chicken	FOOD
 Tikka	FOOD
@@ -165086,7 +165086,7 @@ pretty	O
 new	O
 to	O
 Indian	FOOD
-food	FOOD
+food	O
 ,	O
 but	O
 there	O
@@ -165120,7 +165120,7 @@ considering	O
 some	O
 of	O
 the	O
-food	FOOD
+food	O
 is	O
 really	O
 spicy	O
@@ -165189,7 +165189,7 @@ if	O
 you	O
 offer	O
 great	O
-food	FOOD
+food	O
 at	O
 a	O
 fair	O
@@ -165278,7 +165278,7 @@ brought	O
 naan	FOOD
 to	O
 the	O
-table	FOOD
+table	O
 and	O
 was	O
 there	O
@@ -165320,7 +165320,7 @@ were	O
 welcome	O
 to	O
 the	O
-food	FOOD
+food	O
 but	O
 would	O
 be	O
@@ -165351,7 +165351,7 @@ the	O
 amount	O
 of	O
 leftover	O
-food	FOOD
+food	O
 that	O
 has	O
 to	O
@@ -165420,7 +165420,7 @@ it	O
 ,	O
 if	O
 the	O
-food	FOOD
+food	O
 was	O
 bad	O
 ,	O
@@ -165439,7 +165439,7 @@ if	O
 you	O
 love	O
 Indian	FOOD
-food.At	FOOD
+food.At	O
 tha	O
 advice	O
 of	O
@@ -165458,7 +165458,7 @@ this	O
 restaurant	O
 .	O
 Excellent	O
-food	FOOD
+food	O
 at	O
 decent	O
 prices	O
@@ -165467,7 +165467,7 @@ If	O
 you	O
 like	O
 Indian	FOOD
-food	FOOD
+food	O
 ,	O
 I	O
 would	O
@@ -165511,7 +165511,7 @@ Tandoori	FOOD
 Chicken	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 really	O
 good	O
@@ -165638,7 +165638,7 @@ long	O
 time	O
 for	O
 my	O
-food	FOOD
+food	O
 to	O
 arrive	O
 .	O
@@ -165652,7 +165652,7 @@ to	O
 the	O
 time	O
 my	O
-food	FOOD
+food	O
 arrived	O
 was	O
 almost	O
@@ -165668,7 +165668,7 @@ back	O
 again	O
 because	O
 the	O
-food	FOOD
+food	O
 was	O
 very	O
 good	O
@@ -165700,7 +165700,7 @@ me	O
 how	O
 great	O
 the	O
-food	FOOD
+food	O
 was	O
 .	O
 I	O
@@ -165730,7 +165730,7 @@ a	O
 try	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 outstanding	O
 !	O
@@ -165991,7 +165991,7 @@ very	O
 comfortable	O
 !	O
 The	O
-food	FOOD
+food	O
 is	O
 SOOO	O
 good	O
@@ -166069,7 +166069,7 @@ etc.	O
 .	O
 Tonight	O
 the	O
-food	FOOD
+food	O
 was	O
 good	O
 ,	O
@@ -166411,7 +166411,7 @@ n't	O
 very	O
 good	O
 .	O
-Food	FOOD
+Food	O
 was	O
 OK	O
 though.My	O
@@ -166446,7 +166446,7 @@ service	O
 and	O
 quality	O
 of	O
-food	FOOD
+food	O
 ,	O
 I	O
 really	O
@@ -166621,7 +166621,7 @@ as	O
 well	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 excellent	O
 but	O
@@ -166658,7 +166658,7 @@ lemon	FOOD
 chunks	O
 on	O
 the	O
-table	FOOD
+table	O
 .	O
 Dignified	O
 and	O
@@ -166843,7 +166843,7 @@ downfall	O
 here	O
 was	O
 the	O
-food	FOOD
+food	O
 .	O
 I	O
 had	O
@@ -166943,7 +166943,7 @@ days	O
 but	O
 at	O
 our	O
-table	FOOD
+table	O
 we	O
 all	O
 had	O
@@ -166951,7 +166951,7 @@ similar	O
 thoughts	O
 on	O
 the	O
-food	FOOD
+food	O
 .	O
 And	O
 to	O
@@ -167100,7 +167100,7 @@ Bar	FOOD
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 lunch	FOOD
 spots	O
 -RRB-	O
@@ -167296,7 +167296,7 @@ the	O
 wall	O
 .	O
 The	O
-table	FOOD
+table	O
 settings	O
 are	O
 nice	O
@@ -167531,7 +167531,7 @@ It	O
 was	O
 a	O
 simple	O
-cornbread-type	O
+cornbread-type	FOOD
 breading	FOOD
 that	O
 was	O
@@ -167661,7 +167661,7 @@ bar	FOOD
 room	O
 is	O
 great	O
-Food	FOOD
+Food	O
 :	O
 4	O
 -	O
@@ -168104,7 +168104,7 @@ Club	O
 =	O
 WIN	O
 .	O
-Food	FOOD
+Food	O
 =	O
 4.75	O
 stars	O
@@ -168185,7 +168185,7 @@ comfy	O
 But	O
 ,	O
 the	O
-food	FOOD
+food	O
 --	O
 outside	O
 of	O
@@ -168237,7 +168237,7 @@ Simple	O
 presentation	O
 and	O
 simple	O
-food	FOOD
+food	O
 ,	O
 but	O
 it	O
@@ -168714,7 +168714,7 @@ wait	O
 long	O
 for	O
 a	O
-table	FOOD
+table	O
 .	O
 I	O
 ordered	O
@@ -168881,7 +168881,7 @@ Atmosphere	O
 4	O
 Star	O
 ,	O
-Food	FOOD
+Food	O
 -LRB-	O
 overall	O
 -RRB-	O
@@ -169056,7 +169056,7 @@ Terrific	O
 fish	FOOD
 fry	FOOD
 and	O
-food	FOOD
+food	O
 .	O
 btw	O
 -	O
@@ -169084,7 +169084,7 @@ or	O
 wine	FOOD
 and	O
 some	O
-food	FOOD
+food	O
 and	O
 swapping	O
 ``	O
@@ -169144,14 +169144,14 @@ us	O
 to	O
 get	O
 our	O
-food	FOOD
+food	O
 and	O
 there	O
 was	O
 only	O
 1	O
 other	O
-table	FOOD
+table	O
 in	O
 the	O
 restaurant	O
@@ -169207,7 +169207,7 @@ most	O
 I	O
 enjoyed	O
 the	O
-food	FOOD
+food	O
 the	O
 first	O
 time	O
@@ -169258,7 +169258,7 @@ Denny	O
 's	O
 built	O
 a	O
-food	FOOD
+food	O
 court	O
 at	O
 a	O
@@ -169288,7 +169288,7 @@ while	O
 you	O
 eat	O
 your	O
-food	FOOD
+food	O
 ,	O
 this	O
 is	O
@@ -169588,7 +169588,7 @@ meeting	O
 there	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 ...	O
 not	O
@@ -169607,7 +169607,7 @@ the	O
 rest	O
 of	O
 the	O
-food	FOOD
+food	O
 was	O
 just	O
 not	O
@@ -169627,7 +169627,7 @@ ate	O
 there	O
 tonight	O
 .	O
-Food	FOOD
+Food	O
 so	O
 so	O
 .	O
@@ -169879,7 +169879,7 @@ After	O
 Sparky	O
 left	O
 our	O
-table	FOOD
+table	O
 ,	O
 dining	O
 companion	O
@@ -170232,7 +170232,7 @@ and	O
 the	O
 service	O
 and	O
-food	FOOD
+food	O
 is	O
 always	O
 top	O
@@ -170286,7 +170286,7 @@ and	O
 your	O
 looking	O
 for	O
-food	FOOD
+food	O
 off	O
 the	O
 side	O
@@ -170533,7 +170533,7 @@ to	O
 Olive	FOOD
 Garden	O
 The	O
-food	FOOD
+food	O
 was	O
 pretty	O
 good	O
@@ -170841,7 +170841,7 @@ left	O
 it	O
 at	O
 the	O
-table	FOOD
+table	O
 and	O
 with	O
 in	O
@@ -171260,7 +171260,7 @@ in	O
 all	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 tasty	O
 and	O
@@ -171281,7 +171281,7 @@ a	O
 hair	O
 in	O
 her	O
-food	FOOD
+food	O
 and	O
 had	O
 to	O
@@ -171355,7 +171355,7 @@ it	O
 has	O
 higher	O
 quality	O
-food	FOOD
+food	O
 .	O
 Why	O
 ca	O
@@ -171411,7 +171411,7 @@ midwestern	O
 mall	O
 shoppers	O
 want?The	O
-food	FOOD
+food	O
 is	O
 still	O
 tasty	O
@@ -171438,7 +171438,7 @@ checked	O
 out	O
 the	O
 bar.The	FOOD
-food	FOOD
+food	O
 is	O
 fresh	O
 and	O
@@ -171478,7 +171478,7 @@ is	O
 the	O
 worst	O
 Chinese	O
-food	FOOD
+food	O
 I	O
 have	O
 had	O
@@ -171559,7 +171559,7 @@ and	O
 go	O
 to	O
 the	O
-food	FOOD
+food	O
 court	O
 in	O
 the	O
@@ -171576,7 +171576,7 @@ price	O
 for	O
 the	O
 better	O
-food.After	FOOD
+food.After	O
 reading	O
 all	O
 the	O
@@ -171860,7 +171860,7 @@ was	O
 not	O
 good	O
 .	O
-Food	FOOD
+Food	O
 was	O
 okay	O
 ,	O
@@ -171961,7 +171961,7 @@ so	O
 and	O
 like	O
 the	O
-food	FOOD
+food	O
 and	O
 service	O
 .	O
@@ -172009,7 +172009,7 @@ After	O
 I	O
 ordered	O
 the	O
-food	FOOD
+food	O
 came	O
 out	O
 literally	O
@@ -172042,10 +172042,10 @@ been	O
 more	O
 satisfied	O
 with	O
-food	FOOD
+food	O
 court	O
 chinese/asian	O
-food	FOOD
+food	O
 .	O
 Sad	O
 comparison	O
@@ -172063,11 +172063,11 @@ there	O
 again.Hands	O
 down	O
 my	O
-favorite	FOOD
+favorite	O
 place	O
 for	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -172346,7 +172346,7 @@ a	O
 fan	O
 of	O
 spicy	O
-food	FOOD
+food	O
 then	O
 it	O
 would	O
@@ -172410,7 +172410,7 @@ we	O
 will	O
 be	O
 back!Good	O
-food	FOOD
+food	O
 ,	O
 good	O
 service	O
@@ -172520,7 +172520,7 @@ the	O
 best	O
 for	O
 Chinese	O
-food	FOOD
+food	O
 anywhere	O
 in	O
 the	O
@@ -172733,7 +172733,7 @@ the	O
 experience	O
 and	O
 the	O
-food	FOOD
+food	O
 as	O
 well	O
 .	O
@@ -172915,7 +172915,7 @@ so	O
 pricy	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 great	O
 .	O
@@ -172941,7 +172941,7 @@ that	O
 high	O
 on	O
 the	O
-food.We	FOOD
+food.We	O
 really	O
 enjoyed	O
 our	O
@@ -172992,7 +172992,7 @@ We	O
 'd	O
 return.Best	O
 Chinese	O
-food	FOOD
+food	O
 in	O
 Midwest	O
 .	O
@@ -173118,7 +173118,7 @@ from	O
 me	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 delicious	O
 and	O
@@ -173287,7 +173287,7 @@ service	O
 and	O
 very	O
 good	O
-food	FOOD
+food	O
 .	O
 We	O
 'll	O
@@ -173310,7 +173310,7 @@ good	O
 reviews	O
 as	O
 the	O
-food	FOOD
+food	O
 is	O
 not	O
 Chinese	O
@@ -173326,7 +173326,7 @@ I	O
 know	O
 how	O
 Chinese	O
-food	FOOD
+food	O
 should	O
 taste	O
 like	O
@@ -173446,7 +173446,7 @@ to	O
 friends	O
 and	O
 family!Ordered	O
-food	FOOD
+food	O
 for	O
 delivery	O
 at	O
@@ -173486,7 +173486,7 @@ not	O
 picked	O
 up	O
 our	O
-food	FOOD
+food	O
 .	O
 Were	O
 told	O
@@ -173509,7 +173509,7 @@ their	O
 end	O
 !	O
 When	O
-food	FOOD
+food	O
 arrived	O
 it	O
 was	O
@@ -173823,7 +173823,7 @@ him	O
 to	O
 watch	O
 a	O
-favorite	FOOD
+favorite	O
 band	O
 there	O
 ,	O
@@ -174416,11 +174416,11 @@ Sublime	O
 cover	FOOD
 band	O
 .	O
-Food	FOOD
+Food	O
 is	O
 regular	O
 bar	FOOD
-food	FOOD
+food	O
 and	O
 nothing	O
 special	O
@@ -174445,7 +174445,7 @@ There	O
 is	O
 a	O
 pool	O
-table	FOOD
+table	O
 and	O
 video	O
 poker	O
@@ -174542,7 +174542,7 @@ First	O
 off	O
 ,	O
 their	O
-food	FOOD
+food	O
 was	O
 okay	O
 .	O
@@ -175101,7 +175101,7 @@ Steve	O
 Grabbed	O
 a	O
 small	O
-table	FOOD
+table	O
 near	O
 the	O
 back/side	O
@@ -175176,7 +175176,7 @@ wait	O
 to	O
 try	O
 the	O
-food	FOOD
+food	O
 -	O
 the	O
 menu	FOOD
@@ -175320,7 +175320,7 @@ new	O
 owner	O
 ,	O
 a	O
-food	FOOD
+food	O
 menu	FOOD
 ,	O
 and	O
@@ -175544,7 +175544,7 @@ fluke	O
 !	O
 Beyond	O
 the	O
-food	FOOD
+food	O
 and	O
 drink	O
 ,	O
@@ -176180,7 +176180,7 @@ a	O
 ``	O
 must	O
 order	O
-food	FOOD
+food	O
 ''	O
 policy	O
 in	O
@@ -176292,7 +176292,7 @@ snag	O
 the	O
 last	O
 open	O
-table	FOOD
+table	O
 in	O
 the	O
 place	O
@@ -176389,7 +176389,7 @@ which	O
 were	O
 n't	O
 my	O
-favorite	FOOD
+favorite	O
 ...	O
 All	O
 in	O
@@ -176443,7 +176443,7 @@ i.e.	O
 ,	O
 must	O
 order	O
-food	FOOD
+food	O
 to	O
 get	O
 a	O
@@ -176551,7 +176551,7 @@ to	O
 mind	O
 .	O
 The	O
-food	FOOD
+food	O
 we	O
 tried	O
 was	O
@@ -176885,7 +176885,7 @@ is	O
 this	O
 is	O
 my	O
-favorite	FOOD
+favorite	O
 all-around	O
 bar	FOOD
 .	O
@@ -176935,7 +176935,7 @@ and	O
 the	O
 decent	O
 pub	O
-food	FOOD
+food	O
 and	O
 this	O
 is	O
@@ -177128,7 +177128,7 @@ seating	O
 .	O
 Found	O
 our	O
-table	FOOD
+table	O
 ,	O
 and	O
 service	O
@@ -177634,7 +177634,7 @@ the	O
 bar	FOOD
 +	O
 The	O
-food	FOOD
+food	O
 is	O
 superb	O
 +	O
@@ -177681,7 +177681,7 @@ one	O
 of	O
 my	O
 very	O
-favorite	FOOD
+favorite	O
 places	O
 to	O
 visit.Finally	O
@@ -177748,7 +177748,7 @@ at	O
 reasonable	O
 prices	O
 .	O
-Food	FOOD
+Food	O
 was	O
 way	O
 better	O
@@ -177908,7 +177908,7 @@ well	O
 It	O
 's	O
 bar	FOOD
-food	FOOD
+food	O
 at	O
 its	O
 very	O
@@ -177962,7 +177962,7 @@ for	O
 good	O
 beer	FOOD
 ,	O
-food	FOOD
+food	O
 and	O
 music	O
 at	O
@@ -177982,7 +177982,7 @@ deal	O
 Great	O
 ,	O
 inexpensive	O
-food	FOOD
+food	O
 .	O
 Warning	O
 :	O
@@ -178005,7 +178005,7 @@ of	O
 the	O
 best	O
 bar	FOOD
-food	FOOD
+food	O
 in	O
 the	O
 state	O
@@ -178035,7 +178035,7 @@ some	O
 However	O
 ,	O
 my	O
-favorite	FOOD
+favorite	O
 reason	O
 to	O
 go	O
@@ -178254,7 +178254,7 @@ tip	O
 .	O
 On	O
 the	O
-table	FOOD
+table	O
 ,	O
 or	O
 with	O
@@ -178356,7 +178356,7 @@ they	O
 have	O
 a	O
 pool	O
-table	FOOD
+table	O
 and	O
 juke	O
 box	O
@@ -178452,7 +178452,7 @@ dollars	O
 for	O
 a	O
 stinkin	O
-cheeseburger	O
+cheeseburger	FOOD
 ?	O
 That	O
 's	O
@@ -178619,7 +178619,7 @@ of	O
 Madison	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 really	O
 nice	O
@@ -178755,7 +178755,7 @@ noon	O
 -RRB-	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 is	O
 the	O
 blue	O
@@ -178934,13 +178934,13 @@ neighborhood	O
 bar	FOOD
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 still	O
 ``	O
 bar	FOOD
 ''	O
-food	FOOD
+food	O
 but	O
 it	O
 's	O
@@ -179006,7 +179006,7 @@ n't	O
 usually	O
 have	O
 good	O
-food	FOOD
+food	O
 .	O
 Harmony	O
 ,	O
@@ -179023,7 +179023,7 @@ quite	O
 nicely	O
 in	O
 the	O
-food	FOOD
+food	O
 department	O
 .	O
 I	O
@@ -179358,7 +179358,7 @@ places	O
 that	O
 serve	O
 great	O
-food	FOOD
+food	O
 with	O
 friendly	O
 service	O
@@ -179621,7 +179621,7 @@ hard	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 decent	O
 .	O
@@ -179872,7 +179872,7 @@ next	O
 to	O
 the	O
 pool	O
-table	FOOD
+table	O
 .	O
 Do	O
 the	O
@@ -179904,7 +179904,7 @@ well	O
 and	O
 timely	O
 .	O
-Food	FOOD
+Food	O
 is	O
 good	O
 .	O
@@ -180001,7 +180001,7 @@ cheapish	O
 -RRB-	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 great	O
 .	O
@@ -180281,7 +180281,7 @@ tender	O
 and	O
 yummy	O
 pub	O
-food	FOOD
+food	O
 --	O
 especially	O
 the	O
@@ -180320,7 +180320,7 @@ it	O
 just	O
 about	O
 my	O
-favorite	FOOD
+favorite	O
 place	O
 in	O
 town.I	O
@@ -180466,7 +180466,7 @@ spot	FOOD
 Solid	O
 7/10	O
 bar	FOOD
-food	FOOD
+food	O
 that	O
 wo	O
 n't	O
@@ -180561,7 +180561,7 @@ it	O
 Has	O
 a	O
 pool	O
-table	FOOD
+table	O
 and	O
 most	O
 of	O
@@ -180732,13 +180732,13 @@ selection	O
 and	O
 really	O
 solid	O
-food	FOOD
+food	O
 .	O
 I	O
 tried	O
 the	O
 classic	O
-cheeseburger	O
+cheeseburger	FOOD
 ;	O
 patties	O
 were	O
@@ -180834,7 +180834,7 @@ check	O
 out	O
 the	O
 daily	O
-food	FOOD
+food	O
 specials	O
 -	O
 looks	O
@@ -180938,7 +180938,7 @@ and	O
 predictable	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 dish	O
 is	O
 the	O
@@ -180982,7 +180982,7 @@ someone	O
 else	O
 at	O
 the	O
-table	FOOD
+table	O
 will	O
 order	O
 them	O
@@ -180994,7 +180994,7 @@ a	O
 few	O
 .	O
 Stolen	O
-food	FOOD
+food	O
 has	O
 no	O
 calories	O
@@ -181021,7 +181021,7 @@ there	O
 I	O
 enjoy	O
 the	O
-food	FOOD
+food	O
 ,	O
 the	O
 walnut	FOOD
@@ -181050,13 +181050,13 @@ The	O
 rest	O
 of	O
 the	O
-food	FOOD
+food	O
 was	O
 as	O
 good	O
 as	O
 bar	FOOD
-food	FOOD
+food	O
 gets	O
 ,	O
 but	O
@@ -181085,7 +181085,7 @@ for	O
 me.First	O
 rate	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 better	O
 than	O
@@ -181115,7 +181115,7 @@ blues	O
 bar	FOOD
 too.Good	O
 bar	FOOD
-food	FOOD
+food	O
 .	O
 Cash	O
 only	O
@@ -181271,7 +181271,7 @@ experience	O
 of	O
 chic	O
 bar	FOOD
-food	FOOD
+food	O
 ,	O
 then	O
 you	O
@@ -181291,7 +181291,7 @@ yourself	O
 .	O
 You	O
 order	O
-food	FOOD
+food	O
 and	O
 drinks	O
 at	O
@@ -181300,7 +181300,7 @@ bar	FOOD
 ,	O
 and	O
 a	O
-food	FOOD
+food	O
 runner	O
 brings	O
 out	O
@@ -181330,7 +181330,7 @@ After	O
 fighting	O
 for	O
 a	O
-table	FOOD
+table	O
 due	O
 to	O
 the	O
@@ -181360,7 +181360,7 @@ contains	O
 primarily	O
 stereotypical	O
 bar	FOOD
-food	FOOD
+food	O
 -LRB-	O
 burgers	O
 ,	O
@@ -181473,7 +181473,7 @@ took	O
 awhile	O
 for	O
 the	O
-food	FOOD
+food	O
 to	O
 come	O
 out	O
@@ -181487,7 +181487,7 @@ we	O
 waited	O
 .	O
 Our	O
-table	FOOD
+table	O
 of	O
 about	O
 10	O
@@ -181533,7 +181533,7 @@ be	O
 .	O
 Onto	O
 the	O
-food	FOOD
+food	O
 :	O
 The	O
 blue	O
@@ -181940,7 +181940,7 @@ do	O
 n't	O
 mind	O
 ordering	O
-food	FOOD
+food	O
 and	O
 drinks	O
 at	O
@@ -181957,7 +181957,7 @@ would	O
 benefit	O
 from	O
 offering	O
-table	FOOD
+table	O
 service	O
 ,	O
 at	O
@@ -182336,7 +182336,7 @@ in	O
 goblets	O
 ...	O
 Duh.Great	O
-food	FOOD
+food	O
 and	O
 service	O
 .	O
@@ -182371,7 +182371,7 @@ another	O
 chance	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 predictable	O
 but	O
@@ -182454,7 +182454,7 @@ service	O
 and	O
 well	O
 prepared	O
-food	FOOD
+food	O
 .	O
 Maybe	O
 the	O
@@ -182650,7 +182650,7 @@ $	O
 50	O
 bill	O
 for	O
-food	FOOD
+food	O
 I	O
 could	O
 have	O
@@ -182675,7 +182675,7 @@ Denny	O
 .	O
 Same	O
 quality	O
-food	FOOD
+food	O
 ,	O
 way	O
 better	O
@@ -182705,10 +182705,10 @@ minutes	O
 to	O
 get	O
 a	O
-table	FOOD
+table	O
 .	O
 The	O
-food	FOOD
+food	O
 there	O
 is	O
 very	O
@@ -182765,7 +182765,7 @@ good	O
 work	O
 !!!	O
 Great	O
-food	FOOD
+food	O
 !	O
 Prices	O
 are	O
@@ -182840,14 +182840,14 @@ ceiling	O
 and	O
 red	FOOD
 checkered	O
-table	FOOD
+table	O
 clothes	O
 on	O
 the	O
 tables	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 wonderful	O
 -	O
@@ -183108,7 +183108,7 @@ this	O
 is	O
 LITERALLY	O
 my	O
-favorite	FOOD
+favorite	O
 restaurant	O
 ,	O
 I	O
@@ -183359,7 +183359,7 @@ saucy	O
 goodness	O
 to	O
 your	O
-table	FOOD
+table	O
 .	O
 This	O
 place	O
@@ -184016,14 +184016,14 @@ that	O
 cookies	O
 are	O
 sometimes	O
-food	FOOD
+food	O
 ,	O
 these	O
 delicious	O
 ribs	O
 are	O
 sometimes	O
-food	FOOD
+food	O
 too	O
 .	O
 Every	O
@@ -184229,7 +184229,7 @@ bucks	FOOD
 That	O
 's	O
 enough	O
-food	FOOD
+food	O
 for	O
 3	O
 people	O
@@ -184596,7 +184596,7 @@ you	O
 slather	O
 across	O
 your	O
-food	FOOD
+food	O
 -RRB-	O
 ,	O
 and	O
@@ -184633,7 +184633,7 @@ etc	O
 all	O
 the	O
 delectable	O
-food	FOOD
+food	O
 you	O
 'd	O
 expect	O
@@ -184683,7 +184683,7 @@ overall	O
 taste	O
 of	O
 the	O
-food	FOOD
+food	O
 ,	O
 while	O
 good	O
@@ -184939,7 +184939,7 @@ skip	O
 all	O
 the	O
 fast	O
-food	FOOD
+food	O
 chains	O
 you	O
 can	O
@@ -186501,7 +186501,7 @@ a	O
 new	O
 bag	O
 of	O
-food	FOOD
+food	O
 and	O
 am	O
 finally	O
@@ -186942,7 +186942,7 @@ have	O
 to	O
 order	O
 your	O
-food	FOOD
+food	O
 at	O
 the	O
 counter	O
@@ -186956,7 +186956,7 @@ that	O
 will	O
 bring	O
 your	O
-food	FOOD
+food	O
 to	O
 you	O
 and	O
@@ -187143,7 +187143,7 @@ as	O
 good	O
 as	O
 the	O
-food	FOOD
+food	O
 ,	O
 almost	O
 .	O
@@ -187222,7 +187222,7 @@ and	O
 cramped	O
 but	O
 the	O
-food	FOOD
+food	O
 is	O
 worth	O
 it.Long	O
@@ -187323,7 +187323,7 @@ better	O
 Basically	O
 its	O
 decent	O
-food	FOOD
+food	O
 ,	O
 but	O
 if	O
@@ -187574,7 +187574,7 @@ very	O
 long	O
 before	O
 our	O
-food	FOOD
+food	O
 was	O
 brought	O
 out	O
@@ -187582,7 +187582,7 @@ out	O
 Oh	O
 was	O
 the	O
-food	FOOD
+food	O
 good	O
 .	O
 I	O
@@ -187900,7 +187900,7 @@ are	O
 good	O
 ,	O
 the	O
-food	FOOD
+food	O
 is	O
 delicious	O
 ,	O
@@ -188295,7 +188295,7 @@ you	O
 get	O
 ,	O
 but	O
-food	FOOD
+food	O
 is	O
 going	O
 up	O
@@ -188604,7 +188604,7 @@ what	O
 happened	O
 but	O
 there	O
-food	FOOD
+food	O
 really	O
 went	O
 down	O
@@ -188993,7 +188993,7 @@ employee	O
 who	O
 dropped	O
 the	O
-food	FOOD
+food	O
 off	O
 was	O
 very	O
@@ -189102,7 +189102,7 @@ the	O
 airport	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 outstanding.The	O
 ribs	O
@@ -189251,7 +189251,7 @@ a	O
 1/3	O
 slab.Very	O
 good	O
-food	FOOD
+food	O
 ,	O
 would	O
 defiantly	O
@@ -189515,7 +189515,7 @@ paper	O
 towels	O
 on	O
 each	O
-table	FOOD
+table	O
 complete	O
 the	O
 experience.My	O
@@ -189989,7 +189989,7 @@ was	O
 A	O
 LOT	O
 of	O
-food	FOOD
+food	O
 .	O
 Next	O
 time	O
@@ -190037,7 +190037,7 @@ closing	O
 time	O
 .	O
 A	O
-table	FOOD
+table	O
 opened	O
 up	O
 quickly	O
@@ -190072,7 +190072,7 @@ away	O
 from	O
 the	O
 delicious	O
-food	FOOD
+food	O
 .	O
 Hopefully	O
 it	O
@@ -190225,7 +190225,7 @@ many	O
 awards	O
 for	O
 there	O
-food	FOOD
+food	O
 .	O
 Best	O
 bbq	FOOD
@@ -190491,7 +190491,7 @@ share	O
 it	O
 at	O
 the	O
-table	FOOD
+table	O
 !!	O
 Anyways	O
 ,	O
@@ -190816,7 +190816,7 @@ for	O
 the	O
 quantity	O
 of	O
-food	FOOD
+food	O
 you	O
 get	O
 .	O
@@ -190834,7 +190834,7 @@ think	O
 I	O
 got	O
 my	O
-food	FOOD
+food	O
 within	O
 2-3	O
 minutes	O
@@ -191432,7 +191432,7 @@ back	O
 again	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 though	O
 ?	O
 No	O
@@ -191610,7 +191610,7 @@ no	O
 sauces	FOOD
 on	O
 the	O
-table	FOOD
+table	O
 and	O
 only	O
 one	O
@@ -191789,7 +191789,7 @@ out	O
 there	O
 was	O
 no	O
-cornbread	O
+cornbread	FOOD
 .	O
 But	O
 then	O
@@ -191881,7 +191881,7 @@ They	O
 did	O
 get	O
 out	O
-food	FOOD
+food	O
 out	O
 to	O
 us	O
@@ -192103,7 +192103,7 @@ that	O
 rule	O
 .	O
 The	O
-food	FOOD
+food	O
 here	O
 is	O
 by	O
@@ -192310,7 +192310,7 @@ for	O
 take-out	O
 .	O
 ok	O
-food	FOOD
+food	O
 but	O
 most	O
 of	O
@@ -192528,7 +192528,7 @@ bags	O
 and	O
 bags	O
 of	O
-food	FOOD
+food	O
 .	O
 What	O
 kind	O
@@ -192695,7 +192695,7 @@ My	O
 entire	O
 plate	O
 of	O
-food	FOOD
+food	O
 was	O
 delicious	O
 and	O
@@ -192771,7 +192771,7 @@ of	O
 stars	O
 .	O
 The	O
-food	FOOD
+food	O
 's	O
 good	O
 ,	O
@@ -192797,7 +192797,7 @@ is	O
 the	O
 kind	O
 of	O
-food	FOOD
+food	O
 that	O
 will	O
 kill	O
@@ -192825,7 +192825,7 @@ of	O
 to	O
 take	O
 in	O
-food	FOOD
+food	O
 with	O
 absolutely	O
 no	O
@@ -193273,7 +193273,7 @@ a	O
 bit	O
 like	O
 carnival	FOOD
-food	FOOD
+food	O
 ,	O
 but	O
 they	O
@@ -193411,7 +193411,7 @@ Great	O
 price	O
 for	O
 great	O
-food	FOOD
+food	O
 !	O
 Best	O
 in	O
@@ -193494,7 +193494,7 @@ Seriously	O
 The	O
 amount	O
 of	O
-food	FOOD
+food	O
 .	O
 The	O
 quality	O
@@ -193623,7 +193623,7 @@ goes	O
 great	O
 with	O
 the	O
-food	FOOD
+food	O
 ;	O
 lots	O
 of	O
@@ -193638,7 +193638,7 @@ stunning	O
 reviews	O
 of	O
 the	O
-food	FOOD
+food	O
 .	O
 The	O
 service	O
@@ -193689,7 +193689,7 @@ it	O
 greatly	O
 .	O
 The	O
-food	FOOD
+food	O
 really	O
 lives	O
 up	O
@@ -194093,7 +194093,7 @@ It	O
 is	O
 a	O
 new	O
-favorite	FOOD
+favorite	O
 for	O
 sure	O
 .	O
@@ -194106,7 +194106,7 @@ cozy	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 definitely	O
 deserves	O
 best	O
@@ -194203,7 +194203,7 @@ BIG	O
 TIME	O
 !	O
 Great	O
-food!I	FOOD
+food!I	O
 had	O
 lunch	FOOD
 at	O
@@ -194913,7 +194913,7 @@ definitely	O
 one	O
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 in	O
 Madtown.This	O
@@ -195140,7 +195140,7 @@ brisket	FOOD
 Insane	O
 amount	O
 of	O
-food	FOOD
+food	O
 ?	O
 Yes	O
 .	O
@@ -195247,7 +195247,7 @@ a	O
 serious	O
 amount	O
 of	O
-food	FOOD
+food	O
 and	O
 it	O
 will	O
@@ -195301,7 +195301,7 @@ but	O
 it	O
 has	O
 5-star	O
-food!Well	FOOD
+food!Well	O
 ,	O
 I	O
 read	O
@@ -195526,7 +195526,7 @@ seat	O
 They	O
 bring	O
 the	O
-food	FOOD
+food	O
 out	O
 to	O
 you	O
@@ -196196,7 +196196,7 @@ trying	O
 both	O
 at	O
 the	O
-table	FOOD
+table	O
 .	O
 Service	O
 was	O
@@ -197046,7 +197046,7 @@ like	O
 to	O
 review	O
 fast	O
-food	FOOD
+food	O
 establishments	O
 ,	O
 because	O
@@ -197085,7 +197085,7 @@ chicken	FOOD
 place	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 good	O
 ,	O
@@ -197131,7 +197131,7 @@ If	O
 you	O
 want	O
 fast	O
-food	FOOD
+food	O
 ,	O
 but	O
 not	O
@@ -197147,7 +197147,7 @@ you	O
 want	O
 ``	O
 Italian	O
-food	FOOD
+food	O
 ''	O
 that	O
 has	O
@@ -197214,7 +197214,7 @@ While	O
 waiting	O
 for	O
 our	O
-food	FOOD
+food	O
 I	O
 watched	O
 the	O
@@ -197223,7 +197223,7 @@ manager	O
 apologizing	O
 to	O
 every	O
-table	FOOD
+table	O
 .	O
 Every	O
 customer	O
@@ -197232,7 +197232,7 @@ a	O
 problem	O
 with	O
 their	O
-food	FOOD
+food	O
 or	O
 order	O
 .	O
@@ -197242,7 +197242,7 @@ twenty	O
 minutes	O
 for	O
 our	O
-food	FOOD
+food	O
 and	O
 decided	O
 to	O
@@ -197258,13 +197258,13 @@ incompetence	O
 Never	O
 again	O
 ...	O
-Food	FOOD
+Food	O
 is	O
 okay	O
 for	O
 a	O
 fast	O
-food	FOOD
+food	O
 Italian	O
 restaurant	O
 .	O
@@ -197272,7 +197272,7 @@ They	O
 bring	O
 you	O
 our	O
-food	FOOD
+food	O
 and	O
 they	O
 clean	O
@@ -197342,7 +197342,7 @@ time.Awesome	O
 service	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 great	O
 !	O
@@ -197480,7 +197480,7 @@ it	O
 was	O
 really	O
 good	O
-food	FOOD
+food	O
 .	O
 Hot	O
 ,	O
@@ -197501,7 +197501,7 @@ that	O
 I	O
 got	O
 my	O
-food	FOOD
+food	O
 quickly	O
 and	O
 the	O
@@ -197553,7 +197553,7 @@ a	O
 lot	O
 of	O
 good	O
-food	FOOD
+food	O
 for	O
 not	O
 a	O
@@ -197747,7 +197747,7 @@ There	O
 is	O
 much	O
 better	O
-food	FOOD
+food	O
 in	O
 Madison	O
 .	O
@@ -197804,7 +197804,7 @@ visiting	O
 friends	O
 .	O
 The	O
-food	FOOD
+food	O
 of	O
 a	O
 down	O
@@ -197980,7 +197980,7 @@ service	O
 and	O
 finally	O
 awesome	O
-food	FOOD
+food	O
 .	O
 -	O
 that	O
@@ -198098,7 +198098,7 @@ can	O
 eat	O
 the	O
 fantastic	O
-food	FOOD
+food	O
 while	O
 plane	O
 watch	O
@@ -198210,7 +198210,7 @@ actual	O
 diner	FOOD
 with	O
 good	O
-food	FOOD
+food	O
 ,	O
 and	O
 not	O
@@ -198320,7 +198320,7 @@ The	O
 quality	O
 of	O
 the	O
-food	FOOD
+food	O
 blew	O
 me	O
 away	O
@@ -198672,11 +198672,11 @@ about	O
 lately	O
 .	O
 the	O
-food	FOOD
+food	O
 is	O
 regular	O
 breakfast	FOOD
-food	FOOD
+food	O
 sort	O
 of	O
 unremakable	O
@@ -199082,7 +199082,7 @@ seated	O
 at	O
 a	O
 small	O
-table	FOOD
+table	O
 with	O
 an	O
 awesome	O
@@ -199204,7 +199204,7 @@ took	O
 note	O
 of	O
 the	O
-food	FOOD
+food	O
 around	O
 me	O
 ,	O
@@ -199282,7 +199282,7 @@ short	O
 wait	O
 ,	O
 my	O
-food	FOOD
+food	O
 arrived	O
 -	O
 the	O
@@ -199466,7 +199466,7 @@ fills	O
 made	O
 sure	O
 my	O
-food	FOOD
+food	O
 was	O
 ok	O
 ,	O
@@ -199504,7 +199504,7 @@ Pat	O
 O'Malleys	O
 =	O
 WIN	O
-Food	FOOD
+Food	O
 =	O
 4.25	O
 stars	O
@@ -199539,7 +199539,7 @@ quickly	O
 .	O
 But	O
 the	O
-food	FOOD
+food	O
 ,	O
 service	O
 ,	O
@@ -199635,7 +199635,7 @@ check	O
 it	O
 out	O
 .	O
-Food	FOOD
+Food	O
 was	O
 three	O
 stars	O
@@ -199645,7 +199645,7 @@ it	O
 was	O
 solid	O
 diner	FOOD
-food	FOOD
+food	O
 .	O
 Prices	O
 are	O
@@ -199733,7 +199733,7 @@ diner	FOOD
 with	O
 good	O
 breakfast	FOOD
-food	FOOD
+food	O
 .	O
 The	O
 real	O
@@ -199818,7 +199818,7 @@ of	O
 them	O
 .	O
 Excellent	O
-food	FOOD
+food	O
 and	O
 coffee	FOOD
 ,	O
@@ -200071,14 +200071,14 @@ a	O
 problem	O
 with	O
 the	O
-food	FOOD
+food	O
 here	O
 .	O
 It	O
 's	O
 solid	O
 diner	FOOD
-food	FOOD
+food	O
 ;	O
 nothing	O
 unexpected	O
@@ -200162,7 +200162,7 @@ good	O
 ,	O
 and	O
 the	O
-food	FOOD
+food	O
 as	O
 well	O
 .	O
@@ -200190,7 +200190,7 @@ the	O
 Jet	O
 Room.very	O
 good	O
-food	FOOD
+food	O
 .	O
 excellent	O
 service	O
@@ -200323,7 +200323,7 @@ tailoring	O
 to	O
 a	O
 specific	O
-food	FOOD
+food	O
 type	O
 .	O
 GO	O
@@ -200374,7 +200374,7 @@ Airport	O
 runway	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 decent	O
 ,	O
@@ -200388,7 +200388,7 @@ comes	O
 here	O
 for	O
 the	O
-food	FOOD
+food	O
 .	O
 It	O
 's	O
@@ -200453,7 +200453,7 @@ while	O
 waiting	O
 for	O
 your	O
-table	FOOD
+table	O
 .	O
 Plenty	O
 to	O
@@ -200461,7 +200461,7 @@ look	O
 at.Excellent	O
 ,	O
 excellent	O
-food	FOOD
+food	O
 !	O
 Very	O
 reasonable	O
@@ -200513,7 +200513,7 @@ airport	O
 diner.One	FOOD
 of	O
 my	O
-favorite	FOOD
+favorite	O
 places	O
 in	O
 town	O
@@ -200667,7 +200667,7 @@ variety	O
 .	O
 Average	O
 diner	FOOD
-food	FOOD
+food	O
 but	O
 good	O
 menu	FOOD
@@ -200702,7 +200702,7 @@ take	O
 off	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 great	O
 .	O
@@ -200754,7 +200754,7 @@ wait	O
 .	O
 Awesome	O
 diner	FOOD
-food	FOOD
+food	O
 with	O
 daily	O
 specials	O
@@ -200764,7 +200764,7 @@ Delicious	O
 mouth	O
 watering	O
 diner	FOOD
-food	FOOD
+food	O
 at	O
 diner	FOOD
 prices	O
@@ -200961,7 +200961,7 @@ and	O
 some	O
 decent	O
 dinner	FOOD
-food	FOOD
+food	O
 .	O
 It	O
 's	O
@@ -200984,7 +200984,7 @@ Jet	O
 Room	O
 for	O
 the	O
-food	FOOD
+food	O
 .	O
 It	O
 's	O
@@ -201056,7 +201056,7 @@ had	O
 excellent	O
 service	O
 excellent	O
-food	FOOD
+food	O
 at	O
 reasonable	O
 prices	O
@@ -201153,7 +201153,7 @@ small	O
 airport	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 classic	O
 diner	FOOD
@@ -201171,7 +201171,7 @@ place	O
 for	O
 both	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 experience.Great	O
@@ -201228,7 +201228,7 @@ great	O
 .	O
 Typical	O
 diner	FOOD
-food	FOOD
+food	O
 ,	O
 but	O
 all	O
@@ -201459,7 +201459,7 @@ a	O
 neat	O
 view	O
 .	O
-Food	FOOD
+Food	O
 was	O
 very	O
 delicious	O
@@ -201628,7 +201628,7 @@ uses	O
 additives	FOOD
 in	O
 their	O
-bakery	FOOD
+bakery	O
 items	O
 that	O
 cause	O
@@ -201654,7 +201654,7 @@ loud	O
 ,	O
 has	O
 mediocre	O
-food	FOOD
+food	O
 and	O
 pocked	O
 with	O
@@ -201672,7 +201672,7 @@ leg	O
 ,	O
 go	O
 here.Good	O
-food	FOOD
+food	O
 but	O
 odd	O
 that	O
@@ -201870,7 +201870,7 @@ New	O
 York	O
 .	O
 My	O
-favorite	FOOD
+favorite	O
 bagel	FOOD
 is	O
 a	O
@@ -201981,7 +201981,7 @@ really	O
 nice	O
 and	O
 the	O
-food	FOOD
+food	O
 is	O
 excellent	O
 .	O
@@ -202022,7 +202022,7 @@ coffee	FOOD
 drinks	O
 .	O
 The	O
-food	FOOD
+food	O
 was	O
 made	O
 quickly	O
@@ -202047,7 +202047,7 @@ was	O
 friendly	O
 and	O
 the	O
-food	FOOD
+food	O
 was	O
 really	O
 goodCome	O
@@ -202067,14 +202067,14 @@ it	O
 dead	O
 ,	O
 my	O
-favorite	FOOD
+favorite	O
 time	O
 to	O
 go.Old	O
 school	O
 greasy	O
 spoon	O
-food	FOOD
+food	O
 and	O
 very	O
 nice	O
@@ -202097,7 +202097,7 @@ prices	O
 ,	O
 wonderful	O
 basic	O
-food	FOOD
+food	O
 ,	O
 and	O
 outstanding	O
@@ -202129,7 +202129,7 @@ for	O
 breakfast	FOOD
 and	O
 lunch.Good	FOOD
-food	FOOD
+food	O
 ,	O
 good	O
 prices	O
@@ -202169,7 +202169,7 @@ town	O
 diners	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 basic	O
 ,	O
@@ -202294,7 +202294,7 @@ is	O
 very	O
 friendly	O
 ,	O
-food	FOOD
+food	O
 awesome	O
 ,	O
 and	O
@@ -202328,7 +202328,7 @@ very	O
 hopeful	O
 that	O
 the	O
-food	FOOD
+food	O
 would	O
 be	O
 good	O
@@ -202353,7 +202353,7 @@ any	O
 award	O
 for	O
 great	O
-food	FOOD
+food	O
 and	O
 service	O
 is	O
@@ -202507,7 +202507,7 @@ tell	O
 the	O
 customers	O
 their	O
-food	FOOD
+food	O
 was	O
 being	O
 made	O
@@ -202527,7 +202527,7 @@ treatment	O
 She	O
 passed	O
 our	O
-table	FOOD
+table	O
 several	O
 times	O
 and	O
@@ -202538,7 +202538,7 @@ us	O
 how	O
 was	O
 the	O
-food	FOOD
+food	O
 or	O
 why	O
 our	O
@@ -202565,7 +202565,7 @@ I	O
 could	O
 finish	O
 our	O
-food	FOOD
+food	O
 .	O
 I	O
 took	O
@@ -202610,7 +202610,7 @@ told	O
 the	O
 cashier	O
 the	O
-food	FOOD
+food	O
 was	O
 horrible	O
 and	O
@@ -202628,7 +202628,7 @@ us	O
 that	O
 normally	O
 the	O
-food	FOOD
+food	O
 is	O
 good	O
 and	O
@@ -202707,7 +202707,7 @@ business	O
 not	O
 friendly	O
 and	O
-food	FOOD
+food	O
 is	O
 beyond	O
 pathetic	O
@@ -202752,7 +202752,7 @@ If	O
 you	O
 want	O
 great	O
-food	FOOD
+food	O
 ,	O
 coffee	FOOD
 AND	O
@@ -202775,7 +202775,7 @@ always	O
 had	O
 really	O
 good	O
-food	FOOD
+food	O
 and	O
 friendly	O
 service	O
@@ -202879,7 +202879,7 @@ few	O
 minutes	O
 for	O
 a	O
-table	FOOD
+table	O
 to	O
 open	O
 and	O
@@ -203212,7 +203212,7 @@ a	O
 great	O
 plate	O
 of	O
-food	FOOD
+food	O
 for	O
 a	O
 more	O
@@ -203275,7 +203275,7 @@ just	O
 great	O
 traditional	O
 breakfast	FOOD
-food	FOOD
+food	O
 at	O
 great	O
 prices.I	O
@@ -203294,7 +203294,7 @@ it	O
 right	O
 .	O
 The	O
-food	FOOD
+food	O
 is	O
 the	O
 biggest	O
@@ -203348,7 +203348,7 @@ price.Incredible	O
 service	O
 and	O
 amazing	O
-food	FOOD
+food	O
 !	O
 Eggs	FOOD
 Benedict	O
@@ -204021,7 +204021,7 @@ shake	O
 ,	O
 check	O
 .	O
-Food	FOOD
+Food	O
 coma	O
 ,	O
 double	O
@@ -204058,7 +204058,7 @@ best	O
 .	O
 The	O
 other	O
-food	FOOD
+food	O
 ,	O
 though	O
 ,	O
@@ -204157,7 +204157,7 @@ to	O
 work	O
 on	O
 the	O
-food	FOOD
+food	O
 and	O
 the	O
 staff	O
@@ -204252,14 +204252,14 @@ n't	O
 complain	O
 about	O
 the	O
-food	FOOD
+food	O
 over	O
 all	O
 .	O
 Drive	O
 in	O
 kinda	O
-food	FOOD
+food	O
 ...	O
 Being	O
 from	O
@@ -204402,7 +204402,7 @@ obscene	O
 All	O
 of	O
 the	O
-food	FOOD
+food	O
 is	O
 greasy	O
 ,	O
@@ -204683,7 +204683,7 @@ chocolate	FOOD
 pecan	FOOD
 is	O
 my	O
-favorite.I	FOOD
+favorite.I	O
 like	O
 this	O
 place	O
@@ -205018,7 +205018,7 @@ overpriced	O
 for	O
 a	O
 fast	O
-food-style	FOOD
+food-style	O
 place	O
 .	O
 This	O
@@ -205573,7 +205573,7 @@ with	O
 some	O
 lip	O
 lickin	O
-food	FOOD
+food	O
 that	O
 comes	O
 fast	O
@@ -205621,7 +205621,7 @@ the	O
 retro	O
 ambiance	O
 .	O
-Food	FOOD
+Food	O
 ?	O
 Happy	O
 to	O
@@ -205632,12 +205632,12 @@ than	O
 your	O
 average	O
 fast	O
-food	FOOD
+food	O
 joint	O
 .	O
 My	O
 bacon	FOOD
-cheeseburger	O
+cheeseburger	FOOD
 was	O
 dripping	O
 with	O
@@ -205789,7 +205789,7 @@ ok	O
 2	O
 -	O
 The	O
-food	FOOD
+food	O
 .	O
 I	O
 had	O
@@ -206170,7 +206170,7 @@ the	O
 ``	O
 real	O
 ''	O
-food	FOOD
+food	O
 at	O
 this	O
 location	O
@@ -206306,7 +206306,7 @@ where	O
 money	O
 buys	O
 you	O
-food	FOOD
+food	O
 --	O
 why	O
 would	O

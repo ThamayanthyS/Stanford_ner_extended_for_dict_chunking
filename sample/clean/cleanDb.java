@@ -32,7 +32,7 @@ public class cleanDb {
             int x = 0;
 
             while (line1 != null && line1.length() != 0) {
-                if (line1.contains("\tO\tFOOD") || line1.contains("\tFOOD\tO")) {
+                if (line1.contains("\tFOOD\tO")){//("\tO\tFOOD") ){//|| line1.contains("\tFOOD\tO")) {
                     list.add(line1.split("\t")[0] + "\n");
                 }
                 line1 = br.readLine();
@@ -53,7 +53,7 @@ public class cleanDb {
         try {
             Connection con = null;
             con = DBConnection.getConnection();
-            String file_name1 = "sample/text/dd1.txt";
+            String file_name1 = "sample/text/differ.txt";
             // file = WriteFile.fileCreate(file_name1);
             br = new BufferedReader(new FileReader(file_name1));
             String line1 = br.readLine();

@@ -1,5 +1,6 @@
 package sample.annotate;
 
+
 import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.Chunking;
 import com.aliasi.dict.ExactDictionaryChunker;
@@ -25,6 +26,7 @@ public class StarterClass {
         tagReviews();
 //        cleanDb.findConflicts();
 //        cleanDb.clearDb();
+
     }
 
     public static void collectReviews() {
