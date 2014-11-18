@@ -31,7 +31,6 @@ public class Restaurants {
                     String result = res.getString("rest_id");
 //                    System.out.println(result);
                     restaurants.add(result);
-
                 }
             } catch (SQLException s) {
                 System.out.println("SQL statement is not executed!" + s);
