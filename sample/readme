@@ -10,7 +10,7 @@ tagging for training set
 
 train ner
 
-java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop austen.prop
+java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop C:/Users/Thamayanthy/Desktop/FYP/project folders/stanford-ner-2014-10-26/files/austen/austen.prop
 
 testing
 
