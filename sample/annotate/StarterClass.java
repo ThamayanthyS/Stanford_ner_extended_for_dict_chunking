@@ -23,6 +23,8 @@ public class StarterClass {
     public static void main(String[] args) {
 //        collectReviews();
         tagReviews();
+//        cleanDb.findConflicts();
+//        cleanDb.clearDb();
     }
 
     public static void collectReviews() {
