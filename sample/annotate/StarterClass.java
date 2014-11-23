@@ -22,8 +22,8 @@ public class StarterClass {
     public static MapDictionary<String> dictionary = new MapDictionary<String>();
 
     public static void main(String[] args) {
-        collectReviews();
-//        tagReviews();
+//        collectReviews();
+        tagReviews();
 //        cleanDb.findConflicts();
 //        cleanDb.clearDb();
 
@@ -90,35 +90,45 @@ public class StarterClass {
                         IndoEuropeanTokenizerFactory.INSTANCE,
                         false, false);
                 Chunking chunking = dictionaryChunkerFF.chunk(line1);
-                String temp = line1;
-                System.out.println(line1);
-                int pre=0;
-                int last=0;
+                String temp = "";// = line1;
+//                System.out.println(line1);
+                int pre = 0;
+                int last = 0;
                 String non_food[];
 
                 if (chunking.chunkSet().size() > 0) {
                     for (Chunk chunk : chunking.chunkSet()) {
-                        if(chunk.start()>pre){
-                            non_food=line1.substring(pre,chunk.start()-1).split(" ");
-                            for(String o:non_food){
-                                temp=o+"\t"+"O"+"\n";
+                        if (chunk.start() > pre) {
+                            non_food = line1.substring(pre, chunk.start() - 1).split(" ");
+                            for (String o : non_food) {
+                                if (o.length() > 0 || !o.equals(null))
+                                    temp = temp + o + "\t" + "O" + "\n";
                             }
                         }
                         //last=chunk.end();
 
                         if ("FOOD".equals(chunk.type())) {
-                            temp = temp + "\t" + "FOOD"+"\n";
+                            if (line1.substring(chunk.start(), chunk.end()).length() > 0 || !line1.substring(chunk.start(), chunk.end()).equals(null))
+                            temp = temp + line1.substring(chunk.start(), chunk.end()) + "\t" + "FOOD" + "\n";
                             System.out.println(temp);
-                        } else {
-                            temp = temp + "\t" + "O"+"\n";
                         }
-                        pre=chunk.end();
+//                        else {
+//                            if (o.length() > 0 || !o.equals(null))
+//                            temp = temp + "\t" + "O" + "\n";
+//                        }
+                        pre = chunk.end();
                     }
                 } else {
-                    temp = temp + "\t" + "O"+"\n";
+                    non_food = line1.split(" ");
+                    for (String o : non_food) {
+                        if (o.length() > 0 || !o.equals(null))
+                        temp = temp + o + "\t" + "O" + "\n";
+                    }
+                    pre = pre + line1.length();
                 }
-                list.add(temp );
+                list.add(temp);
                 line1 = br.readLine();
+                temp = "";
             }
             WriteFile.writeTsv(destFile, list);
         } catch (FileNotFoundException e) {

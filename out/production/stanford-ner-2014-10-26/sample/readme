@@ -15,3 +15,4 @@ java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop sample/fil
 testing
 
 java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier ner-model.ser.gz -testFile sample/tsv/reviewlist_test.tsv > sample/text/output.txt
+n
