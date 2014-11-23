@@ -6,6 +6,7 @@ import com.aliasi.chunk.Chunking;
 import com.aliasi.dict.ExactDictionaryChunker;
 import com.aliasi.dict.MapDictionary;
 import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
+import sample.clean.cleanDb;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -23,8 +24,8 @@ public class StarterClass {
 
     public static void main(String[] args) {
 //        collectReviews();
-        tagReviews();
-//        cleanDb.findConflicts();
+//        tagReviews();
+        cleanDb.findConflicts();
 //        cleanDb.clearDb();
 
     }
@@ -58,6 +59,9 @@ public class StarterClass {
 
         String training_tok_file_name = "sample/tok/reviewlist.tok";
         String test_tok_file_name = "sample/tok/reviewlist_test.tok";
+
+//        String training_tok_file_name = "sample/text/reviewlist.txt";
+//        String test_tok_file_name = "sample/text/reviewlist_test.txt";
 
         File training_tok_file = WriteFile.fileCreate(training_tok_file_name);
         File test_tok_file = WriteFile.fileCreate(test_tok_file_name);

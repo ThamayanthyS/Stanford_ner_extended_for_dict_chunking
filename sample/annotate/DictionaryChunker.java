@@ -64,13 +64,14 @@ public class DictionaryChunker {
                            + " All matches=" + chunker.returnAllMatches()
                            + " Case sensitive=" + chunker.caseSensitive());
         Chunking chunking = chunker.chunk(text);
-//        System.out.println("SIZZZE"+text+"\n"+chunking.chunkSet().size());
         for (Chunk chunk : chunking.chunkSet()) {
             int start = chunk.start();
             int end = chunk.end();
             String type = chunk.type();
             double score = chunk.score();
-           
+
+            System.out.println(chunk.start()+"   "+chunk.end());
+
             String phrase = text.substring(start,end);
             System.out.println("     phrase=|" + phrase + "|"
                                + " start=" + start
