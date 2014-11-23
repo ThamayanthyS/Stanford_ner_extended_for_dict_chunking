@@ -6,7 +6,6 @@ import com.aliasi.chunk.Chunking;
 import com.aliasi.dict.ExactDictionaryChunker;
 import com.aliasi.dict.MapDictionary;
 import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
-import sample.clean.cleanDb;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -23,9 +22,9 @@ public class StarterClass {
     public static MapDictionary<String> dictionary = new MapDictionary<String>();
 
     public static void main(String[] args) {
-//        collectReviews();
+        collectReviews();
 //        tagReviews();
-        cleanDb.findConflicts();
+//        cleanDb.findConflicts();
 //        cleanDb.clearDb();
 
     }
@@ -57,11 +56,11 @@ public class StarterClass {
 
         new ReadFoodItem().readReviewFromDB(dictionary);
 
-        String training_tok_file_name = "sample/tok/reviewlist.tok";
-        String test_tok_file_name = "sample/tok/reviewlist_test.tok";
+//        String training_tok_file_name = "sample/tok/reviewlist.tok";
+//        String test_tok_file_name = "sample/tok/reviewlist_test.tok";
 
-//        String training_tok_file_name = "sample/text/reviewlist.txt";
-//        String test_tok_file_name = "sample/text/reviewlist_test.txt";
+        String training_tok_file_name = "sample/text/reviewlist.txt";
+        String test_tok_file_name = "sample/text/reviewlist_test.txt";
 
         File training_tok_file = WriteFile.fileCreate(training_tok_file_name);
         File test_tok_file = WriteFile.fileCreate(test_tok_file_name);
@@ -72,8 +71,8 @@ public class StarterClass {
         File training_tsv_file = WriteFile.fileCreate(training_tsv_file_name);
         File test_tsv_file = WriteFile.fileCreate(test_tsv_file_name);
 
-        tag(training_tok_file,training_tsv_file);
-        tag(test_tok_file,test_tsv_file);
+        tag(training_tok_file, training_tsv_file);
+        tag(test_tok_file, test_tsv_file);
 
     }
 
@@ -93,20 +92,32 @@ public class StarterClass {
                 Chunking chunking = dictionaryChunkerFF.chunk(line1);
                 String temp = line1;
                 System.out.println(line1);
+                int pre=0;
+                int last=0;
+                String non_food[];
+
                 if (chunking.chunkSet().size() > 0) {
                     for (Chunk chunk : chunking.chunkSet()) {
+                        if(chunk.start()>pre){
+                            non_food=line1.substring(pre,chunk.start()-1).split(" ");
+                            for(String o:non_food){
+                                temp=o+"\t"+"O"+"\n";
+                            }
+                        }
+                        //last=chunk.end();
 
                         if ("FOOD".equals(chunk.type())) {
-                            temp = temp + "\t" + "FOOD";
+                            temp = temp + "\t" + "FOOD"+"\n";
                             System.out.println(temp);
                         } else {
-                            temp = temp + "\t" + "O";
+                            temp = temp + "\t" + "O"+"\n";
                         }
+                        pre=chunk.end();
                     }
                 } else {
-                    temp = temp + "\t" + "O";
+                    temp = temp + "\t" + "O"+"\n";
                 }
-                list.add(temp + "\n");
+                list.add(temp );
                 line1 = br.readLine();
             }
             WriteFile.writeTsv(destFile, list);

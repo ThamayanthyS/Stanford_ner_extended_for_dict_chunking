@@ -17,7 +17,7 @@ public class sample {
                 = new ExactDictionaryChunker(dictionary,
                 IndoEuropeanTokenizerFactory.INSTANCE,
                 true,true);
-        DictionaryChunker.chunk(dictionaryChunkerTT,"food pizza cake sfsd f sdf sd f sdf sd f sd fsfsdfsd f sdfsdfsdf sdfsdfsdf vfbvdfvdfbdfb");
+        DictionaryChunker.chunk(dictionaryChunkerTT,"pizza food pizza cake sfsd f sdf sd f sdf sd f sd fsfsdfsd f sdfsdfsdf sdfsdfsdf vfbvdfvdfbdfb");
 /*
         ProcessBuilder pb = new ProcessBuilder("java -cp stanford-ner.jar edu.stanford.nlp.process.PTBTokenizer sample/text/reviewlist.txt > sample/tok/reviewlist.tok");
         Map<String, String> env = pb.environment();
