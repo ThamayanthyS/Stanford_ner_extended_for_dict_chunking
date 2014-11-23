@@ -32,7 +32,7 @@ public class cleanDb {
             int x = 0;
 
             while (line1 != null && line1.length() != 0) {
-                if (line1.contains("\tFOOD\tFOOD")){//("\tO\tFOOD") ){//|| line1.contains("\tFOOD\tO")) {
+                if (line1.contains("\tFOOD\tO")){//("\tO\tFOOD") ){//|| line1.contains("\tFOOD\tO")) {
                     list.add(line1.split("\t")[0] + "\n");
                 }
                 line1 = br.readLine();
