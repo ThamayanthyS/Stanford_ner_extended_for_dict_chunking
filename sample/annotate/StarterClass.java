@@ -22,11 +22,11 @@ public class StarterClass {
     public static MapDictionary<String> dictionary = new MapDictionary<String>();
 
     public static void main(String[] args) {
-//        collectReviews();
+        collectReviews();
 //        tagReviews();
 //        findConflicts();
 //        clearDb();
-
+//        makeSentence();
     }
 
     public static void collectReviews() {
@@ -109,7 +109,7 @@ public class StarterClass {
 
                         if ("FOOD".equals(chunk.type())) {
                             if (line1.substring(chunk.start(), chunk.end()).length() > 0 || !line1.substring(chunk.start(), chunk.end()).equals(null))
-                            temp = temp + line1.substring(chunk.start(), chunk.end()) + "\t" + "FOOD" + "\n";
+                                temp = temp + line1.substring(chunk.start(), chunk.end()) + "\t" + "FOOD" + "\n";
                             System.out.println(temp);
                         }
 //                        else {
@@ -122,7 +122,7 @@ public class StarterClass {
                     non_food = line1.split(" ");
                     for (String o : non_food) {
                         if (o.length() > 0 || !o.equals(null))
-                        temp = temp + o + "\t" + "O" + "\n";
+                            temp = temp + o + "\t" + "O" + "\n";
                     }
                     pre = pre + line1.length();
                 }
@@ -136,5 +136,59 @@ public class StarterClass {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void makeSentence() {
+        String dest_sentence = "sample/text/sentence.txt";
+        String source_sentence = "sample/text/reviewlist.txt";
+
+        File dest_file = WriteFile.fileCreate(dest_sentence);
+        File source_file = WriteFile.fileCreate(source_sentence);
+
+        try {
+            br = new BufferedReader(new FileReader(source_file));
+            String line1 = br.readLine();
+
+            List<String> list = new ArrayList<String>();
+
+            while (line1 != null && line1.length() > 0) {
+                String[] sentences = line1.split(".");
+                for (String s : sentences) {
+                    ExactDictionaryChunker dictionaryChunkerFF
+                            = new ExactDictionaryChunker(dictionary,
+                            IndoEuropeanTokenizerFactory.INSTANCE,
+                            false, false);
+                    Chunking chunking = dictionaryChunkerFF.chunk(s);
+                    String temp = "FOOD\t[ ";
+                    int pre = 0;
+                    int last = 0;
+                    String non_food[];
+                    int chunk_size=chunking.chunkSet().size();
+
+                    if (chunk_size > 0) {
+                        for (Chunk chunk : chunking.chunkSet()) {
+
+                            if ("FOOD".equals(chunk.type())) {
+                               temp=temp+s.substring(chunk.start(),chunk.end())+" ";
+                            }
+                        }
+
+                    }else {
+                        temp=temp+"O ]";
+                    }
+                    temp="";
+                }
+
+                line1 = br.readLine();
+
+            }
+            WriteFile.writeTsv(dest_file, list);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
     }
 }
