@@ -22,11 +22,11 @@ public class StarterClass {
     public static MapDictionary<String> dictionary = new MapDictionary<String>();
 
     public static void main(String[] args) {
-        collectReviews();
+//        collectReviews();
 //        tagReviews();
 //        findConflicts();
 //        clearDb();
-//        makeSentence();
+        makeSentence();
     }
 
     public static void collectReviews() {
@@ -176,6 +176,7 @@ public class StarterClass {
                     }else {
                         temp=temp+"O ]";
                     }
+                    list.add(temp);
                     temp="";
                 }
 
