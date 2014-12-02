@@ -66,9 +66,11 @@
       <file leaf-file-name="StarterClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample/annotate/StarterClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65384614" vertical-offset="2159" max-vertical-offset="3655">
-              <caret line="157" column="42" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
-              <folding />
+            <state vertical-scroll-proportion="0.6433566" vertical-offset="3015" max-vertical-offset="3655">
+              <caret line="207" column="32" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+              <folding>
+                <element signature="e#5840#5848#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -980,9 +982,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample/annotate/StarterClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65384614" vertical-offset="2159" max-vertical-offset="3655">
-          <caret line="157" column="42" selection-start-line="157" selection-start-column="42" selection-end-line="157" selection-end-column="42" />
-          <folding />
+        <state vertical-scroll-proportion="0.6433566" vertical-offset="3015" max-vertical-offset="3655">
+          <caret line="207" column="32" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+          <folding>
+            <element signature="e#5840#5848#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -139,79 +139,79 @@ public class StarterClass {
         }
     }
 
-//    public static void makeSentence() {
-//        String dest_sentence = "sample/text/sentence.txt";
-//        String source_sentence = "sample/text/reviewlist.txt";
+    public static void makeSentence() {
+        String dest_sentence = "sample/text/sentence.txt";
+        String source_sentence = "sample/text/reviewlist.txt";
+
+        File dest_file = WriteFile.fileCreate(dest_sentence);
+        File source_file = WriteFile.fileCreate(source_sentence);
+
+        new ReadFoodItem().readReviewFromDB(dictionary);
+
+        try {
+            br = new BufferedReader(new FileReader(source_file));
+            String line1 = br.readLine();
+            System.out.println("line" + line1);
+            int a = 0;
+            List<String> list = new ArrayList<String>();
+            ExactDictionaryChunker dictionaryChunkerFF
+                    = new ExactDictionaryChunker(dictionary,
+                    IndoEuropeanTokenizerFactory.INSTANCE,
+                    false, false);
+
+            while (line1 != null) {
+                if (line1 != "\n") {
+                    String[] sentences = line1.split("\\.");
+                System.out.println("line"+line1);
+                    for (String s : sentences) {
+                        s.trim();
+                        if(s.startsWith(" ")){
+                            s=s.substring(1,s.length());
+                        }
+                        String temp = "FOOD\t[ ";
+                        if (s != null && s.length() > 1 ) {
+                            System.out.println("sentence" + s);
+
+
+                            Chunking chunking = dictionaryChunkerFF.chunk(s);
+
+
+                            int chunk_size = chunking.chunkSet().size();
+
+                            if (chunk_size > 0) {
+                                int count = 0;
+                                for (Chunk chunk : chunking.chunkSet()) {
+                                    count++;
+                                    if ("FOOD".equals(chunk.type())) {
+                                        if (count > 1)
+                                            temp = temp + ", ";
+                                        temp = temp + s.substring(chunk.start(), chunk.end());
+                                    }
+                                }
+
+                            } else {
+                                temp = temp + "O ";
+                            }
+                            list.add(temp + " ]\t" + s + "\n");
+                            temp = "";
+                        }
+                    }
+
+                    line1 = br.readLine();
+//                line1 = "pizza pizza";
 //
-//        File dest_file = WriteFile.fileCreate(dest_sentence);
-//        File source_file = WriteFile.fileCreate(source_sentence);
-//
-//        new ReadFoodItem().readReviewFromDB(dictionary);
-//
-//        try {
-//            br = new BufferedReader(new FileReader(source_file));
-//            String line1 = br.readLine();
-//            System.out.println("line" + line1);
-//            int a = 0;
-//            List<String> list = new ArrayList<String>();
-//            ExactDictionaryChunker dictionaryChunkerFF
-//                    = new ExactDictionaryChunker(dictionary,
-//                    IndoEuropeanTokenizerFactory.INSTANCE,
-//                    false, false);
-//
-//            while (line1 != null) {
-//                if (line1 != "\n") {
-//                    String[] sentences = line1.split("\\.");
-//                System.out.println("line"+line1);
-//                    for (String s : sentences) {
-//                        s.trim();
-//                        if(s.startsWith(" ")){
-//                            s=s.substring(1,s.length());
-//                        }
-//                        String temp = "FOOD\t[ ";
-//                        if (s != null && s.length() > 1 ) {
-//                            System.out.println("sentence" + s);
-//
-//
-//                            Chunking chunking = dictionaryChunkerFF.chunk(s);
-//
-//
-//                            int chunk_size = chunking.chunkSet().size();
-//
-//                            if (chunk_size > 0) {
-//                                int count = 0;
-//                                for (Chunk chunk : chunking.chunkSet()) {
-//                                    count++;
-//                                    if ("FOOD".equals(chunk.type())) {
-//                                        if (count > 1)
-//                                            temp = temp + ", ";
-//                                        temp = temp + s.substring(chunk.start(), chunk.end());
-//                                    }
-//                                }
-//
-//                            } else {
-//                                temp = temp + "O ";
-//                            }
-//                            list.add(temp + " ]\t" + s + "\n");
-//                            temp = "";
-//                        }
-//                    }
-//
-//                    line1 = br.readLine();
-////                line1 = "pizza pizza";
-////
-////                a++;
-////                if(a==10)
-////                    line1=null;
-//                }
-//            }
-//            WriteFile.writeTsv(dest_file, list);
-//        } catch (FileNotFoundException e) {
-//            e.printStackTrace();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//
-//
-//    }
+//                a++;
+//                if(a==10)
+//                    line1=null;
+                }
+            }
+            WriteFile.writeTsv(dest_file, list);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+    }
 }
